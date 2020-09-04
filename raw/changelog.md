@@ -9,6 +9,7 @@ we keep a (manually updated) changelist.
 
 * GS, added version info to frontpage and footer, fixing [#8](https://github.com/isaqb-org/examination-foundation/issues/8)
 * GS, updated layout of question headers (removing minus-sign), [#10](https://github.com/isaqb-org/examination-foundation/issues/10)
+* GS, added number of achievable points
 
 #### September 3rd 2020
 
