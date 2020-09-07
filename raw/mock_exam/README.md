@@ -7,7 +7,7 @@ As we maintain binary documents in this repo, we keep a (manually updated) chang
 - Rename "Sample Exam" to "Mock Exam"
 - Adjust directory names accordingly
 - Remove empty pages
-
+- Fix broken table header
 
 ### 2020.1-rev3 (September 4, 2020)
 - Adjust layout of front page (remove the blue color). Closes [#1](https://github.com/isaqb-org/examination-foundation/issues/1).
@@ -21,3 +21,8 @@ As we maintain binary documents in this repo, we keep a (manually updated) chang
 - - -
 
 ## Mock Exam Answers
+### 2020.1-rev3
+- Remove highlight of table header
+- Replace Sample with Mock
+- Fix answers for question 6
+
