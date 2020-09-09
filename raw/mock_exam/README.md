@@ -1,4 +1,4 @@
-# Change History for Sampe Exam Questions and Answers
+# Change History for Mock Exam Questions and Answers
 
 As we maintain binary documents in this repo, we keep a (manually updated) change list.
 
