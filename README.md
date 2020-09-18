@@ -6,8 +6,8 @@ Contains several documents that provide information about the examination of the
 ## Updating documents
 
 1. update the revision number within the documents - **on both title page and footer!**
-1. commit the new version into the "raw" directory (docx and/or pptx)
-2. convert to PDF and commit the PDF-file into "docs" directory
+2. commit the new version into the "raw" directory (docx and/or pptx)
+3. convert to PDF and commit the PDF-file into "docs" directory
 
 ## Create new translation
 
