@@ -18,3 +18,4 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 */.DS_Store
+docs/mock_exam/.DS_Store
