@@ -19,3 +19,4 @@ Backup of *.doc*
 *.~vsd*
 */.DS_Store
 docs/mock_exam/.DS_Store
+.DS_Store
