@@ -10,8 +10,10 @@ This directory contains _only_ released versions of the various documents of thi
 - [Examination Rules English](examination_rules/examination-rules-en.pdf)
 
 ## Mock Exam
+- [Mock Exam Questions German](mock_exam/Mock-Exam-Fragen-DE.pdf)
 - [Mock Exam Questions English](mock_exam/Mock-Exam-Questions-EN.pdf)
 - [Mock Exam Questions Spanish](mock_exam/Mock-Exam-Questions-ES.pdf)
+- [Mock Exam Answers German](mock_exam/Mock-Exam-Antworten-DE.pdf)
 - [Mock Exam Answers English](mock_exam/Mock-Exam-Answers-EN.pdf)
 - [Mock Exam Answers Spanish](mock_exam/Mock-Exam-Answers-ES.pdf)
 
