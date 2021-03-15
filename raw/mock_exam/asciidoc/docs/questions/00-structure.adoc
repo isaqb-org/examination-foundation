@@ -1,4 +1,3 @@
-// header file for curriculum section 1: ERSTE LERNEINHEIT
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
@@ -14,3 +13,4 @@
 
 include::question01.adoc[{include_configuration}]
 
+include::question02.adoc[{include_configuration}]
