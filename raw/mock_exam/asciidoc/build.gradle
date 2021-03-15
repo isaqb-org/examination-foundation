@@ -21,7 +21,7 @@ ext {
   project.version = project.file("./document.version").text
   curriculumFileName = "mock-exam"
   addSuffixToCurriculum = { suffix ->
-    for (extension in ["html", "pdf"]) {
+    for (extension in [ "pdf"]) {
       File source = new File("${buildDir}/${curriculumFileName}.${extension}")
       File target = new File("${buildDir}/${curriculumFileName}${suffix}.${extension}")
 
@@ -35,12 +35,12 @@ class RenderCurriculumTask extends AsciidoctorTask {
   RenderCurriculumTask(String curriculumFileName, String versionDate, String language, boolean withRemarks) {
     sourceDir = new File("./docs/")
     sources {
-      include "index.adoc"
+      
       include "${curriculumFileName}.adoc"
     }
     outputDir = new File("./build/")
     separateOutputDirs = false
-    backends 'pdf', 'html5'
+    backends 'pdf'
 
     def fileVersion = project.version.trim() + "-" + language
 
@@ -52,7 +52,6 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'document-version'  : fileVersion + "-" + versionDate,
       'currentDate'       : versionDate,
       'language'          : language,
-      'withRemarks'       : withRemarks,
       'withAnswers'       : true,
       'curriculumFileName': curriculumFileName,
       'debug_adoc'        : false,
@@ -76,13 +75,6 @@ task renderNoRemarksDE(type: RenderCurriculumTask,
   }
 }
 
-task renderWithRemarksDE(type: RenderCurriculumTask,
-     constructorArgs: [curriculumFileName, versionDate, "DE", true]) {
-  doLast {
-    addSuffixToCurriculum("-remarks-de")
-  }
-}
-
 task renderNoRemarksEN(type: RenderCurriculumTask,
     constructorArgs: [curriculumFileName, versionDate, "EN", false]) {
   doLast {
@@ -90,13 +82,5 @@ task renderNoRemarksEN(type: RenderCurriculumTask,
   }
 }
 
-task renderWithRemarksEN(type: RenderCurriculumTask,
-     constructorArgs: [curriculumFileName, versionDate, "EN", true]) {
-  doLast {
-    addSuffixToCurriculum("-remarks-en")
-  }
-}
-
-apply from: 'scripts/includeLearningObjectives.gradle'
 
 defaultTasks "buildDocs"
