@@ -53,7 +53,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'currentDate'       : versionDate,
       'language'          : language,
       'withRemarks'       : withRemarks,
-      'question-or-answer': '* [x]',
+      'withAnswers'       : true,
       'curriculumFileName': curriculumFileName,
       'debug_adoc'        : false,
       'pdf-stylesdir'     : '../pdf-theme/themes',
