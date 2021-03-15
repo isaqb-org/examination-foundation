@@ -1,0 +1,46 @@
+// tag::DE[]
+=== Frage 4 
+**ID: Q-17-13-02**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Frage: 
+|Wählen Sie für jede Zeile „Geeignet“ oder „Nicht geeignet“ aus. 
+| 2 Punkte
+|===
+
+Bei Ihrem Projekt arbeiten drei Architekt:innen und sieben Entwickler an der Dokumentation der Softwarearchitektur. Welche Methoden eignen sich zur Gewährleistung einer konsistenten und zweckmäßigen Dokumentation und welche nicht?
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| Geeignet
+| Nicht geeignet
+|
+|
+
+| {y} 
+| {n}
+| (a)
+| Die/der leitende Architekt:in koordiniert die Erstellung der Dokumentation.
+
+| {y}
+| {n}
+| (b) 
+| Für die Dokumentation werden identische Vorlagen verwendet.
+
+
+| {n}
+| {y} 
+| (c) 
+| Alle Teile der Dokumentation werden automatisch aus dem Quellcode extrahiert.
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+

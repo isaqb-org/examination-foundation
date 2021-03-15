@@ -1,19 +1,18 @@
 :doctype: book
 :icons: font
-:sectnumlevels: 2
+:sectnumlevels: 1
 :imagesdir: images
 :chapter-label: 
 
-// if the attribute ":withAnswers:" is set, we amend every content-include
-// by ";REMARK", so that the sections tagged "REMARK" are always included.
+// if the attribute ":withAnswers:" a document with explicit ANSWERS is created
 :withAnswers!:
 :answers:
-:n: &#2610;
-:y: &#2610;
+:n: [&nbsp;&nbsp;]
+:y: [&nbsp;&nbsp;]
 ifdef::withAnswers[]
 :answers: 
-:n: &#2610;
-:y: &#2612;
+:n: [&nbsp;&nbsp;]
+:y: [X]
 endif::withAnswers[]
 
 

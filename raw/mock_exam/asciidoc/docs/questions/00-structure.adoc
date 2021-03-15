@@ -11,6 +11,12 @@
 // end::EN[]
 
 
+// A-Question
 include::question01.adoc[{include_configuration}]
 
+// P-Question
 include::question02.adoc[{include_configuration}]
+
+<<<
+// K-Question
+include::question04.adoc[{include_configuration}]

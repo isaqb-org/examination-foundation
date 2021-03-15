@@ -1,18 +1,31 @@
 // tag::DE[]
-Wie viele Definitionen des Begriffes "Softwarearchitektur" gibt es?
 
+=== Frage 1 
+**ID: Q-20-04-01**
 
-
-[stripes=none, frame=none, grid=rows, cols="1a,8"]
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|A-Frage: 
+| Wählen Sie eine Option aus
+| 1 Punkt
 |===
 
-| (a) {n}
+
+Wie viele Definitionen des Begriffes "Softwarearchitektur" gibt es?
+
+[cols="1a,1,8", frame="none", grid="none"]
+|===
+
+| {n} 
+| (a)
 | Genau eine für alle Arten von Systemen.
 
-| (b) {n}
+| {n}
+| (b) 
 | Eine für jede Art von Softwaresystem (z.\ B. "eingebettet", "Echtzeit", "Entscheidungsunterstützung", "Web", "Batch", …)
 
-| (c) {y}
+| {y}
+| (c) 
 | Ein Dutzend oder mehr unterschiedliche Definitionen.
 
 |===
