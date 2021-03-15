@@ -8,12 +8,12 @@
 // by ";REMARK", so that the sections tagged "REMARK" are always included.
 :withAnswers!:
 :answers:
-:n: ❏ 
-:y: ❏ 
+:n: &#2610;
+:y: &#2610;
 ifdef::withAnswers[]
 :answers: 
-:n: ❏ 
-:y: ✓ 
+:n: &#2610;
+:y: &#2612;
 endif::withAnswers[]
 
 
