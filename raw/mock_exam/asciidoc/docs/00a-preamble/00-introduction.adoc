@@ -1,0 +1,9 @@
+// tag::DE[]
+== Einführung: Allgemeines zum iSAQB Advanced Level
+// end::DE[]
+
+// tag::EN[]
+== Introduction: General information about the iSAQB Advanced Level
+// end::EN[]
+
+include::03-prerequisites.adoc[{include_configuration}]

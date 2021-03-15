@@ -1,0 +1,27 @@
+// tag::DE[]
+Wie viele Definitionen von "Softwarearchitektur" gibt es?
+
+
+
+[stripes=none, frame=none, grid=rows, cols="1a,8"]
+|===
+
+| {question-or-answer} (a)
+| Genau eine für alle Arten von Systemen.
+
+| * [ ] (b)
+| Eine für jede Art von Softwaresystem (z.\ B. "eingebettet", "Echtzeit", "Entscheidungsunterstützung", "Web", "Batch", …)
+
+| * [ ] (c)
+| Ein Dutzend oder mehr unterschiedliche Definitionen.
+
+|===
+
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+

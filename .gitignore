@@ -20,3 +20,13 @@ Backup of *.doc*
 */.DS_Store
 docs/mock_exam/.DS_Store
 .DS_Store
+
+.DS_Store
+
+.gradle
+build
+.idea
+advanced-template.iml
+.settings/org.eclipse.buildship.core.prefs
+.project
+
