@@ -1,22 +1,23 @@
 import org.asciidoctor.gradle.AsciidoctorTask
+
 import java.text.SimpleDateFormat
 
 buildscript {
-  repositories {
-    mavenCentral()
-  }
+    repositories {
+        mavenCentral()
+    }
 
   dependencies {
     classpath "org.asciidoctor:asciidoctorj-pdf:1.5.3"
   }
 }
 plugins {
-  id "org.asciidoctor.convert" version "1.6.0"
+    id "org.asciidoctor.convert" version "1.6.0"
 }
 
 ext {
-  today = new Date()
-  versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
+    today = new Date()
+    versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
 
   project.version = project.file("./document.version").text
   curriculumFileName = "mock-exam"
