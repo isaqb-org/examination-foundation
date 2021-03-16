@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Frage 4 
+=== Frage 4
 **ID: Q-17-13-02**
 
 [cols="2,8,2", frame=ends, grid=rows]
@@ -9,7 +9,7 @@
 | 2 Punkte
 |===
 
-Bei Ihrem Projekt arbeiten drei Architekt:innen und sieben Entwickler an der Dokumentation der Softwarearchitektur. Welche Methoden eignen sich zur Gewährleistung einer konsistenten und zweckmäßigen Dokumentation und welche nicht?
+Bei Ihrem Projekt arbeiten drei Architekt:innen und sieben Entwickler:innen an der Dokumentation der Softwarearchitektur. Welche Methoden eignen sich zur Gewährleistung einer konsistenten und zweckmäßigen Dokumentation und welche nicht?
 
 [cols="2a,2a,1, 7", frame=none, grid=none]
 |===
