@@ -27,4 +27,10 @@ endif::withAnswers[]
 // additional markers might be configured here!
 :include_configuration: tags=**;{language};!*
 
+ifeval::["{language}" == "DE"]
+:curriculum-header-title: iSAQB(R) CPSA-F(R) Beispielprüfung
+endif::[]
 
+ifeval::["{language}" == "EN"]
+:curriculum-header-title: iSAQB(R) CPSA-F(R) Mock Exam
+endif::[]
