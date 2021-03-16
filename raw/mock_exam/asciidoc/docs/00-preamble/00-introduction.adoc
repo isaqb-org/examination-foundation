@@ -1,5 +1,5 @@
 // tag::DE[]
-== Erläuterungen zur Beispielprüfung Certified Professional for Software Architecture - Foundation Level (CPSA-F(R))
+== Erläuterungen zur Beispielprüfung Certified Professional for Software Architecture – Foundation Level (CPSA-F^(R)^)
 
 Die vorliegende Prüfung ist eine Beispielprüfung, welche in Form und Umfang an die Zertifizierungsprüfung des Certified Professional for Software Architecture - Foundation Level (CPSA-F®) angelehnt ist. Sie dient der Veranschaulichung der echten iSAQB® CPSA®-Prüfung sowie der entsprechenden Prüfungsvorbereitung.
 
