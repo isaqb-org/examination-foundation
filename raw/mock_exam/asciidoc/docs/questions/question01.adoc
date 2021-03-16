@@ -5,7 +5,7 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|A-Frage: 
+| A-Frage:
 | Wählen Sie eine Option aus
 | 1 Punkt
 |===
