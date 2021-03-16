@@ -3,13 +3,11 @@
 include::config/setup.adoc[]
 
 ifeval::["{language}" == "DE"]
-= Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulpass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
-:toc: left
+= Beispielprüfung: pass:q[<br><br>]iSAQB^(R)^ Certified Professional forpass:q[<br>]Software Architecture –pass:q[<br>]Foundation Level (CPSA-F)^(R)^
 endif::[]
 
 ifeval::["{language}" == "EN"]
-= Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulepass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
-:toc: left
+= Mock Exam:pass:q[<br>]iSAQB^(R)^ Certified Professional forpass:q[<br>]Software Architecture –pass:q[<br>]Foundation Level (CPSA-F)^(R)^
 endif::[]
 
 // document-version fallback, should usually be overwritten by the build process,
