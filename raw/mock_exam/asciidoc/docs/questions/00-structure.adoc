@@ -25,3 +25,11 @@ include::question02.adoc[{include_configuration}]
 
 // K-Question
 include::question04.adoc[{include_configuration}]
+
+// template questions - to be removed in final document
+
+include::template-A-question.adoc[{include_configuration}]
+
+include::template-P-question.adoc[{include_configuration}]
+
+include::template-K-question.adoc[{include_configuration}]
