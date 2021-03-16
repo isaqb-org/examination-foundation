@@ -19,68 +19,78 @@ ext {
     today = new Date()
     versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
 
-  project.version = project.file("./document.version").text
-  curriculumFileName = "mock-exam"
-  addSuffixToCurriculum = { suffix ->
-    for (extension in [ "pdf"]) {
-      File source = new File("${buildDir}/${curriculumFileName}.${extension}")
-      File target = new File("${buildDir}/${curriculumFileName}${suffix}.${extension}")
+    project.version = project.file("./document.version").text
+    fileName = "mock-exam"
+    addSuffixToMockExam = { suffix ->
+        File source = new File("${buildDir}/${fileName}.pdf")
+        File target = new File("${buildDir}/${fileName}${suffix}.pdf")
 
-      source.renameTo(target)
+        source.renameTo(target)
     }
-  }
 }
 
-class RenderCurriculumTask extends AsciidoctorTask {
-  @Inject
-  RenderCurriculumTask(String curriculumFileName, String versionDate, String language, boolean withRemarks) {
-    sourceDir = new File("./docs/")
-    sources {
-      
-      include "${curriculumFileName}.adoc"
+class RenderMockExamTask extends AsciidoctorTask {
+    @Inject
+    RenderMockExamTask(String fileName, String versionDate, String language, boolean withAnswers) {
+        sourceDir = new File("./docs/")
+        sources {
+            include "${fileName}.adoc"
+        }
+        outputDir = new File("./build/")
+        separateOutputDirs = false
+        backends 'pdf'
+
+        def fileVersion = project.version.trim() + "-" + language
+
+        attributes = [
+                'icons'           : 'font',
+                'version-label'   : '',
+                'revnumber'       : fileVersion,
+                'revdate'         : versionDate,
+                'document-version': fileVersion + "-" + versionDate,
+                'currentDate'     : versionDate,
+                'language'        : language,
+                'withAnswers'     : withAnswers,
+                'pdf-stylesdir'   : '../pdf-theme/themes',
+                'pdf-fontsdir'    : '../pdf-theme/fonts',
+                'pdf-style'       : 'isaqb'
+        ]
     }
-    outputDir = new File("./build/")
-    separateOutputDirs = false
-    backends 'pdf'
-
-    def fileVersion = project.version.trim() + "-" + language
-
-    attributes = [
-      'icons'             : 'font',
-      'version-label'     : '',
-      'revnumber'         : fileVersion,
-      'revdate'           : versionDate,
-      'document-version'  : fileVersion + "-" + versionDate,
-      'currentDate'       : versionDate,
-      'language'          : language,
-      'withAnswers'       : true,
-      'curriculumFileName': curriculumFileName,
-      'debug_adoc'        : false,
-      'pdf-stylesdir'     : '../pdf-theme/themes',
-      'pdf-fontsdir'      : '../pdf-theme/fonts',
-      'pdf-style'         : 'isaqb'
-    ]
-  }
 }
 
 task buildDocs {
-  group 'Documentation'
-  description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderNoRemarksDE", "renderNoRemarksEN"
+    group 'Documentation'
+    description 'Grouping task for generating all languages in several formats'
+    dependsOn "renderQuestionsOnlyDE", "renderQuestionsAndAnswersDE", "renderQuestionsOnlyEN", "renderQuestionsAndAnswersEN"
 }
 
-task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumFileName, versionDate, "DE", false]) {
-  doLast {
-    addSuffixToCurriculum("-de")
-  }
+task renderQuestionsOnlyDE(type: RenderMockExamTask,
+        constructorArgs: [fileName, versionDate, "DE", false]) {
+    doLast {
+        addSuffixToMockExam("-questions-de")
+    }
 }
 
-task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumFileName, versionDate, "EN", false]) {
-  doLast {
-    addSuffixToCurriculum("-en")
-  }
+task renderQuestionsAndAnswersDE(type: RenderMockExamTask,
+        constructorArgs: [fileName, versionDate, "DE", true]) {
+    doLast {
+        addSuffixToMockExam("-answers-de")
+    }
+}
+
+
+task renderQuestionsOnlyEN(type: RenderMockExamTask,
+        constructorArgs: [fileName, versionDate, "EN", false]) {
+    doLast {
+        addSuffixToMockExam("-questions-en")
+    }
+}
+
+task renderQuestionsAndAnswersEN(type: RenderMockExamTask,
+        constructorArgs: [fileName, versionDate, "EN", true]) {
+    doLast {
+        addSuffixToMockExam("-answers-en")
+    }
 }
 
 
