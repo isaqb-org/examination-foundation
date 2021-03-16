@@ -7,9 +7,9 @@ buildscript {
         mavenCentral()
     }
 
-  dependencies {
-    classpath "org.asciidoctor:asciidoctorj-pdf:1.5.3"
-  }
+    dependencies {
+        classpath "org.asciidoctor:asciidoctorj-pdf:1.5.4"
+    }
 }
 plugins {
     id "org.asciidoctor.convert" version "1.6.0"
