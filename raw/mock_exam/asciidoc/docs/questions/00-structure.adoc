@@ -14,9 +14,14 @@
 // A-Question
 include::question01.adoc[{include_configuration}]
 
+// Dünne Haarlinie zwischen den Fragen
+- - -
+
 // P-Question
 include::question02.adoc[{include_configuration}]
 
+// Seitenumbruch
 <<<
+
 // K-Question
 include::question04.adoc[{include_configuration}]
