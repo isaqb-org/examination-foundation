@@ -6,11 +6,11 @@
 
 // if the attribute ":withAnswers:" a document with explicit ANSWERS is created
 :withAnswers!:
-:answers:
+:explanation:
 :n: [&nbsp;&nbsp;]
 :y: [&nbsp;&nbsp;]
 ifdef::withAnswers[]
-:answers: 
+:explanation: ;EXPLANATION
 :n: [&nbsp;&nbsp;]
 :y: [X]
 endif::withAnswers[]
@@ -20,12 +20,10 @@ endif::withAnswers[]
 // currently only DE and EN are supported
 :language: DE
 
-
-
 // ":include_configuration:" always consists of the language, optionally
 // followed by ";REMARK"
 // additional markers might be configured here!
-:include_configuration: tags=**;{language};!*
+:include_configuration: tags=**;{language}{explanation};!*
 
 ifeval::["{language}" == "DE"]
 :curriculum-header-title: iSAQB(R) CPSA-F(R) Beispielprüfung
