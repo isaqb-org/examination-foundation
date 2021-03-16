@@ -1,7 +1,7 @@
 // tag::DE[]
 == Erläuterungen zur Beispielprüfung Certified Professional for Software Architecture – Foundation Level (CPSA-F^(R)^)
 
-Die vorliegende Prüfung ist eine Beispielprüfung, welche in Form und Umfang an die Zertifizierungsprüfung des Certified Professional for Software Architecture - Foundation Level (CPSA-F®) angelehnt ist. Sie dient der Veranschaulichung der echten iSAQB® CPSA®-Prüfung sowie der entsprechenden Prüfungsvorbereitung.
+Die vorliegende Prüfung ist eine Beispielprüfung, welche in Form und Umfang an die Zertifizierungsprüfung des Certified Professional for Software Architecture - Foundation Level (CPSA-F^(R)^) angelehnt ist. Sie dient der Veranschaulichung der echten iSAQB^(R)^ CPSA^(R)^-Prüfung sowie der entsprechenden Prüfungsvorbereitung.
 
 Die Beispielprüfung besteht aus 39 Multiple-Choice-Fragen, welche je nach Schwierigkeitsgrad mit 1 bis 2 Punkten bewertet werden können. Es müssen zum Bestehen der Prüfung mindestens 60 Prozent erreicht werden. In dieser Probeprüfung können 50,0 Punkte erreicht werden, zum Bestehen wären 30,0 Punkte erforderlich.
 
@@ -22,7 +22,7 @@ Zur genaueren Erläuterung der Fragetypen und Punkteverteilung stehen weitere In
 Die Bearbeitungsdauer beträgt 75 Minuten für Muttersprachler und 90 Minuten für Nicht- Muttersprachler. Um eine möglichst authentische Prüfungsvorbereitung zu gewährleisten, sollte die Bearbeitungszeit eingehalten sowie auf jegliche Hilfsmittel (wie Seminarunterlagen, Bücher, Internet etc.) verzichtet werden.
 
 Im Anschluss erfolgt die Auswertung der Prüfung mit Hilfe der Musterlösung.
-Sofern der iSAQB® e.V. als Quelle und Copyright-Inhaber angegeben wird, darf die vorliegende Beispielprüfung im Rahmen von Schulungen eingesetzt, zur Prüfungsvorbereitung genutzt oder unentgeltlich weitergegeben werden. 
+Sofern der iSAQB^(R)^ e.V. als Quelle und Copyright-Inhaber angegeben wird, darf die vorliegende Beispielprüfung im Rahmen von Schulungen eingesetzt, zur Prüfungsvorbereitung genutzt oder unentgeltlich weitergegeben werden. 
 
 Es ist ausdrücklich untersagt, diese Prüfungsfragen in einer echten Prüfung zu verwenden.
 
