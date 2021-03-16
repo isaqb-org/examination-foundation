@@ -1,8 +1,8 @@
 :doctype: book
 :icons: font
-:sectnumlevels: 1
 :imagesdir: images
-:chapter-label: 
+:sectnums!:
+:chapter-label:
 
 // if the attribute ":withAnswers:" a document with explicit ANSWERS is created
 :withAnswers!:
