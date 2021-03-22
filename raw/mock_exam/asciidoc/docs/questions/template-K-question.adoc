@@ -39,14 +39,14 @@
 // end::DE[]
 
 // tag::EN[]
-=== Frage X
+=== Question X
 **ID: Q-17**
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 |K-Question: 
 |Select "appropriate“ or „not appropriate" for every line. 
-| 2 Points
+| 2 points
 |===
 
 <question>
