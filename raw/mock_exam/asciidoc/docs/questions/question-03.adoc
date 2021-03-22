@@ -1,77 +1,95 @@
 // tag::DE[]
-=== Frage X 
-**ID: Q-20-**
+=== Frage 3
+**ID: Q-17-13-01**
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Frage: 
-| Wählen Sie die **XX besten** Aspekte aus
-| 1 Punkt
+| Wählen Sie die **vier besten** Antworten aus
+| 2 Punkte
 |===
 
-<fragetext>
+Welche VIER der folgenden Aussagen zu (Querschnitts-) Konzepten sind am zutreffendsten?
 
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {y} 
+| {n}
 | (a)
-| option 1
+| Durch die einheitliche Verwendung von Konzepten wird die Kopplung zwischen Bausteinen verringert.
 
-| {y}
+| {n}
 | (b) 
-| option 1
+| Durch die Definition von geeigneten Konzepten wird Mustertreue der Architektur sichergestellt.
 
 | {y}
 | (c) 
-| option 3
+| Eine einheitliche Ausnahmebehandlung wird am einfachsten erreicht, wenn die Architekten mit den Entwicklern vor der Implementierung ein geeignetes Konzept vereinbaren.
 
 | {n}
 | (d) 
-| option 4
+| Für jedes Qualitätsziel sollte es ein explizit dokumentiertes Konzept geben.
 
-| {n}
+| {y}
 | (e) 
-| option 5
+| Konzepte sind ein Mittel zur Erhöhung der Konsistenz.
+
+| {y}
+| (f)
+| Ein Konzept kann Einschränkungen für die Umsetzung vieler Bausteine definieren.
+
+| {y}
+| (g)
+| Ein Konzept kann durch einen einzigen Baustein umgesetzt werden.
 |===
 
 // end::DE[]
 
 // tag::EN[]
-=== Frage X 
-**ID: Q-20-**
+=== Question 3
+**ID: Q-17-13-01**
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Question: 
-| Select the **XX** best fitting answers
-| 1 Punkt
+| Select the **four** best fitting answers
+| 2 points
 |===
 
-<question>
+Which FOUR of the following statements about (crosscutting) concepts are most appropriate?
 
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {y} 
+| {n}
 | (a)
-| option 1
-
-| {y}
-| (b) 
-| option 1
-
-| {y}
-| (c) 
-| option 3
+| Uniform usage of concepts reduces coupling between building blocks.
 
 | {n}
-| (d) 
-| option 4
+| (b)
+| The definition of appropriate concepts ensures the pattern compliance of the architecture.
+
+
+| {y}
+| (c)
+| Uniform exception handling is most easily achieved when architects agree with developers upon a suitable concept prior to implementation.
 
 | {n}
-| (e) 
-| option 5
+| (d)
+| For each quality goal there should be an explicitly documented concept. Concepts are a means to increase consistency.
+
+
+| {y}
+| (e)
+| Concepts are a means to increase consistency.
+
+| {y}
+| (f)
+| A concept can define constraints for the implementation of many building blocks.
+
+| {y}
+| (g)
+| A concept might be implemented by a single building block.
 |===
 
 // end::EN[]
