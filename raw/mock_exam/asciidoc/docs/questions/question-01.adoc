@@ -27,12 +27,40 @@ Wie viele Definitionen des Begriffes "Softwarearchitektur" gibt es?
 | {y}
 | (c) 
 | Ein Dutzend oder mehr unterschiedliche Definitionen.
-
 |===
 
 // end::DE[]
 
 // tag::EN[]
+=== Question 1
+**ID: Q-20-04-01**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| A-Question:
+| Select one option
+| 1 point
+|===
+
+
+How many definitions of “software architecture” exist?
+
+[cols="1a,1,8", frame="none", grid="none"]
+|===
+
+| {n}
+| (a)
+| Exactly one for all kinds of systems.
+
+| {n}
+| (b)
+| One for every kind of software system (e.g. “embedded”, “real-time”, “decision support”, “web”, “batch”, ...).
+
+| {y}
+| (c)
+| A dozen or more different definitions.
+
+|===
 
 // end::EN[]
 

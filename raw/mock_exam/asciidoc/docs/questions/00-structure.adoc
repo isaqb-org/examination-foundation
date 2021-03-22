@@ -11,20 +11,26 @@
 // end::EN[]
 
 
-// A-Question
-include::question01.adoc[{include_configuration}]
+include::question-01.adoc[{include_configuration}]
 
 // Dünne Haarlinie zwischen den Fragen
+// thin hairling between questions
 - - -
 
-// P-Question
-include::question02.adoc[{include_configuration}]
+include::question-02.adoc[{include_configuration}]
 
-// Seitenumbruch
+// manueller Seitenumbruch
+// manual pagebreak
 <<<
 
-// K-Question
-include::question04.adoc[{include_configuration}]
+include::question-03.adoc[{include_configuration}]
+- - -
+include::question-04.adoc[{include_configuration}]
+- - -
+include::question-05.adoc[{include_configuration}]
+- - -
+include::question-06.adoc[{include_configuration}]
+- - -
 
 // template questions - to be removed in final document
 
