@@ -30,5 +30,33 @@ Es ist ausdrücklich untersagt, diese Prüfungsfragen in einer echten Prüfung z
 
 // tag::EN[]
 == Introduction: General information about the iSAQB Advanced Level
+Explanations to the mock exam Certified Professional for Software Architecture - Foundation Level (CPSA-F®)
+This examination is a mock exam, which is based on the certification exam of the Certified Professional for Software Architecture - Foundation Level (CPSA-F®) in form and scope. It serves to illustrate the real iSAQB® CPSA® examination as well as to prepare for the corresponding exam.
+The mock exam consists of 39 multiple-choice questions, which can be evaluated with 1 or 2 points depending on the level of difficulty. 
+At least 60 percent must be achieved to pass the exam.
+
+50.0 points can be achieved in this mock examination, you would need 30.0 points to pass.
+
+The following general rules apply: 
+Correct answers result in plus points, incorrect answers result in a deduction of points, but only with regard to the respective question. If the wrong answer to a question leads to a negative score, this question is evaluated with a total of 0 points.
+The multiple-choice questions of the mock exam are divided into three types of questions:
+
+**A-Questions (Single Choice, Single Correct Answer):**
+Select the only correct answer to a question from the list of possible answers. There is only one correct answer. You receive the specified score for selecting the correct answer. Depending on the level of difficulty, you can achieve a score of 1 or 2 points.
+
+**P-Questions (Pick-from-many, Pick Multiple):**
+Select the number of correct answers given in the text from the list of possible answers to a question. Select just as many answers as are required in the introductory text. You receive 1/n of the total points for each correct answer. For each incorrect cross, 1/n of the points are deducted. The score is 1 or 2 points depending on the level of difficulty.
+
+**K-Questions (Allocation Questions, Choose Category):**
+For a question, select the correct of the two options for each answer choice ("correct" or "incorrect" or "applicable" or "not applicable"). You will receive 1/n of the points for each correctly placed cross. Incorrectly placed crosses result in the deduction of 1/n of the points. If NO answer is selected in a line, there are neither points nor deductions. The score is 1 or 2 points depending on the level of difficulty.
+
+For a more detailed explanation of the question types and scoring system, further information is available in the CPSA-F examination rules.
+
+The allowed time is 75 minutes for native speakers and 90 minutes for non-native speakers. In order to ensure that the preparation for the exam is as authentic as possible, the processing time should be adhered to and any aids (such as seminar materials, books, internet, etc.) should not be used.
+The exam can subsequently be evaluated using the solution for this mock exam.
+Given that the iSAQB® e.V. is indicated as source and copyright holder, the present mock exam may be used in the context of training courses, for exam preparation or it may be passed on free of charge.
+
+However, it is explicitly prohibited to use these exam questions in a real examination.
+
 // end::EN[]
 
