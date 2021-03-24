@@ -17,7 +17,7 @@ Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die im Text v
 **K-Fragen (Klärungsfragen, „Kreuz“):**
 Wählen Sie zu einer Frage die korrekte der beiden Optionen zu jeder Antwortmöglichkeit aus („richtig“ oder „falsch“ bzw. „zutreffend“ oder „nicht zutreffend“). Sie erhalten für jedes korrekt gesetzte Kreuz anteilig 1/n der Punkte. Nicht korrekt gesetzte Kreuze führen zum Abzug von 1/n der Punkte. Wird in einer Zeile KEINE Antwort ausgewählt, so gibt es weder Punkte noch Abzüge. Die Punktzahl beträgt je nach Schwierigkeitsgrad 1-2 Punkte.
 
-Zur genaueren Erläuterung der Fragetypen und Punkteverteilung stehen weitere Informationen unter der Prüfungsregeln des CPSA-F zur Verfügung.
+Zur genaueren Erläuterung der Fragetypen und Punkteverteilung stehen weitere Informationen unter der https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[Prüfungsregeln des CPSA-F] zur Verfügung.
 
 Die Bearbeitungsdauer beträgt 75 Minuten für Muttersprachler und 90 Minuten für Nicht- Muttersprachler. Um eine möglichst authentische Prüfungsvorbereitung zu gewährleisten, sollte die Bearbeitungszeit eingehalten sowie auf jegliche Hilfsmittel (wie Seminarunterlagen, Bücher, Internet etc.) verzichtet werden.
 
@@ -50,7 +50,7 @@ Select the number of correct answers given in the text from the list of possible
 **K-Questions (Allocation Questions, Choose Category):**
 For a question, select the correct of the two options for each answer choice ("correct" or "incorrect" or "applicable" or "not applicable"). You will receive 1/n of the points for each correctly placed cross. Incorrectly placed crosses result in the deduction of 1/n of the points. If NO answer is selected in a line, there are neither points nor deductions. The score is 1 or 2 points depending on the level of difficulty.
 
-For a more detailed explanation of the question types and scoring system, further information is available in the CPSA-F examination rules.
+For a more detailed explanation of the question types and scoring system, further information is available in the https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[CPSA-F examination rules].
 
 The allowed time is 75 minutes for native speakers and 90 minutes for non-native speakers. In order to ensure that the preparation for the exam is as authentic as possible, the processing time should be adhered to and any aids (such as seminar materials, books, internet, etc.) should not be used.
 The exam can subsequently be evaluated using the solution for this mock exam.
