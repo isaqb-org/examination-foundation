@@ -1,0 +1,84 @@
+// tag::DE[]
+=== Frage 9
+**ID: Q-20-04-12**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Frage: 
+|Wählen Sie für jede Zeile „Richtig“ oder „Falsch“ aus. 
+| 2 Punkte
+|===
+
+Versetzen Sie sich in die Lage eines Softwarearchitekten für eine große und verteilte Geschäftsanwendung im Banken- oder Versicherungsbereich. 
+Welche der folgenden Aussagen sind richtig und welche falsch?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| Richtig
+| Falsch
+|
+|
+
+| {y} 
+| {n}
+| (a)
+| Ihre Architektur sollte so aufgebaut sein, dass häufig vorkommende Änderungen an den entsprechenden Geschäftsprozessen ohne umfangreiche Umstrukturierungen der Softwarearchitektur möglich sind.
+
+| {y}
+| {n}
+| (b) 
+| Erforderliche Produktqualitäten sollten Ihre architektonischen Entscheidungen leiten.
+
+| {n}
+| {y} 
+| (c) 
+| Die Softwarearchitektur kann völlig unabhängig von Hardware und Infrastruktur entworfen werden.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 9
+**ID: Q-20-04-12**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Question: 
+|Select „True" or „False" for every line. 
+| 1 point
+|===
+
+Put yourself in the position of a software architect for a large, distributed business application in the banking or insurance domain. 
+Which of the following statements is true and which is false?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| true
+| false
+|
+|
+
+| {y} 
+| {n}
+| (a)
+| The architect collaborates with the stakeholders to determine where the requirements and constraints will change often (e.g., business processes, technologies), and designs the architecture such that changes can occur without requiring extensive restructuring of the software architecture.
+
+| {y}
+| {n}
+| (b) 
+| Required product qualities should drive your architectural decisions.
+
+| {n}
+| {y} 
+| (c) 
+| The software architecture can be designed completely independent of the hardware and infrastructure.
+
+|===
+
+// end::EN[]
+
+
