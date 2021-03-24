@@ -6,7 +6,7 @@
 |===
 |K-Frage: 
 |Wählen Sie für jede Zeile „Richtig“ oder „Falsch" aus. 
-| 2 Punkte
+| 1 Punkt
 |===
 
 Welche der folgenden Aussagen zum Entwurfsprinzip „Information Hiding“ sind richtig und welche falsch?
@@ -51,8 +51,7 @@ Welche der folgenden Aussagen zum Entwurfsprinzip „Information Hiding“ sind 
 |===
 |K-Question: 
 |Select "True" or „False" for every line. 
-| 2 points
-|===
+| 1 point
 
 Which of the following statements regarding the design principle 'information hiding' are true and which are false?
 
