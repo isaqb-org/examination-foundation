@@ -22,7 +22,7 @@ ifdef::backend-pdf[]
 endif::[]
 
 <<<
-include::00-preamble/00-introduction.adoc[{include_configuration}]
+include::preamble/introduction.adoc[{include_configuration}]
 
 <<<
 include::questions/00-structure.adoc[{include_configuration}]
