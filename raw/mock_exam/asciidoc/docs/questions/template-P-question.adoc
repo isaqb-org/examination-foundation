@@ -76,4 +76,6 @@
 
 // end::EN[]
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
 

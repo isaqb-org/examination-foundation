@@ -81,4 +81,7 @@ Which of the following statements is true and which is false?
 
 // end::EN[]
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+
 

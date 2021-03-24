@@ -76,4 +76,6 @@ Which THREE of the following principles apply to testing?
 
 // end::EN[]
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
 

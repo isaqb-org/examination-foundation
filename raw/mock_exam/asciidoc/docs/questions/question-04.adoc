@@ -80,4 +80,6 @@ Which methods are appropriate in order to achieve a consistent and adequate docu
 
 // end::EN[]
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
 

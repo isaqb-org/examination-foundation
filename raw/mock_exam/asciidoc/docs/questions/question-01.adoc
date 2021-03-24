@@ -65,3 +65,5 @@ How many definitions of “software architecture” exist?
 // end::EN[]
 
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]

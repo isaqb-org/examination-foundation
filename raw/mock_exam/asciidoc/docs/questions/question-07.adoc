@@ -88,4 +88,6 @@ Which of the following statements regarding the design principle 'information hi
 
 // end::EN[]
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
 

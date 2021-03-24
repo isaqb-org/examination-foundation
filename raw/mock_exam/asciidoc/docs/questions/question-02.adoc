@@ -76,3 +76,5 @@ Which THREE of the following aspects are covered by the term “software archite
 // end::EN[]
 
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]

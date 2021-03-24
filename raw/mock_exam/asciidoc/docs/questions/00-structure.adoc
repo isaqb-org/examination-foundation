@@ -38,7 +38,7 @@ include::question-07.adoc[{include_configuration}]
 include::question-08.adoc[{include_configuration}]
 
 <<<
-//include::question-09.adoc[{include_configuration}]
+include::question-09.adoc[{include_configuration}]
 - - -
 
 
@@ -49,3 +49,8 @@ include::question-08.adoc[{include_configuration}]
 //include::template-P-question.adoc[{include_configuration}]
 
 //include::template-K-question.adoc[{include_configuration}]
+
+
+// tag::EXPLANATION[]
+// 
+// end::EXPLANATION[]

@@ -95,3 +95,5 @@ Which FOUR of the following statements about (crosscutting) concepts are most ap
 // end::EN[]
 
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]

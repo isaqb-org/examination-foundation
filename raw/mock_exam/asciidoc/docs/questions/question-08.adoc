@@ -69,4 +69,5 @@ What are the TWO most important goals of software architecture?
 
 // end::EN[]
 
-
+// tag::EXPLANATION[]
+// end::EXPLANATION[]

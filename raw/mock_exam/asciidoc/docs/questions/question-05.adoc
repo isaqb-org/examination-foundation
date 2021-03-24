@@ -95,3 +95,5 @@ Which FOUR of the following techniques are best suited to illustrate the workflo
 // end::EN[]
 
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
