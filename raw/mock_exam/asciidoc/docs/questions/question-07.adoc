@@ -1,0 +1,91 @@
+// tag::DE[]
+=== Frage 7
+**ID: Q-17-13-05**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Frage: 
+|Wählen Sie für jede Zeile „Richtig“ oder „Falsch" aus. 
+| 2 Punkte
+|===
+
+Welche der folgenden Aussagen zum Entwurfsprinzip „Information Hiding“ sind richtig und welche falsch?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| Richtig
+| Falsch
+|
+|
+
+| {y} 
+| {n}
+| (a)
+| Durch die Befolgung des Prinzips „Information Hiding“ wird die Flexibilität für Änderungen erhöht.
+
+| {y}
+| {n}
+| (b) 
+| Beim Information Hiding werden absichtlich Informationen vor Aufrufern oder Konsumenten des Bausteins verborgen.
+
+| {n}
+| {y} 
+| (c) 
+| Information Hiding erschwert die Unterscheidung zwischen Schnittstelle und Implementierung.
+
+| {n}
+| {y} 
+| (d) 
+| Information Hiding ist abgeleitet vom Ansatz der inkrementellen Verfeinerung entlang des Kontrollflusses.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 7
+**ID: Q-17-03-05**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Question: 
+|Select "True" or „False" for every line. 
+| 2 points
+|===
+
+Which of the following statements regarding the design principle 'information hiding' are true and which are false?
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| True
+| False
+|
+|
+
+| {y} 
+| {n}
+| (a)
+| Adhering to the “information hiding principle” increases flexibility for modifications.
+
+| {y}
+| {n}
+| (b) 
+| Information hiding involves deliberately hiding information from callers or consumers of the building block.
+
+
+| {n}
+| {y} 
+| (c) 
+| Information hiding makes it harder to distinguish between interface and implementation.
+
+| {n}
+| {y} 
+| (d) 
+| Information hiding is a derivative of the approach of incremental refinement along the control flow.
+|===
+
+// end::EN[]
+
+
