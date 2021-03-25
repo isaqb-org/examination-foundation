@@ -60,3 +60,5 @@ However, it is explicitly prohibited to use these exam questions in a real exami
 
 // end::EN[]
 
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
