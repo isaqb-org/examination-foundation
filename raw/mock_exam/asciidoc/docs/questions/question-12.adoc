@@ -1,0 +1,19 @@
+// tag::DE[]
+=== Frage 12
+**ID: Q-20-04-08**
+
+Frage entfernt, da nicht kompatibel mit iSAQB Curriculum.
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 12
+**ID: Q-20-04-08**
+
+Question removed as not compatible with CPSA-F curriculum.
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+
+// end::EXPLANATION[]
