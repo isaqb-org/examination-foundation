@@ -91,6 +91,8 @@ Which of the following statements regarding project goals and architectural goal
 // end::EN[]
 
 // tag::EXPLANATION[]
+Explanation:
+
 Business stakeholder might very well have goals like performance, flexibility or security, which are considered "architecture goals".
 // end::EXPLANATION[]
 
