@@ -63,6 +63,7 @@ include::question-16.adoc[{include_configuration}]
 include::question-17.adoc[{include_configuration}]
 - - -
 
+<<<
 include::question-18.adoc[{include_configuration}]
 - - -
 
