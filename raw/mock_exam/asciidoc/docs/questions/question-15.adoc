@@ -57,23 +57,23 @@ Choose the TWO best-fitting answers.
 
 | {n}
 | (a)
-| option 1
+| Architects should avoid recursive structures and replace them by explicit loops.
 
 | {y}
-| (b) 
-| option 1
+| (b)
+| Architects should make the assumptions leading to decisions explicit.
 
 | {n}
-| (c) 
-| option 3
+| (c)
+| Architects should explicitly insist on natural language explanations (i.e. comments) for each building block.
 
 | {n}
-| (d) 
-| option 4
+| (d)
+| Architects should explicitly insist on written or at least verbal justifications for development effort estimates from their team.
 
 | {y}
-| (e) 
-| option 5
+| (e)
+| Architects should make prerequisites for their decisions explicit.
 |===
 
 // end::EN[]
