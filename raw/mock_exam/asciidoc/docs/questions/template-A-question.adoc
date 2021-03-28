@@ -24,7 +24,7 @@
 | (b) 
 | option 2
 
-| {y}
+| {n}
 | (c) 
 | option 3
 |===
@@ -57,7 +57,7 @@
 | (b) 
 | option 2
 
-| {y}
+| {n}
 | (c) 
 | option 3
 |===
