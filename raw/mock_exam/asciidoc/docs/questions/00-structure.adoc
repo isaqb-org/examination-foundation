@@ -70,7 +70,14 @@ include::question-18.adoc[{include_configuration}]
 include::question-19.adoc[{include_configuration}]
 - - -
 
+<<<
 include::question-20.adoc[{include_configuration}]
+- - -
+
+include::question-21.adoc[{include_configuration}]
+- - -
+
+include::question-22.adoc[{include_configuration}]
 - - -
 
 
