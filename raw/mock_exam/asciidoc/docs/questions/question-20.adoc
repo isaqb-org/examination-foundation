@@ -1,0 +1,85 @@
+// tag::DE[]
+=== Frage 20
+**ID: Q-20-04-17**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage: 
+| Wählen Sie die **zwei** am besten passenden Antworten aus
+| 1 Punkt
+|===
+
+Welche Voraussetzungen müssen vor der Entwicklung einer Softwarearchitektur erfüllt sein?
+Wählen Sie die ZWEI passendsten Antworten aus.
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {n}
+| (a)
+| Die Anforderungsspezifikation für das System ist vollständig, detailliert und konsistent.
+
+| {y}
+| (b) 
+| Die wichtigsten Eigenschaften für das System sind bekannt.
+
+| {y}
+| (c)
+| Die organisatorischen Randbedingungen sind bekannt.
+
+| {n}
+| (d) 
+| Die Programmiersprache wurde ausgewählt.
+
+| {n}
+| (e)
+| Die Hardware für das Entwicklungsteam ist verfügbar.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 20
+**ID: Q-20-04-17**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question: 
+| Select the **two** best fitting answers
+| 1 point
+|===
+
+Which prerequisites have to be fulfilled before developing a software architecture?
+Pick the TWO most appropriate answers.
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {n}
+| (a)
+| The requirements specification for the system is complete, detailed and consistent.
+
+| {y}
+| (b) 
+| The most important qualities for the system are known.
+
+| {y}
+| (c) 
+| Organizational constraints are known.
+
+| {n}
+| (d)
+| The programming language has been selected.
+
+| {n}
+| (e)
+| Hardware for the development team is available.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+In most cases it is unrealistic to have _complete_ requirements specification.
+Often it is enough to have an overview and know certain details (e.g. quality requirements).
+// end::EXPLANATION[]
+
