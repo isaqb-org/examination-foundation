@@ -5,17 +5,22 @@ Die vorliegende Prüfung ist eine Beispielprüfung, welche in Form und Umfang an
 
 Die Beispielprüfung besteht aus 39 Multiple-Choice-Fragen, welche je nach Schwierigkeitsgrad mit 1 bis 2 Punkten bewertet werden können. Es müssen zum Bestehen der Prüfung mindestens 60 Prozent erreicht werden. In dieser Probeprüfung können 50,0 Punkte erreicht werden, zum Bestehen wären 30,0 Punkte erforderlich.
 
-Grundsätzlich gilt: richtige Antworten ergeben Pluspunkte, falsche Antworten führen zu Punktabzug, jedoch nur in Bezug auf die jeweilige Frage. Führt die falsche Beantwortung einer Frage zu einem negativen Punktergebnis, so wird diese Frage mit insgesamt 0 Punkten bewertet.
-Die Multiple-Choice-Fragen der Beispielprüfung gliedern sich in drei Arten von Fragen:
+Grundsätzlich gelten folgende Hinweise:
+
+* Die maximale Punktzahl pro Frage beträgt je nach Schwierigkeitsgrad oder Umfang 1-2 Punkte.
+
+* richtige Antworten ergeben Pluspunkte, falsche Antworten führen zu Punktabzug, jedoch nur in Bezug auf die jeweilige Frage. Führt die falsche Beantwortung einer Frage zu einem negativen Punktergebnis, so wird diese Frage mit insgesamt 0 Punkten bewertet.
+
+Es gibt in dieser Beispielprüfung (wie auch in der Originalprüfung) nur folgende drei Typen von Prüfungsfragen:
 
 **A-Fragen (Einfachauswahlfragen, „Auswahl”):**
-Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die einzig korrekte Antwort aus. Es gibt nur eine korrekte Antwort. Sie erhalten die angegebene Punktzahl für das Ankreuzen der korrekten Antwort. Die erreichbare Punktzahl beträgt je nach Schwierigkeitsgrad 1-2 Punkte.
+Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die einzig korrekte Antwort aus. Es gibt nur eine korrekte Antwort. Sie erhalten die angegebene Punktzahl für das Ankreuzen der korrekten Antwort.
 
 **P-Fragen (Mehrfachauswahlfragen, „Pick“):**
-Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die im Text vorgegebene Anzahl von korrekten Antworten aus. Kreuzen Sie maximal so viele Antworten an, wie im Einleitungstext verlangt werden. Sie erhalten für jede korrekte Antwort anteilig 1/n der Gesamtpunkte. Für jedes nicht-korrekte Kreuz wird 1/n der Punkte abgezogen. Die Punktzahl beträgt je nach Schwierigkeitsgrad 1-2 Punkte.
+Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die im Text vorgegebene Anzahl von korrekten Antworten aus. Kreuzen Sie maximal so viele Antworten an, wie im Einleitungstext verlangt werden. Sie erhalten für jede korrekte Antwort anteilig 1/n der Gesamtpunkte. Für jedes nicht-korrekte Kreuz wird 1/n der Punkte abgezogen.
 
 **K-Fragen (Klärungsfragen, „Kreuz“):**
-Wählen Sie zu einer Frage die korrekte der beiden Optionen zu jeder Antwortmöglichkeit aus („richtig“ oder „falsch“ bzw. „zutreffend“ oder „nicht zutreffend“). Sie erhalten für jedes korrekt gesetzte Kreuz anteilig 1/n der Punkte. Nicht korrekt gesetzte Kreuze führen zum Abzug von 1/n der Punkte. Wird in einer Zeile KEINE Antwort ausgewählt, so gibt es weder Punkte noch Abzüge. Die Punktzahl beträgt je nach Schwierigkeitsgrad 1-2 Punkte.
+Wählen Sie zu einer Frage die korrekte der beiden Optionen zu jeder Antwortmöglichkeit aus („richtig“ oder „falsch“ bzw. „zutreffend“ oder „nicht zutreffend“). Sie erhalten für jedes korrekt gesetzte Kreuz anteilig 1/n der Punkte. Nicht korrekt gesetzte Kreuze führen zum Abzug von 1/n der Punkte. Wird in einer Zeile KEINE Antwort ausgewählt, so gibt es weder Punkte noch Abzüge.
 
 Zur genaueren Erläuterung der Fragetypen und Punkteverteilung stehen weitere Informationen unter der https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[Prüfungsregeln des CPSA-F] zur Verfügung.
 
@@ -37,18 +42,21 @@ At least 60 percent must be achieved to pass the exam.
 
 50.0 points can be achieved in this mock examination, you would need 30.0 points to pass.
 
-The following general rules apply: 
-Correct answers result in plus points, incorrect answers result in a deduction of points, but only with regard to the respective question. If the wrong answer to a question leads to a negative score, this question is evaluated with a total of 0 points.
+The following general rules apply:
+
+* Depending on the level of difficulty and the length of the question, you can achieve a score of 1 or 2 points.
+* Correct answers result in plus points, incorrect answers result in a deduction of points, but only with regard to the respective question. If the wrong answer to a question leads to a negative score, this question is evaluated with a total of 0 points.
+
 The multiple-choice questions of the mock exam are divided into three types of questions:
 
 **A-Questions (Single Choice, Single Correct Answer):**
-Select the only correct answer to a question from the list of possible answers. There is only one correct answer. You receive the specified score for selecting the correct answer. Depending on the level of difficulty, you can achieve a score of 1 or 2 points.
+Select the only correct answer to a question from the list of possible answers. There is only one correct answer. You receive the specified score for selecting the correct answer.
 
 **P-Questions (Pick-from-many, Pick Multiple):**
-Select the number of correct answers given in the text from the list of possible answers to a question. Select just as many answers as are required in the introductory text. You receive 1/n of the total points for each correct answer. For each incorrect cross, 1/n of the points are deducted. The score is 1 or 2 points depending on the level of difficulty.
+Select the number of correct answers given in the text from the list of possible answers to a question. Select just as many answers as are required in the introductory text. You receive 1/n of the total points for each correct answer. For each incorrect cross, 1/n of the points are deducted.
 
 **K-Questions (Allocation Questions, Choose Category):**
-For a question, select the correct of the two options for each answer choice ("correct" or "incorrect" or "applicable" or "not applicable"). You will receive 1/n of the points for each correctly placed cross. Incorrectly placed crosses result in the deduction of 1/n of the points. If NO answer is selected in a line, there are neither points nor deductions. The score is 1 or 2 points depending on the level of difficulty.
+For a question, select the correct of the two options for each answer choice ("correct" or "incorrect" or "applicable" or "not applicable"). You will receive 1/n of the points for each correctly placed cross. Incorrectly placed crosses result in the deduction of 1/n of the points. If NO answer is selected in a line, there are neither points nor deductions.
 
 For a more detailed explanation of the question types and scoring system, further information is available in the https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[CPSA-F examination rules].
 
