@@ -1,0 +1,94 @@
+// tag::DE[]
+=== Frage 25
+**ID: Q-20-04-21**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Frage: 
+|Wählen Sie für jede Zeile „enge Kopplung“ oder „lose Kopplung“ aus.
+| 1 Punkt
+|===
+
+Was sind die Eigenschaften von enger (hoher) bzw. loser (niedriger) Kopplung?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| enge Kopplung
+| lose Kopplung
+|
+|
+| {y}
+| {n}
+| (a)
+| Bausteine können abhängige Bausteine direkt, d.h. ohne Umwege über Schnittstellen oder Abstraktionen, aufrufen.
+
+| {y}
+| {n}
+| (b)
+| Bausteine verwenden gemeinsame komplexe Datenstrukturen.
+
+| {y}
+| {n}
+| (c)
+| Bausteine verwenden eine gemeinsame Tabelle innerhalb einer relationalen Datenbank.
+
+| {n}
+| {y}
+| (d)
+| Beim Baustein-Design haben Sie das Dependency-Inversion-Prinzip konsequent umgesetzt.
+|===
+
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 25
+**ID: Q-20-04-21**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Question: 
+|Select „tight coupling“ or „loose coupling" for each line.
+| 1 point
+|===
+
+What are characteristics of tight (high) or loose (low) coupling?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| tight coupling
+| loose coupling
+|
+|
+
+| {y} 
+| {n}
+| (a)
+| Building blocks directly call dependent building blocks,
+i.e., without using indirect calls via interfaces or abstractions.
+
+| {y}
+| {n}
+| (b)
+| Building blocks use shared complex data structures.
+
+| {y}
+| {n}
+| (c)
+| Building blocks use a shared table within a relational database.
+
+| {n}
+| {y}
+| (d)
+| When designing building blocks, you have consistently applied the dependency inversion principle.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+

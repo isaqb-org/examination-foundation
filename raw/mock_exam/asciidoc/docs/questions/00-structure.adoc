@@ -86,6 +86,9 @@ include::question-23.adoc[{include_configuration}]
 include::question-24.adoc[{include_configuration}]
 - - -
 
+include::question-25.adoc[{include_configuration}]
+- - -
+
 
 // template questions - to be removed in final document
 
