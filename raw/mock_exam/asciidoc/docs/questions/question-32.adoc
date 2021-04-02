@@ -1,0 +1,105 @@
+// tag::DE[]
+=== Frage 32
+**ID: Q-20-04-25**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Frage: 
+|Wählen Sie für jede Zeile „richtig“ oder „falsch“ aus.
+| 2 Punkte
+|===
+
+Was sind Richtlinien für ein gutes Schnittstellen-Design?
+Kreuzen Sie an, welche der folgenden Aussagen richtig und welche falsch sind.
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| richtig
+| falsch
+|
+|
+
+| {y} 
+| {n}
+| (a)
+| Die Verwendung der Schnittstellen sollte einfach zu erlernen sein.
+
+| {y}
+| {n}
+| (b)
+| Der Client-Code sollte angemessen leicht zu verstehen sein.
+
+| {n}
+| {y}
+| (c)
+| Eine Schnittstelle soll Zugriff auf eine umfassende Menge von Implementierungsdetails ermöglichen
+
+| {y}
+| {n}
+| (d)
+| Schnittstellenspezifikationen sollten funktionale und nichtfunktionale Aspekte enthalten.
+
+| {n}
+| {y}
+| (e)
+| Eine Schnittstelle soll die Implementierung so abstrahieren, dass eine Unterscheidung zwischen lokalen und entfernten Aufrufen nicht nötig ist.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 32
+**ID: Q-20-04-25**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Question: 
+|Select „true“ or „false" for every line.
+| 2 points
+|===
+
+What are guidelines for good interface design?
+Check which of the following statements are true and which are false.
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| true
+| false
+|
+|
+
+| {y}
+| {n}
+| (a)
+| Use of interfaces should be easy to learn.
+
+| {y}
+| {n}
+| (b)
+| The client code should be reasonably easy to understand in relation to the functional complexity.
+
+| {n}
+| {y}
+| (c)
+| An interface should provide access to a comprehensive set of implementation details.
+
+| {y}
+| {n}
+| (d)
+| Interface specifications should contain functional and non-functional aspects.
+
+| {n}
+| {y}
+| (e)
+| An interface should abstract the implementation details so that it is unnecessary to differentiate between local and remote access.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+
