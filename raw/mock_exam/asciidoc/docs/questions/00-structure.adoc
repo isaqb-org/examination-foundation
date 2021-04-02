@@ -104,16 +104,26 @@ include::question-29.adoc[{include_configuration}]
 include::question-30.adoc[{include_configuration}]
 - - -
 
+include::question-31.adoc[{include_configuration}]
+- - -
 
-// template questions - to be removed in final document
+include::question-32.adoc[{include_configuration}]
+- - -
 
-//include::template-A-question.adoc[{include_configuration}]
+include::question-33.adoc[{include_configuration}]
+- - -
 
-//include::template-P-question.adoc[{include_configuration}]
+include::question-34.adoc[{include_configuration}]
+- - -
 
-//include::template-K-question.adoc[{include_configuration}]
+include::question-35.adoc[{include_configuration}]
+- - -
+
+include::question-36.adoc[{include_configuration}]
+- - -
+
 
 
 // tag::EXPLANATION[]
-// 
+// nothing to be explained in structure-document...
 // end::EXPLANATION[]
