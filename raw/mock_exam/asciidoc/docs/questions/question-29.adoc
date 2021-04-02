@@ -1,0 +1,78 @@
+// tag::DE[]
+=== Frage 29
+**ID: Q-20-**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage: 
+| Wählen Sie die **zwei** am besten passenden Antworten aus
+| 1 Punkt
+|===
+
+Welche zwei Architektursichten haben die beste praktische Anwendung für die Entwicklung von Softwarearchitekturen?
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {n}
+| (a)
+| Pattern-Sicht.
+
+| {n}
+| (b)
+| Beobachtersicht (Observer-View).
+
+| {y}
+| (c)
+| Baustein- (oder Komponenten-) Sicht.
+
+| {y}
+| (d)
+| Verteilungssicht.
+
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 29
+**ID: Q-20-04-13**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question: 
+| Select the **two** best fitting answers
+| 1 point
+|===
+
+Which architectural views have the most practical application for developing software architectures?
+1 point
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {n}
+| (a)
+| Pattern View.
+
+| {n}
+| (b)
+| Observer View.
+
+| {y}
+| (c)
+| Building-Block (or Component) View.
+
+| {y}
+| (d)
+| Deployment View.
+
+
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+
