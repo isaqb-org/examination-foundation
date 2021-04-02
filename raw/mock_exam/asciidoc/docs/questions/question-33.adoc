@@ -93,5 +93,6 @@ Check which of the following statements about architectural/design decision is t
 // end::EN[]
 
 // tag::EXPLANATION[]
+Not _all_ decisions need to be justified in writing - as the requirement for _written_ documentation depends on the situation, the team, the system and other factors.
 // end::EXPLANATION[]
 
