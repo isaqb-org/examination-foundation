@@ -1,0 +1,114 @@
+// tag::DE[]
+=== Frage 34
+**ID: Q-20-04-31**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Frage: 
+|Wählen Sie für jede Zeile „typisch“ oder „nicht typisch“ aus.
+| 2 Punkte
+|===
+
+Welche der folgenden Aussagen sind typische Gründe zur Führung einer (angemessenen) Architekturdokumentation und welche nicht?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| typisch
+| nicht typisch
+|
+|
+
+
+| {y}
+| {n}
+| (a)
+| Unterstützung des Onboardings neuer Entwickler.
+
+| {n}
+| {y}
+| (b)
+| Unterstützung der Testautomatisierung des Systems.
+
+| {y}
+| {n}
+| (c)
+| Unterstützung der Arbeit von verteilten Teams.
+
+| {y}
+| {n}
+| (d)
+| Unterstützung von späteren Verbesserungen des Systems.
+
+| {y}
+| {n}
+| (e)
+| Einhaltung von gesetzlichen Vorgaben.
+
+| {n}
+| {y}
+| (f)
+| Sicherstellung der gleichmäßigen Auslastung des Teams.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 34
+**ID: Q-20-04-31**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Question: 
+|Select „typical“ or „not typical" for every line.
+| 2 points
+|===
+
+Which of the following statements are typical reasons for maintaining adequate architecture documentation and which are not typical reasons?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| typical
+| not typical
+|
+|
+
+| {y} 
+| {n}
+| (a)
+| To support onboarding of new developers.
+
+| {n}
+| {y}
+| (b)
+| To support the automated testing approach of the system.
+
+| {y}
+| {n}
+| (c)
+| To support the work of distributed teams.
+
+| {y}
+| {n}
+| (d)
+| To assist in future enhancements of the product.
+
+| {y}
+| {n}
+| (e)
+| To conform to legal constraints.
+
+| {n}
+| {y}
+| (f)
+| To ensure that developers have enough work to do.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+
