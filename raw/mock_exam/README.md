@@ -3,6 +3,15 @@
 As we maintain binary documents in this repo, we keep a (manually updated) change list.
 
 ## Mock Exam Questions
+
+### 2021.1-rev7 (March/April 2021)
+We migrated the (binary, docx) content to AsciiDoc.
+Every question is now contained in its own distinct adoc-file.
+
+The technical background is explained in a [blogpost by Ben Wolf and Gernot Starke](https://www.isaqb.org/blog/migrating-the-isaqb-mock-examination-to-asciidoc/):
+
+
+
 ### 2020.1-rev4 (September 7, 2020)
 - Rename "Sample Exam" to "Mock Exam"
 - Adjust directory names accordingly
