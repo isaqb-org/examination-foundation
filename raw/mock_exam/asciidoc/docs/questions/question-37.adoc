@@ -1,0 +1,92 @@
+// tag::DE[]
+=== Frage 37
+**ID: Q-20-04-28**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage: 
+| Wählen Sie die **vier** am besten passenden Antworten aus
+| 1 Punkt
+|===
+
+Welcher der vier folgenden Punkte sind am besten geeignet, eine qualitative Analyse Ihrer Softwarearchitektur zu unterstützen?
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {y}
+| (a)
+| Quantitative Abhängigkeitsanalyse.
+
+| {y}
+| (b)
+| Architekturmodelle.
+
+| {y}
+| (c)
+| Qualitätsszenarien.
+
+| {n}
+| (d)
+| Teamgröße.
+
+| {y}
+| (e)
+| Logdateien.
+
+| {n}
+| (f)
+| Organigramm.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 37
+**ID: Q-20-04-28**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question: 
+| Select the **four** best alternatives
+| 1 point
+|===
+
+Which of the following alternatives are most suitable for supporting a qualitative analysis of your software architecture?
+Pick the four best alternatives.
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+
+| {y}
+| (a)
+| Quantitative dependency analysis.
+
+| {y}
+| (b)
+| Architecture models.
+
+| {y}
+| (c)
+| Quality scenarios.
+
+| {n}
+| (d)
+| Team size.
+
+| {y}
+| (e)
+| Log files.
+
+| {n}
+| (f)
+| Organizational structure.
+
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+
