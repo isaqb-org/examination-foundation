@@ -122,6 +122,15 @@ include::question-35.adoc[{include_configuration}]
 include::question-36.adoc[{include_configuration}]
 - - -
 
+include::question-37.adoc[{include_configuration}]
+- - -
+
+include::question-38.adoc[{include_configuration}]
+- - -
+
+include::question-39.adoc[{include_configuration}]
+- - -
+
 
 
 // tag::EXPLANATION[]
