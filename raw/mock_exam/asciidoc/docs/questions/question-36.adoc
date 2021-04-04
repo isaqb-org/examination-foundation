@@ -1,0 +1,85 @@
+// tag::DE[]
+=== Frage 36
+**ID: Q-20-04-27**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage: 
+| Wählen Sie die **zwei** am besten passenden Antworten aus
+| 1 Punkt
+|===
+
+ISO 25010 enthält allgemeine Qualitätseigenschaften für Softwaresysteme.
+Wie können Qualitätsanforderungen zu diesen Eigenschaften konkretisiert werden?
+Wählen Sie die zwei besten Alternativen aus.
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {n}
+| (a)
+| Durch die Entwicklung von UI-Prototypen.
+
+| {n}
+| (b)
+| Durch die Definition expliziter Schnittstellen.
+
+| {y}
+| (c)
+| Durch die Diskussion oder Abfassung von Szenarien.
+
+| {n}
+| (d) 
+| Durch die Erstellung automatisierter Tests.
+
+| {y}
+| (e)
+| Durch die Erstellung eines Qualitätsbaums.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 36
+**ID: Q-20-04-27**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question: 
+| Select the **two** best alternatives
+| 1 point
+|===
+
+ISO 25010 provides generic quality characteristics for software systems.
+How can quality requirements concerning these characteristics be made more concrete?
+Pick the two best alternatives.
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {n}
+| (a)
+| By developing UI prototypes.
+
+| {n}
+| (b)
+| By defining explicit interfaces.
+
+| {y}
+| (c)
+| By discussing or writing scenarios.
+
+| {n}
+| (d)
+| By creating automated tests.
+
+| {y}
+| (e)
+| By creating a quality tree.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+
