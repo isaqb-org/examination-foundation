@@ -47,51 +47,44 @@ include::question-11.adoc[{include_configuration}]
 - - -
 include::question-12.adoc[{include_configuration}]
 - - -
+
+<<<
 include::question-13.adoc[{include_configuration}]
 - - -
+include::question-14.adoc[{include_configuration}]
 
 <<<
-include::question-14.adoc[{include_configuration}]
-- - -
-
 include::question-15.adoc[{include_configuration}]
 - - -
-
 include::question-16.adoc[{include_configuration}]
-- - -
 
+
+<<<
 include::question-17.adoc[{include_configuration}]
 - - -
+include::question-18.adoc[{include_configuration}]
 
 <<<
-include::question-18.adoc[{include_configuration}]
-- - -
-
 include::question-19.adoc[{include_configuration}]
 - - -
+include::question-20.adoc[{include_configuration}]
 
 <<<
-include::question-20.adoc[{include_configuration}]
-- - -
-
 include::question-21.adoc[{include_configuration}]
 - - -
-
 include::question-22.adoc[{include_configuration}]
-- - -
 
+<<<
 include::question-23.adoc[{include_configuration}]
 - - -
-
 include::question-24.adoc[{include_configuration}]
-- - -
 
+<<<
 include::question-25.adoc[{include_configuration}]
 - - -
-
 include::question-26.adoc[{include_configuration}]
-- - -
 
+<<<
 include::question-27.adoc[{include_configuration}]
 - - -
 
