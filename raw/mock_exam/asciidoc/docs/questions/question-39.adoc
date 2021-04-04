@@ -9,17 +9,18 @@
 | 1 Punkt
 |===
 
-Welche der folgenden Alternativen sind in Ihrer Softwarearchitektur schwieriger zu messen?
-Wählen Sie zwei Antworten aus.
+Sie versuchen, ihre Architektur quantitativ zu untersuchen.
+Welche der folgenden Größen können Sie für Ihre Softwarearchitektur zuverlässig messen?
+Wählen Sie die drei am besten passenden Antworten aus.
 
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {n}
+| {y}
 | (a)
 | Größe der Bausteine (z.B. Lines-of-Code).
 
-| {n}
+| {y}
 | (b)
 | Änderungsrate des Quellcodes der Komponenten.
 
@@ -31,7 +32,7 @@ Wählen Sie zwei Antworten aus.
 | (d)
 | Sicherheitsstufe einer Komponente.
 
-| {n}
+| {y}
 | (e)
 | Anzahl der Entwickler, die zu einer bestimmten Komponente beigetragen haben.
 
@@ -50,16 +51,18 @@ Wählen Sie zwei Antworten aus.
 | 1 point
 |===
 
-Which of the following alternatives are harder to measure in your software architecture? Pick TWO answers.
+You try to quantitatively analyze your architecture.
+Which three of the following properties can you measure reliably in your software architecture?
+Pick the three best fitting answers.
 
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {n}
+| {y}
 | (a)
 | Size of building blocks (e.g. LOC).
 
-| {n}
+| {y}
 | (b)
 | Change rate of the source code of components.
 
@@ -71,7 +74,7 @@ Which of the following alternatives are harder to measure in your software archi
 | (d)
 | Security level of a component.
 
-| {n}
+| {y}
 | (e)
 | Number of the developers that contributed to a specific component.
 |===
