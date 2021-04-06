@@ -82,5 +82,9 @@ Pick the three best fitting answers.
 // end::EN[]
 
 // tag::EXPLANATION[]
+#### Explanation
+
+*  Size can easily and reliably be measured when statically analyzing source code (lines-of-code metric is a reliable size metric)
+* change-rate and number-of-developers-per-component can reliably be measured when taking the version control history into account, which is perfectly feasibly with systems like git, subversion or similar tools that are widely used in development.
 // end::EXPLANATION[]
 
