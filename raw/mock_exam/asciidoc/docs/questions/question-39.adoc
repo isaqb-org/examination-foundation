@@ -5,7 +5,7 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Frage: 
-| Wählen Sie die **zwei** am besten passenden Antworten aus
+| Wählen Sie die **drei** am besten passenden Antworten aus
 | 1 Punkt
 |===
 
@@ -47,7 +47,7 @@ Wählen Sie die drei am besten passenden Antworten aus.
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Question: 
-| Select the **two** best fitting answers
+| Select the **three** best fitting answers
 | 1 point
 |===
 
