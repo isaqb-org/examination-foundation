@@ -5,13 +5,11 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Frage: 
-| Wählen Sie die **zwei** am besten passenden Antworten aus
+| Wählen Sie die **three** am besten passenden Antworten aus
 | 1 Punkt
 |===
 
-Sie versuchen, ihre Architektur quantitativ zu untersuchen.
-Welche der folgenden Größen können Sie für Ihre Softwarearchitektur zuverlässig messen?
-Wählen Sie die drei am besten passenden Antworten aus.
+Welche der folgenden Größen können Sie für Ihrer Softwarearchitektur im Rahmen einer quantitativen Analyse zuverlässig messen? Wählen Sie die drei am besten passenden Antworten aus.
 
 [cols="1a,1,10", frame=none, grid=none]
 |===
@@ -47,13 +45,12 @@ Wählen Sie die drei am besten passenden Antworten aus.
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Question: 
-| Select the **two** best fitting answers
+| Select the **three* most suitable answers
 | 1 point
 |===
 
-You try to quantitatively analyze your architecture.
-Which three of the following properties can you measure reliably in your software architecture?
-Pick the three best fitting answers.
+Which of the following properties can you reliably measure in your software architecture as part of a quantitative analysis?
+Select the three most suitable answers.
 
 [cols="1a,1,10", frame=none, grid=none]
 |===
@@ -64,7 +61,7 @@ Pick the three best fitting answers.
 
 | {y}
 | (b)
-| Change rate of the source code of components.
+| Rate of change of the component's source code.
 
 | {n}
 | (c)
