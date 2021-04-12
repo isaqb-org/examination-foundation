@@ -87,40 +87,34 @@ include::question-26.adoc[{include_configuration}]
 <<<
 include::question-27.adoc[{include_configuration}]
 - - -
-
 include::question-28.adoc[{include_configuration}]
-- - -
 
+<<<
 include::question-29.adoc[{include_configuration}]
 - - -
-
 include::question-30.adoc[{include_configuration}]
-- - -
 
+<<<
 include::question-31.adoc[{include_configuration}]
 - - -
-
 include::question-32.adoc[{include_configuration}]
-- - -
 
+<<<
 include::question-33.adoc[{include_configuration}]
 - - -
-
 include::question-34.adoc[{include_configuration}]
-- - -
 
+<<<
 include::question-35.adoc[{include_configuration}]
 - - -
-
 include::question-36.adoc[{include_configuration}]
-- - -
 
+<<<
 include::question-37.adoc[{include_configuration}]
 - - -
-
 include::question-38.adoc[{include_configuration}]
-- - -
 
+<<<
 include::question-39.adoc[{include_configuration}]
 - - -
 
