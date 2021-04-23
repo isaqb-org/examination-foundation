@@ -18,7 +18,7 @@ Wählen Sie die drei am besten passenden Antworten aus.
 
 | {y}
 | (a)
-| Größe der Bausteine (z.B. Lines-of-Code).
+| Größe der Bausteine (z.{nbsp}B. Lines-of-Code).
 
 | {y}
 | (b)

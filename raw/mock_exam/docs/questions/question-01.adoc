@@ -22,7 +22,7 @@ Wie viele Definitionen des Begriffes "Softwarearchitektur" gibt es?
 
 | {n}
 | (b) 
-| Eine für jede Art von Softwaresystem (z.\ B. "eingebettet", "Echtzeit", "Entscheidungsunterstützung", "Web", "Batch", …)
+| Eine für jede Art von Softwaresystem (z.{nbsp}B. "eingebettet", "Echtzeit", "Entscheidungsunterstützung", "Web", "Batch", …)
 
 | {y}
 | (c) 

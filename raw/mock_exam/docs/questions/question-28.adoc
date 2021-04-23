@@ -38,7 +38,7 @@ Welche der folgenden Aussagen zu Notationen für Architektursichten sind richtig
 | {y}
 | {n}
 | (d)
-| Solange die Notation (z.B. mithilfe einer Legende) erläutert wird, kann eine beliebige Notation ausreichen, um Bausteinstrukturen und Zusammenarbeit zu beschreiben.
+| Solange die Notation (z.{nbsp}B. mithilfe einer Legende) erläutert wird, kann eine beliebige Notation ausreichen, um Bausteinstrukturen und Zusammenarbeit zu beschreiben.
 |===
 
 // end::DE[]
