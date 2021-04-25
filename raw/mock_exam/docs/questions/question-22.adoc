@@ -17,7 +17,7 @@ Welche der folgenden Eigenschaften lässt sich am ehesten durch eine Schichtenar
 
 | {n} 
 | (a)
-| Laufzeiteffizienz (Leistung).
+| Laufzeiteffizienz (Performance).
 
 | {y}
 | (b)
