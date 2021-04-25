@@ -17,23 +17,23 @@ Welche DREI der folgenden Sichten werden am häufigsten verwendet?
 
 | {n}
 | (a)
-| Physische Datenbanksicht.
+| Physische Datenbanksicht
 
 | {y}
 | (b) 
-| Kontextsicht.
+| Kontextsicht
 
 | {y}
 | (c) 
-| Baustein-/Komponentensicht.
+| Baustein-/Komponentensicht
 
 | {n}
 | (d) 
-| Testbasierte Sicht.
+| Testbasierte Sicht
 
 | {n}
 | (e) 
-| Konfigurationssicht.
+| Konfigurationssicht
 
 | {y}
 | (f)
@@ -62,28 +62,28 @@ Which three of the following views are most often used?
 
 | {n}
 | (a)
-| Physical database view.
+| Physical database view
 
 | {y}
 | (b)
-| Context view.
+| Context view
 
 | {y}
 | (c)
-| Building Block/Component view.
+| Building Block/Component view
 
 | {n}
 | (d)
-| Test-driven view.
+| Test-driven view
 
 
 | {n}
 | (e)
-| Configuration view.
+| Configuration view
 
 | {y}
 | (f)
-| Runtime view.
+| Runtime view
 
 |===
 
