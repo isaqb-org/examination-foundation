@@ -15,26 +15,26 @@ Was sind Ihre DREI wichtigsten Aufgaben?
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {y}
+| {n}
 | (a)
-| Verhandlung des Wartungsbudgets für Ihr Team.
+| Verhandlung des Wartungsbudgets für Ihr Team
 
 | {y}
 | (b) 
-| Sicherstellung einer aktuellen Dokumentation des ausgelieferten Systems.
+| Sicherstellung einer aktuellen Dokumentation des ausgelieferten Systems
 
 | {y}
 | (c) 
-| Analyse der Auswirkungen von neuen Anforderungen auf das aktuelle System.
+| Analyse der Auswirkungen von neuen Anforderungen auf das aktuelle System
 
 
 | {n}
 | (d) 
-| Ermunterung der Teammitglieder, neue Programmiersprachen zu lernen.
+| Ermunterung der Teammitglieder, neue Programmiersprachen zu lernen
 
 | {y}
 | (e)
-| Ihren Vorgesetzten technologische Updates zusätzlich zu den Geschäftsanforderungen vorschlagen.
+| Ihren Vorgesetzten technologische Updates zusätzlich zu den Geschäftsanforderungen vorschlagen
 
 |===
 // end::DE[]
@@ -58,23 +58,23 @@ What are the THREE most important action items on your agenda?
 
 | {n}
 | (a)
-| Negotiating the maintenance budget for your team.
+| Negotiating the maintenance budget for your team
 
 | {y}
 | (b) 
-| Assuring up-to-date documentation of the deployed system.
+| Assuring up-to-date documentation of the deployed system
 
 | {y}
 | (c) 
-| Analyzing the impact of new requirements on the current system.
+| Analyzing the impact of new requirements on the current system
 
 | {n}
 | (d) 
-| Encouraging the team members to learn new programming languages.
+| Encouraging the team members to learn new programming languages
 
 | {y}
 | (e)
-| Suggesting technology updates in addition to the business requirements to your management.
+| Suggesting technology updates in addition to the business requirements to your management
 
 |===
 
