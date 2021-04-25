@@ -25,7 +25,7 @@ Welche DREI der folgenden Sichten werden am häufigsten verwendet?
 
 | {y}
 | (c) 
-| Baustein-/Komponentensicht
+| Bausteinsicht oder Komponentensicht
 
 | {n}
 | (d) 
