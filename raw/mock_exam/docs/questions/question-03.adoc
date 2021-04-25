@@ -20,7 +20,7 @@ Welche VIER der folgenden Aussagen zu (Querschnitts-) Konzepten sind am zutreffe
 
 | {n}
 | (b) 
-| Durch die Definition von geeigneten Konzepten wird Mustertreue der Architektur sichergestellt.
+| Durch die Definition von geeigneten Konzepten wird die Mustertreue der Architektur sichergestellt.
 
 | {y}
 | (c) 
