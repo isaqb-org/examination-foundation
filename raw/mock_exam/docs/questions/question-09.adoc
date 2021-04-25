@@ -9,8 +9,8 @@
 | 2 Punkte
 |===
 
-Versetzen Sie sich in die Lage eines Softwarearchitekten für eine große und verteilte Geschäftsanwendung im Banken- oder Versicherungsbereich. 
-Welche der folgenden Aussagen sind richtig und welche falsch?
+Stellen Sie sich vor, Sie sind Softwarearchitekt:in für eine große und verteilte Geschäftsanwendung im Banken- oder Versicherungsbereich. 
+Welche der folgenden Aussagen sind für diese Situation richtig und welche falsch?
 
 
 [cols="2a,2a,1, 7", frame=none, grid=none]
