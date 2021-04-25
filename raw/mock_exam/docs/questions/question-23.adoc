@@ -17,19 +17,19 @@ Für welche Art von System kann das Blackboard-Architekturmuster verwendet werde
 
 | {n}
 | (a)
-| Systeme mit harten Echtzeitanforderungen.
+| Systeme mit harten Echtzeitanforderungen
 
 | {y}
 | (b)
-| Regelbasierte Systeme.
+| Regelbasierte Systeme
 
 | {n}
 | (c)
-| Linné-Systeme.
+| Linnés-Systeme
 
 | {n}
 | (c)
-| Sicherheitskritische Systeme.
+| Sicherheitskritische Systeme
 |===
 
 // end::DE[]
@@ -54,19 +54,19 @@ For which kind of system can the Blackboard Architecture pattern be used?
 
 | {n} 
 | (a)
-| Hard real-time systems.
+| Hard real-time systems
 
 | {y}
 | (b)
-| Rule-based systems.
+| Rule-based systems
 
 | {n}
 | (c)
-| Linnés systems.
+| Linnés systems
 
 | {n}
 | (c)
-| Safety critical systems.
+| Safety critical systems
 |===
 
 // end::EN[]
