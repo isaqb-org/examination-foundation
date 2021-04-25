@@ -14,7 +14,7 @@ Was sind Ihre DREI wichtigsten Verantwortlichkeiten als Softwarearchitekt:in in 
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {n} 
+| {y} 
 | (a)
 | Unterstützung der Fachexpert:innen dabei, Qualitätsanforderungen konkret und explizit zu formulieren.
 
@@ -27,7 +27,7 @@ Was sind Ihre DREI wichtigsten Verantwortlichkeiten als Softwarearchitekt:in in 
 | Ablehnung von Anforderungen, die technische Risiken enthalten.
 
 
-| {y}
+| {n}
 | (d) 
 | Umformulierung aller Geschäftsanforderungen, so dass sie für Ihr Entwicklungsteam verständlich sind.
 
