@@ -67,7 +67,7 @@ Which methods are appropriate in order to achieve a consistent and adequate docu
 | {y}
 | {n}
 | (a)
-| The chief architect coordinates the creation of the documentation.
+| The lead architect coordinates the creation of the documentation.
 
 | {y}
 | {n}
