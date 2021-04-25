@@ -17,11 +17,11 @@ Welche DREI der folgenden Ansätze kommen in der Praxis am häufigsten vor?
 
 | {n}
 | (a)
-| User-Interface Driven Design.
+| User-Interface Driven Design
 
 | {y}
 | (b) 
-| Domain-driven Design.
+| Domain-driven Design
 
 | {y}
 | (c) 
@@ -29,11 +29,11 @@ Welche DREI der folgenden Ansätze kommen in der Praxis am häufigsten vor?
 
 | {y}
 | (d) 
-| Bottom-up Design.
+| Bottom-up Design
 
 | {n}
 | (e) 
-| Mehrheitsentscheid.
+| Mehrheitsentscheid
 |===
 
 // end::DE[]
@@ -57,11 +57,11 @@ Which of the following are the THREE most often found in practice?
 
 | {n}
 | (a)
-| User interface driven design.
+| User interface driven design
 
 | {y}
 | (b)
-| Domain driven design.
+| Domain driven design
 
 | {y}
 | (c)
@@ -69,11 +69,11 @@ Which of the following are the THREE most often found in practice?
 
 | {y}
 | (d)
-| Bottom-up design.
+| Bottom-up design
 
 | {n}
 | (e)
-| Majority voting.
+| Majority voting
 |===
 
 // end::EN[]
