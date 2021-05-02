@@ -34,7 +34,7 @@ a| Größe der Bausteine (z.{nbsp}B. Lines-of-Code).
 
 | {y}
 | (e)
-| Anzahl der Entwickler, die zu einer bestimmten Komponente beigetragen haben.
+| Anzahl der Personen, die zu einer bestimmten Komponente beigetragen haben.
 
 |===
 
