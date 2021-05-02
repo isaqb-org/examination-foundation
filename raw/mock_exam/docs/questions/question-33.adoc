@@ -1,0 +1,98 @@
+// tag::DE[]
+=== Frage 33
+**ID: Q-20-04-26**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Frage: 
+|Wählen Sie für jede Zeile „richtig“ oder „falsch“ aus.
+| 1 Punkt
+|===
+
+Eine Definition lautet: „Softwarearchitektur ist die Summe aller während der Entwicklung gefällten Entscheidungen“.
+Kreuzen Sie an, welche der folgenden Aussagen zu Architektur- /Designentscheidungen richtig und welche falsch sind.
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| richtig
+| falsch
+|
+|
+
+| {y} 
+| {n}
+| (a)
+| Architektonische Entscheidungen können sich in der Struktur der Bausteine oder Komponenten niederschlagen.
+
+| {n}
+| {y}
+| (b)
+| Softwarearchitekt:innen sollten alle Entwurfsentscheidungen schriftlich begründen.
+
+| {y}
+| {n}
+| (c)
+| Architektonische Entscheidungen können untereinander Wechselwirkungen haben.
+
+| {y}
+| {n}
+| (d)
+| Kompromisse zwischen zueinander in Konflikt stehenden Qualitätsanforderungen sollten explizite Entscheidungen sein.
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 33
+**ID: Q-20-04-26**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Question: 
+|Select „true“ or „false" for every line.
+| 1 point
+|===
+
+One definition says: “Software architecture is the sum of all the decisions you have taken during development.
+Check which of the following statements about architectural/design decision is true and which is false.
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| true
+| false
+|
+|
+
+
+| {y}
+| {n}
+| (a)
+| Architectural decisions can impact the structure of the building block or components.
+
+| {n}
+| {y}
+| (b)
+| Software architects shall justify all design decisions in writing.
+
+| {y}
+| {n}
+| (c)
+| Architectural decisions can have interdependencies between each other.
+
+| {y}
+| {n}
+| (d)
+| Tradeoffs between conflicting quality requirements should be explicit decisions.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+Not _all_ decisions need to be justified in writing - as the requirement for _written_ documentation depends on the situation, the team, the system and other factors.
+// end::EXPLANATION[]
+

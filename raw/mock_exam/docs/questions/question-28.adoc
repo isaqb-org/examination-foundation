@@ -1,0 +1,94 @@
+// tag::DE[]
+
+=== Frage 28
+**ID: Q-20-04-37**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Frage: 
+|Wählen Sie für jede Zeile „richtig“ oder „falsch“ aus.
+| 2 Punkte
+|===
+
+Welche der folgenden Aussagen zu Notationen für Architektursichten sind richtig und welche falsch?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| wahr
+| falsch
+|
+|
+
+| {n}
+| {y}
+| (a)
+| Business Process Model & Notation (BPMN) sollte nur von Business-Analysten und nicht zur Architekturdokumentation verwendet werden.
+
+| {n}
+| {y}
+| (b)
+| UML-Verteilungsdiagramme sind die einzige Möglichkeit zur Dokumentation des Mappings der Softwarekomponenten in Bezug auf die Infrastruktur.
+
+| {y}
+| {n}
+| (c)
+| UML-Paketdiagramme können zum Festhalten der Bausteinsicht der Softwarearchitektur verwendet werden.
+
+| {y}
+| {n}
+| (d)
+a| Solange die Notation (z.{nbsp}B. mithilfe einer Legende) erläutert wird, kann eine beliebige Notation ausreichen, um Bausteinstrukturen und Zusammenarbeit zu beschreiben.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 28
+**ID: Q-20-04-37**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Question: 
+|Select „true“ or „false" for every line.
+| 2 points
+|===
+
+Which of the following statements about notations for architectural views is true and which is false?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| true
+| false
+|
+|
+
+| {n}
+| {y}
+| (a)
+| Business Process Model & Notation (BPMN) should only be used by Business Analysts and not for architecture documentation.
+
+| {n}
+| {y}
+| (b)
+| UML deployment models are the only way to document the mapping of software components to infrastructure.
+
+| {y}
+| {n}
+| (c)
+| UML Package Diagrams can be used to capture the building-block view of software architectures.
+
+| {y}
+| {n}
+| (c)
+| As long as the notation is explained (e.g. by a legend), any notation can be sufficient to describe building block structures and collaboration.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+

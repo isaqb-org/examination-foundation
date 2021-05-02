@@ -1,0 +1,83 @@
+// tag::DE[]
+=== Frage 16
+**ID: Q-20-04-19**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage: 
+| Wählen Sie die **drei** am besten passenden Antworten aus
+| 1 Punkt
+|===
+
+Kreuzen Sie die DREI zutreffendsten Beispiele für typische Kategorien von Softwaresystemen an.
+
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {y} 
+| (a)
+| Batch-System
+
+| {y}
+| (b) 
+| Interaktives Online-System
+
+| {n}
+| (c) 
+| Linnés-System.
+
+| {y}
+| (d) 
+| Eingebettetes Echtzeitsystem.
+
+| {n}
+| (e) 
+| Integrationstestsystem
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 16
+**ID: Q-20-04-19**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question: 
+| Select the **three** best fitting answers
+| 1 point
+|===
+
+Identify the THREE most appropriate examples for typical categories of software systems.
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {y}
+| (a)
+| Batch system
+
+| {y}
+| (b)
+| Interactive online system
+
+| {n}
+| (c)
+| Linnés system.
+
+| {y}
+| (d)
+| Embedded real-time system.
+
+| {n}
+| (e)
+| Integration test system.
+|===
+
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+

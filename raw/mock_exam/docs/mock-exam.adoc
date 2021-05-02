@@ -1,0 +1,29 @@
+// handle numerous attributes. Successful include of this file
+// is ABSOLUTELY NECESSARY!!
+include::config/setup.adoc[]
+
+ifeval::["{language}" == "DE"]
+= Beispielprüfung: pass:q[<br><br>]iSAQB^(R)^ Certified Professional forpass:q[<br>]Software Architecture –pass:q[<br>]Foundation Level (CPSA-F)^(R)^
+endif::[]
+
+ifeval::["{language}" == "EN"]
+= Mock Exam:pass:q[<br>]iSAQB^(R)^ Certified Professional forpass:q[<br>]Software Architecture –pass:q[<br>]Foundation Level (CPSA-F)^(R)^
+endif::[]
+
+// document-version fallback, should usually be overwritten by the build process,
+// e.g. build.gradle
+:document-version: 2020.1
+
+// define terms for toc, learning-goals
+include::config/i18n-definitions.adoc[tags={language}]
+
+ifdef::backend-pdf[]
+:title-logo-image: image:isaqb-logo.jpg[pdfwidth=4.25in,align=center]
+endif::[]
+
+<<<
+include::preamble/introduction.adoc[{include_configuration}]
+
+<<<
+include::questions/00-structure.adoc[{include_configuration}]
+

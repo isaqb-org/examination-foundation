@@ -1,0 +1,3 @@
+[submodule "raw/mock_exam/pdf-theme"]
+	path = raw/mock_exam/pdf-theme
+	url = https://github.com/isaqb-org/pdf-theme

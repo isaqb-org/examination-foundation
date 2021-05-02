@@ -1,0 +1,79 @@
+// tag::DE[]
+=== Frage 31
+**ID: Q-20-04-24**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage: 
+| Wählen Sie die **zwei** am besten passenden Gründe
+| 1 Punkt
+|===
+
+Die Dokumentation der Softwarearchitektur sollte Beschreibungen der Querschnittskonzepte enthalten.
+Wählen Sie die zwei besten Gründe, warum die Dokumentation von Querschnittskonzepte sinnvoll ist.
+
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {n}
+| (a)
+| Querschnittskonzepte sollten sich auf die Fachdomäne konzentrieren und frei von technischen Informationen sein.
+
+| {y}
+| (b)
+| Aspekte oder Konzepte, die in mehreren Teilen Ihrer Softwarearchitektur verwendet werden, sollten auf nicht redundante Weise beschrieben werden.
+
+| {y}
+| (c)
+| Querschnittskonzepte können in weiteren Produkten innerhalb der gleichen Organisation  erneut verwendet werden.
+
+| {n}
+| (d)
+| Querschnittskonzepte sollten von Spezialist:innen implementiert werden. Daher ist eine separate Dokumentation hilfreich.
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 31
+**ID: Q-20-04-24**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question: 
+| Select the **two** best reasons
+| 1 point
+|===
+
+Software architecture documentation could contain descriptions of cross-cutting concerns.
+Pick the TWO best reasons why documentation of cross-cutting concerns is useful.
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {n}
+| (a)
+| Cross-cutting concepts should focus on the domain and be free of technical information.
+
+| {y}
+| (b)
+| Aspects or concepts that are used in multiple parts of your software architecture should be described in a non-redundant way.
+
+| {y}
+| (c)
+| Cross-cutting concepts can be reused in more products within the same organization.
+
+| {n}
+| (d)
+| Cross-cutting concepts should be implemented by specialists.
+Therefore, separate documentation is useful.
+
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+

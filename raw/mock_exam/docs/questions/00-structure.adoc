@@ -1,0 +1,126 @@
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+// tag::DE[]
+== Fragen
+// end::DE[]
+
+// tag::EN[]
+== Questions
+// end::EN[]
+
+
+include::question-01.adoc[{include_configuration}]
+
+// Dünne Haarlinie zwischen den Fragen
+// thin hairling between questions
+- - -
+
+include::question-02.adoc[{include_configuration}]
+
+// manueller Seitenumbruch
+// manual pagebreak
+<<<
+
+include::question-03.adoc[{include_configuration}]
+- - -
+include::question-04.adoc[{include_configuration}]
+
+<<<
+include::question-05.adoc[{include_configuration}]
+- - -
+include::question-06.adoc[{include_configuration}]
+
+<<<
+include::question-07.adoc[{include_configuration}]
+- - -
+include::question-08.adoc[{include_configuration}]
+
+<<<
+include::question-09.adoc[{include_configuration}]
+- - -
+include::question-10.adoc[{include_configuration}]
+
+<<<
+include::question-11.adoc[{include_configuration}]
+- - -
+include::question-12.adoc[{include_configuration}]
+- - -
+
+<<<
+include::question-13.adoc[{include_configuration}]
+- - -
+include::question-14.adoc[{include_configuration}]
+
+<<<
+include::question-15.adoc[{include_configuration}]
+- - -
+include::question-16.adoc[{include_configuration}]
+
+
+<<<
+include::question-17.adoc[{include_configuration}]
+- - -
+include::question-18.adoc[{include_configuration}]
+
+<<<
+include::question-19.adoc[{include_configuration}]
+- - -
+include::question-20.adoc[{include_configuration}]
+
+<<<
+include::question-21.adoc[{include_configuration}]
+- - -
+include::question-22.adoc[{include_configuration}]
+
+<<<
+include::question-23.adoc[{include_configuration}]
+- - -
+include::question-24.adoc[{include_configuration}]
+
+<<<
+include::question-25.adoc[{include_configuration}]
+- - -
+include::question-26.adoc[{include_configuration}]
+
+<<<
+include::question-27.adoc[{include_configuration}]
+- - -
+
+include::question-28.adoc[{include_configuration}]
+
+<<<
+include::question-29.adoc[{include_configuration}]
+- - -
+include::question-30.adoc[{include_configuration}]
+
+<<<
+include::question-31.adoc[{include_configuration}]
+- - -
+include::question-32.adoc[{include_configuration}]
+
+<<<
+include::question-33.adoc[{include_configuration}]
+- - -
+include::question-34.adoc[{include_configuration}]
+
+<<<
+include::question-35.adoc[{include_configuration}]
+- - -
+include::question-36.adoc[{include_configuration}]
+
+<<<
+include::question-37.adoc[{include_configuration}]
+- - -
+include::question-38.adoc[{include_configuration}]
+
+<<<
+include::question-39.adoc[{include_configuration}]
+- - -
+
+
+
+// tag::EXPLANATION[]
+// nothing to be explained in structure-document...
+// end::EXPLANATION[]

@@ -1,0 +1,13 @@
+// tag::DE[]
+:lang: DE
+:toc-title: Inhaltsverzeichnis
+
+// end::DE[]
+
+
+
+// tag::EN[]
+:lang: EN
+:toc-title: Table of Contents
+
+// end::EN[]

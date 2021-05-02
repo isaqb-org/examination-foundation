@@ -1,0 +1,94 @@
+// tag::DE[]
+=== Frage 18
+**ID: Q-20-04-38**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage: 
+| Wählen Sie die **drei** am häufigsten verwendeten Architektursichten
+| 1 Punkt
+|===
+
+Diverse Architekturentwicklungsmethoden schlagen einen sichtenbasierten Ansatz vor.
+Welche DREI der folgenden Sichten werden am häufigsten verwendet?
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {n}
+| (a)
+| Physische Datenbanksicht
+
+| {y}
+| (b) 
+| Kontextsicht
+
+| {y}
+| (c) 
+| Bausteinsicht oder Komponentensicht
+
+| {n}
+| (d) 
+| Testbasierte Sicht
+
+| {n}
+| (e) 
+| Konfigurationssicht
+
+| {y}
+| (f)
+| Laufzeitsicht
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 18
+**ID: Q-20-04-38**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question: 
+| Select the **three** most often used architecture views
+| 1 point
+|===
+
+Several architecture development methods suggest a view-based approach.
+Which three of the following views are most often used?
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+
+| {n}
+| (a)
+| Physical database view
+
+| {y}
+| (b)
+| Context view
+
+| {y}
+| (c)
+| Building Block/Component view
+
+| {n}
+| (d)
+| Test-driven view
+
+
+| {n}
+| (e)
+| Configuration view
+
+| {y}
+| (f)
+| Runtime view
+
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+
