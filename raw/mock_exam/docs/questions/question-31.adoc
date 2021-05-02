@@ -26,11 +26,11 @@ Wählen Sie die zwei besten Gründe, warum die Dokumentation von Querschnittskon
 
 | {y}
 | (c)
-| Querschnittskonzepte können in weiteren Produkten mit der gleichen Organisation erneut verwendet werden.
+| Querschnittskonzepte können in weiteren Produkten innerhalb der gleichen Organisation  erneut verwendet werden.
 
 | {n}
 | (d)
-| Querschnittskonzepte sollten von einem Spezialisten implementiert werden. Daher ist eine separate Dokumentation hilfreich.
+| Querschnittskonzepte sollten von Spezialist:innen implementiert werden. Daher ist eine separate Dokumentation hilfreich.
 
 |===
 
