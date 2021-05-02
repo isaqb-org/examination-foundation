@@ -1,12 +1,96 @@
 // tag::DE[]
 === Frage 12
-**ID: Q-20-04-08** entfernt, da nicht kompatibel mit iSAQB Curriculum.
+**ID: Q-21-05-01**
+
+
+
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Frage: 
+|Wählen Sie für jede Zeile „Wahr“ oder „Falsch“ aus. 
+| 1 Punkt
+|===
+
+Welche der folgenden Aussagen zu Architekturentscheidungen sind wahr, welche falsch?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| Wahr
+| Falsch
+|
+|
+
+| {n} 
+| {y}
+| (a)
+| Architekturentscheidungen müssen nie aufgeschrieben werden, da diese bereits dem Entwicklungsteam bekannt sind.
+
+| {y}
+| {n}
+| (b) 
+| Architecture Decision Records helfen dabei, Entscheidungen in ihrem Kontext nachzuvollziehen.
+
+| {n}
+| {y} 
+| (c) 
+| Nachdem man sich für ein zentrales Framework (z.B. Persistenzframework) entschieden hat, darf diese Entscheidung nicht mehr geändert werden.
+
+| {y}
+| {n} 
+| (d) 
+| Qualitätsanforderungen helfen maßgeblich bei Architekturentscheidungen.
+|===
 
 // end::DE[]
 
 // tag::EN[]
 === Question 12
-**ID: Q-20-04-08**, removed as not compatible with CPSA-F curriculum.
+**ID: Q-21-05-01**
+
+
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+|K-Question: 
+|Select „true“ or „false" for every option.
+| 1 point
+|===
+
+Which of the following statements regarding architecture decisions are true, which are false?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| True
+| False
+|
+|
+
+| {n} 
+| {y}
+| (a)
+| Architecture decisions never need to be written down because they are already known to the development team.
+
+| {y}
+| {n}
+| (b) 
+| An architecture decision record helps to make the decision's context understood.
+
+| {n}
+| {y} 
+| (c) 
+| Once a decision has been made on a central or fundamental framework (e.g. persistence framework), that decision must not be changed.
+
+| {y}
+| {n} 
+| (d) 
+| Quality requirements help significantly with architecture decisions.
+|===
+
 
 // end::EN[]
 
