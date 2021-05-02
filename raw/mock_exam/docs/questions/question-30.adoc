@@ -25,7 +25,7 @@ Wählen Sie die ZWEI am besten passenden Antworten für den technischen Kontext 
 
 | {n}
 | (c)
-| Der technische Kontext sollte die Hardware-Preisliste oder die Preisgestaltung von Cloud- Diensten, die als Infrastruktur für Ihre Architektur verwendet werden, enthalten.
+| Der technische Kontext sollte die Hardware-Preisliste oder die Preisgestaltung von Cloud-Diensten, die als Infrastruktur für Ihre Architektur verwendet werden, enthalten.
 
 | {n}
 | (d)
@@ -33,7 +33,7 @@ Wählen Sie die ZWEI am besten passenden Antworten für den technischen Kontext 
 
 | {y}
 | (e) 
-| Der technische Kontext enthält gegebenenfalls andere Elemente als der Geschäftskontext (_business context_).
+| Der technische Kontext enthält gegebenenfalls andere Elemente als der Geschäftskontext ("business context").
 |===
 
 // end::DE[]
