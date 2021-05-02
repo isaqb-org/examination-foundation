@@ -79,5 +79,6 @@ What are your THREE most important responsibilities as a software architect with
 // end::EN[]
 
 // tag::EXPLANATION[]
+
 (d): It's **not** our task to _reject_ requirements just because they contain risks. We should identify and communicate those risks, but not reject such requirements.
 // end::EXPLANATION[]

@@ -1,4 +1,5 @@
 // tag::DE[]
+
 === Frage 28
 **ID: Q-20-04-37**
 
@@ -38,7 +39,7 @@ Welche der folgenden Aussagen zu Notationen für Architektursichten sind richtig
 | {y}
 | {n}
 | (d)
-| Solange die Notation (z.{nbsp}B. mithilfe einer Legende) erläutert wird, kann eine beliebige Notation ausreichen, um Bausteinstrukturen und Zusammenarbeit zu beschreiben.
+a| Solange die Notation (z.{nbsp}B. mithilfe einer Legende) erläutert wird, kann eine beliebige Notation ausreichen, um Bausteinstrukturen und Zusammenarbeit zu beschreiben.
 |===
 
 // end::DE[]
@@ -79,6 +80,7 @@ Which of the following statements about notations for architectural views is tru
 | {n}
 | (c)
 | UML Package Diagrams can be used to capture the building-block view of software architectures.
+
 | {y}
 | {n}
 | (c)

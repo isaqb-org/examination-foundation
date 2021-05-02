@@ -95,5 +95,6 @@ Decide for each of the following statements whether it is true or false.
 // tag::EXPLANATION[]
 * Sometimes verbal communication needs to come first, there is no general rule.
 * Feedback should not be restricted to written statements.
+
 // end::EXPLANATION[]
 
