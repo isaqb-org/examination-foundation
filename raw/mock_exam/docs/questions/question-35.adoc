@@ -39,7 +39,7 @@ Welche der folgenden Eigenschaftspaare stehen üblicherweise miteinander in Konf
 | {n}
 | {y}
 | (d)
-| Sicherheit – Einhaltung gesetzlicher Vorgaben (_Compliance_).
+| Sicherheit – Einhaltung gesetzlicher Vorgaben ("Compliance").
 
 |===
 
