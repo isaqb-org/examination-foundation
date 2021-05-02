@@ -27,8 +27,6 @@ Anders gesagt: Was könnte passieren, wenn Teile des Quellcodes oder der Konfigu
 | (c)
 | Die Komponenten des Systems mit redundantem Code können unabhängig voneinander verbessert werden.
 
-
-
 | {n}
 | (d)
 | Die Einhaltung von DRY führt zu einer Verringerung der Angriffsvektoren in der IT- Sicherheit.
