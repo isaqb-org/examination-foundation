@@ -24,7 +24,7 @@ Welche der folgenden Aussagen sind typische Gründe zur Führung einer (angemess
 | {y}
 | {n}
 | (a)
-| Unterstützung des Onboardings neuer Entwickler.
+| Unterstützung des Onboardings neuer Entwickler:innen.
 
 | {n}
 | {y}
