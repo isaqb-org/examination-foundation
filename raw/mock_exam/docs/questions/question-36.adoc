@@ -18,23 +18,23 @@ Wählen Sie die zwei besten Alternativen aus.
 
 | {n}
 | (a)
-| Durch die Entwicklung von UI-Prototypen.
+| Durch entwickeln von UI-Prototypen.
 
 | {n}
 | (b)
-| Durch die Definition expliziter Schnittstellen.
+| Durch definieren expliziter Schnittstellen.
 
 | {y}
 | (c)
-| Durch die Diskussion oder Abfassung von Szenarien.
+| Durch erstellen, verfassen oder diskutieren von Szenarien.
 
 | {n}
 | (d) 
-| Durch die Erstellung automatisierter Tests.
+| Durch erstellen automatisierter Tests.
 
 | {y}
 | (e)
-| Durch die Erstellung eines Qualitätsbaums.
+| Durch erstellen eines Qualitätsbaums.
 |===
 
 // end::DE[]
