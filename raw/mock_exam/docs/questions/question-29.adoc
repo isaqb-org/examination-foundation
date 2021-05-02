@@ -24,7 +24,7 @@ Welche zwei Architektursichten haben die beste praktische Anwendung für die Ent
 
 | {y}
 | (c)
-| Baustein- (oder Komponenten-) Sicht.
+| Bausteinsicht (Komponentensicht).
 
 | {y}
 | (d)
@@ -62,7 +62,7 @@ Which architectural views have the most practical application for developing sof
 
 | {y}
 | (c)
-| Building-Block (or Component) View.
+| Building-Block View (Component View).
 
 | {y}
 | (d)
