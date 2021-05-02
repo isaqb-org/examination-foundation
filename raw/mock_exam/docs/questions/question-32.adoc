@@ -29,12 +29,12 @@ Kreuzen Sie an, welche der folgenden Aussagen richtig und welche falsch sind.
 | {y}
 | {n}
 | (b)
-| Der Client-Code sollte angemessen leicht zu verstehen sein.
+| Es soll möglich sein, angemessen verständlichen Client-Code für diese Schnittstelle zu schreiben.
 
 | {n}
 | {y}
 | (c)
-| Eine Schnittstelle soll Zugriff auf eine umfassende Menge von Implementierungsdetails ermöglichen
+| Eine Schnittstelle soll Zugriff auf eine umfassende Menge von Implementierungsdetails ermöglichen.
 
 | {y}
 | {n}
@@ -44,7 +44,8 @@ Kreuzen Sie an, welche der folgenden Aussagen richtig und welche falsch sind.
 | {n}
 | {y}
 | (e)
-| Eine Schnittstelle soll die Implementierung so abstrahieren, dass eine Unterscheidung zwischen lokalen und entfernten Aufrufen nicht nötig ist.
+| Lokale und entfernte ("remote") Aufrufe dieser Schnittstelle sollen sich in allen Belangen identisch verhalten.
+
 |===
 
 // end::DE[]
@@ -95,11 +96,13 @@ Check which of the following statements are true and which are false.
 | {n}
 | {y}
 | (e)
-| An interface should abstract the implementation details so that it is unnecessary to differentiate between local and remote access.
+| Local and remote calls to this interface should behave identically in all aspects.
 |===
 
 // end::EN[]
 
 // tag::EXPLANATION[]
+
+
 // end::EXPLANATION[]
 
