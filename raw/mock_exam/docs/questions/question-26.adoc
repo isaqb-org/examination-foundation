@@ -29,11 +29,11 @@ Anders gesagt: Was könnte passieren, wenn Teile des Quellcodes oder der Konfigu
 
 | {n}
 | (d)
-| Die Einhaltung von DRY führt zu einer Verringerung der Angriffsvektoren in der IT- Sicherheit.
+| Die Einhaltung von DRY führt zu einer Verringerung der Angriffsvektoren in der IT-Sicherheit.
 
 | {n}
 | (e)
-| Die Anwendung der Schichtmuster ermöglicht eine konsistente Anwendung des DRY- Prinzips.
+| Die Anwendung der Schichtmuster ermöglicht eine konsistente Anwendung des DRY-Prinzips.
 |===
 
 // end::DE[]
