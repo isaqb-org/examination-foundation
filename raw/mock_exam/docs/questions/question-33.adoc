@@ -29,7 +29,7 @@ Kreuzen Sie an, welche der folgenden Aussagen zu Architektur- /Designentscheidun
 | {n}
 | {y}
 | (b)
-| Softwarearchitekten sollten alle Entwurfsentscheidungen schriftlich begründen.
+| Softwarearchitekt:innen sollten alle Entwurfsentscheidungen schriftlich begründen.
 
 | {y}
 | {n}
