@@ -4,6 +4,13 @@ As we maintain binary documents in this repo, we keep a (manually updated) chang
 
 ## Mock Exam Questions
 
+### 2021.2-rev0 (May 2021)
+Thanx to all contributors for their detailed reviews and suggestions. 
+
+* We removed numerous formating issues rooted in the manual migration from docx.
+* We now have 39 questions (again) 
+
+
 ### 2021.1-rev7 (March/April 2021)
 We migrated the (binary, docx) content to AsciiDoc.
 Every question is now contained in its own distinct adoc-file.
