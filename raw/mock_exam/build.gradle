@@ -32,6 +32,12 @@ ext {
 class RenderMockExamTask extends AsciidoctorTask {
     @Inject
     RenderMockExamTask(String fileName, String versionDate, String language, boolean withAnswers) {
+
+        def docType = ' (Q)'
+        if (withAnswers) {
+            docType = ' (A)'
+        }
+
         sourceDir = new File("./docs/")
         sources {
             include "${fileName}.adoc"
@@ -46,8 +52,8 @@ class RenderMockExamTask extends AsciidoctorTask {
                 'icons'           : 'font',
                 'version-label'   : '',
                 'revnumber'       : fileVersion,
-                'revdate'         : versionDate,
-                'document-version': fileVersion + "-" + versionDate,
+                'revdate'         : versionDate + docType,
+                'document-version': fileVersion + "-" + versionDate + docType,
                 'currentDate'     : versionDate,
                 'language'        : language,
                 'withAnswers'     : withAnswers,
