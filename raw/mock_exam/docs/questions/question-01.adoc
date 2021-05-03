@@ -6,7 +6,7 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Frage:
-| Wählen Sie eine Option aus
+| Wählen Sie eine Antwort aus
 | 1 Punkt
 |===
 
@@ -38,7 +38,7 @@ Wie viele Definitionen des Begriffes "Softwarearchitektur" gibt es?
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Question:
-| Select one option
+| Choose one answer
 | 1 point
 |===
 

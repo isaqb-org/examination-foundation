@@ -6,7 +6,7 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Frage:
-| Wählen Sie eine Option aus
+| Wählen Sie eine Antwort aus
 | 1 Punkt
 |===
 
@@ -42,8 +42,8 @@ Welche der folgenden Eigenschaften lässt sich am ehesten durch eine Schichtenar
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Question:
-| Select one option
-| 1 point
+| Choose one answer
+| 1 Point
 |===
 
 
