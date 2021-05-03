@@ -35,7 +35,7 @@ Es ist ausdrücklich untersagt, diese Prüfungsfragen in einer echten Prüfung z
 // end::DE[]
 
 // tag::EN[]
-== Introduction: General information about the iSAQB Advanced Level
+== Explanatory notes on the Mock Exam Certified Professional for Software Architecture – Foundation Level (CPSA-F^(R)^)
 Explanations to the mock exam Certified Professional for Software Architecture - Foundation Level (CPSA-F®)
 This examination is a mock exam, which is based on the certification exam of the Certified Professional for Software Architecture - Foundation Level (CPSA-F®) in form and scope. It serves to illustrate the real iSAQB® CPSA® examination as well as to prepare for the corresponding exam.
 The mock exam consists of 39 multiple-choice questions, which can be evaluated with 1 or 2 points depending on the level of difficulty. 
