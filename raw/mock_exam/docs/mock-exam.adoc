@@ -7,7 +7,7 @@ ifeval::["{language}" == "DE"]
 endif::[]
 
 ifeval::["{language}" == "EN"]
-= Mock Exam:pass:q[<br>]iSAQB^(R)^ Certified Professional forpass:q[<br>]Software Architecture –pass:q[<br>]Foundation Level (CPSA-F)^(R)^
+= Mock Exam: pass:q[<br>]iSAQB^(R)^ Certified Professional forpass:q[<br>]Software Architecture –pass:q[<br>]Foundation Level (CPSA-F)^(R)^
 endif::[]
 
 // document-version fallback, should usually be overwritten by the build process,
