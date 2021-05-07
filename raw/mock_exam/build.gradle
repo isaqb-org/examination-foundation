@@ -31,7 +31,8 @@ ext {
 
 class RenderMockExamTask extends AsciidoctorTask {
     @Inject
-    RenderMockExamTask(String fileName, String versionDate, String language, boolean withAnswers) {
+    RenderMockExamTask(String fileName, String versionDate, String language, boolean withAnswers, String docType) {
+
         sourceDir = new File("./docs/")
         sources {
             include "${fileName}.adoc"
@@ -45,9 +46,9 @@ class RenderMockExamTask extends AsciidoctorTask {
         attributes = [
                 'icons'           : 'font',
                 'version-label'   : '',
-                'revnumber'       : fileVersion,
+                'revnumber'       : docType + ' ' + fileVersion,
                 'revdate'         : versionDate,
-                'document-version': fileVersion + "-" + versionDate,
+                'document-version': docType + ' ' + fileVersion + "-" + versionDate,
                 'currentDate'     : versionDate,
                 'language'        : language,
                 'withAnswers'     : withAnswers,
@@ -65,14 +66,14 @@ task buildDocs {
 }
 
 task renderQuestionsOnlyDE(type: RenderMockExamTask,
-        constructorArgs: [fileName, versionDate, "DE", false]) {
+        constructorArgs: [fileName, versionDate, "DE", false, "Fragebogen"]) {
     doLast {
         addSuffixToMockExam("-questions-de")
     }
 }
 
 task renderQuestionsAndAnswersDE(type: RenderMockExamTask,
-        constructorArgs: [fileName, versionDate, "DE", true]) {
+        constructorArgs: [fileName, versionDate, "DE", true, "Antwortbogen"]) {
     doLast {
         addSuffixToMockExam("-answers-de")
     }
@@ -80,14 +81,14 @@ task renderQuestionsAndAnswersDE(type: RenderMockExamTask,
 
 
 task renderQuestionsOnlyEN(type: RenderMockExamTask,
-        constructorArgs: [fileName, versionDate, "EN", false]) {
+        constructorArgs: [fileName, versionDate, "EN", false, "Question Sheet"]) {
     doLast {
         addSuffixToMockExam("-questions-en")
     }
 }
 
 task renderQuestionsAndAnswersEN(type: RenderMockExamTask,
-        constructorArgs: [fileName, versionDate, "EN", true]) {
+        constructorArgs: [fileName, versionDate, "EN", true, "Answer Sheet"]) {
     doLast {
         addSuffixToMockExam("-answers-en")
     }
