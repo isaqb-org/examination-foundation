@@ -44,7 +44,7 @@ Welche der folgenden Aussagen sind typische Gründe zur Führung einer (angemess
 | {y}
 | {n}
 | (e)
-| Einhaltung von gesetzlichen Vorgaben.
+| Einhaltung regulatorischer Vorgaben.
 
 | {n}
 | {y}
@@ -99,7 +99,7 @@ Which of the following statements are typical reasons for maintaining adequate a
 | {y}
 | {n}
 | (e)
-| To conform to legal constraints.
+| To conform to regulatory or legal constraints.
 
 | {n}
 | {y}
