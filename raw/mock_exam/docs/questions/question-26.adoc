@@ -33,7 +33,7 @@ Anders gesagt: Was könnte passieren, wenn Teile des Quellcodes oder der Konfigu
 
 | {n}
 | (e)
-| Die Anwendung der Schichtmuster ermöglicht eine konsistente Anwendung des DRY-Prinzips.
+| Die Anwendung der Schichtenmuster ermöglicht eine konsistente Anwendung des DRY-Prinzips.
 |===
 
 // end::DE[]
