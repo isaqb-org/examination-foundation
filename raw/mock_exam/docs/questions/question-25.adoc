@@ -32,7 +32,7 @@ Was sind die Eigenschaften von enger (hoher) bzw. loser (niedriger) Kopplung?
 | {y}
 | {n}
 | (c)
-| Bausteine verwenden eine gemeinsame Tabelle innerhalb einer relationalen Datenbank.
+| Bausteine verwenden eine gemeinsame Tabelle (für Schreib- und Leseoperationen) innerhalb einer relationalen Datenbank.
 
 | {n}
 | {y}
@@ -79,7 +79,7 @@ i.e., without using indirect calls via interfaces or abstractions.
 | {y}
 | {n}
 | (c)
-| Building blocks use a shared table within a relational database.
+| Building blocks use a shared table (for read- and write operations) within a relational database.
 
 | {n}
 | {y}
