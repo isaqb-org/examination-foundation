@@ -24,7 +24,8 @@ Welche VIER der folgenden Aussagen zu (Querschnitts-) Konzepten sind am zutreffe
 
 | {y}
 | (c) 
-| Eine einheitliche Ausnahmebehandlung wird am einfachsten erreicht, wenn die Architekt:innen mit den Entwickler:innen vor der Implementierung ein geeignetes Konzept vereinbaren.
+| Eine einheitliche Ausnahmebehandlung (_Exception Handling_) kann man gut erreichen, indem die
+Architekt:innen mit den Entwickler:innen vor der Implementierung ein geeignetes Konzept vereinbaren.
 
 | {n}
 | (d) 
@@ -72,7 +73,7 @@ Which FOUR of the following statements about (crosscutting) concepts are most ap
 
 | {y}
 | (c)
-| Uniform exception handling is most easily achieved when architects agree with developers upon a suitable concept prior to implementation.
+| Uniform exception handling can be achieved when architects agree with developers upon a suitable concept prior to implementation.
 
 | {n}
 | (d)
