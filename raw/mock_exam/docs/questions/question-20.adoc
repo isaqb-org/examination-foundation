@@ -21,7 +21,7 @@ Wählen Sie die ZWEI passendsten Antworten aus.
 
 | {y}
 | (b) 
-| Die wichtigsten Eigenschaften für das System sind bekannt.
+| Die wichtigsten Qualitätsanforderungen an das System sind bekannt.
 
 | {y}
 | (c)
