@@ -33,7 +33,7 @@ Welche der folgenden Aussagen zum Entwurfsprinzip "Information Hiding" sind rich
 | {n}
 | {y} 
 | (c) 
-| Information Hiding erschwert die Unterscheidung zwischen Schnittstelle und Implementierung.
+| Information Hiding erschwert das Bottom-Up Vorgehen.
 
 | {n}
 | {y} 
@@ -78,7 +78,7 @@ Which of the following statements regarding the information hiding principle are
 | {n}
 | {y} 
 | (c) 
-| Information hiding makes it harder to distinguish between interface and implementation.
+| Information hiding makes it harder to work bottum-up.
 
 | {n}
 | {y} 
