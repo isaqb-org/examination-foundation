@@ -103,6 +103,15 @@ Check which of the following statements are true and which are false.
 
 // tag::EXPLANATION[]
 
+==== Explanation 
+
+Regarding option (e), "identical behavior in all aspects": 
+It's technically not feasible to have _identical_ behavior, at least concerning latency,
+and response time. 
+
+A more detailed explanation can be found in the (rather famous) https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing[Fallacies_of_distributed_computing]
+
+
 
 // end::EXPLANATION[]
 
