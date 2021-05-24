@@ -44,7 +44,7 @@ Kreuzen Sie an, welche der folgenden Aussagen richtig und welche falsch sind.
 | {n}
 | {y}
 | (e)
-| Lokale und entfernte ("remote") Aufrufe dieser Schnittstelle sollen sich in allen Belangen identisch verhalten.
+| Lokale und entfernte ("remote") Aufrufe einer Schnittstelle sollen sich in allen Belangen identisch verhalten.
 
 |===
 
@@ -96,7 +96,7 @@ Check which of the following statements are true and which are false.
 | {n}
 | {y}
 | (e)
-| Local and remote calls to this interface should behave identically in all aspects.
+| Local and remote calls to an interface should behave identically in all aspects.
 |===
 
 // end::EN[]
