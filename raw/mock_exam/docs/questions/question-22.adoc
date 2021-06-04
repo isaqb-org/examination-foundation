@@ -43,7 +43,7 @@ Welche der folgenden Eigenschaften lässt sich am ehesten durch eine Schichtenar
 |===
 | A-Question:
 | Select one option
-| 1 Point
+| 1 point
 |===
 
 
