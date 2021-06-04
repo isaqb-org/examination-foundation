@@ -47,7 +47,7 @@ Welche der folgenden Aussagen sind für diese Situation richtig und welche falsc
 |===
 |K-Question: 
 |Select „True" or „False" for every line. 
-| 1 point
+| 2 points
 |===
 
 Put yourself in the position of a software architect for a large, distributed business application in the banking or insurance domain. 
