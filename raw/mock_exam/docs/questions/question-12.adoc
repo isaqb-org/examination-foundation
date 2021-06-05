@@ -65,8 +65,8 @@ Which of the following statements regarding architecture decisions are true, whi
 [cols="2a,2a,1, 7", frame=none, grid=none]
 |===
 
-| True
-| False
+| true
+| false
 |
 |
 

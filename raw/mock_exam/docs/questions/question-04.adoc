@@ -59,8 +59,8 @@ Which methods are appropriate in order to achieve a consistent and adequate docu
 [cols="2a,2a,1, 7", frame=none, grid=none]
 |===
 
-| Appropriate
-| Not appropriate
+| appropriate
+| not appropriate
 |
 |
 
