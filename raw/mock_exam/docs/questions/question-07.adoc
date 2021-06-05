@@ -50,7 +50,7 @@ Welche der folgenden Aussagen zum Entwurfsprinzip "Information Hiding" sind rich
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 |K-Question: 
-|Select "True" or „False" for every line. 
+|Select "true" or „false" for every line. 
 | 1 point
 |===
 
@@ -59,8 +59,8 @@ Which of the following statements regarding the information hiding principle are
 [cols="2a,2a,1, 7", frame=none, grid=none]
 |===
 
-| True
-| False
+| true
+| false
 |
 |
 
