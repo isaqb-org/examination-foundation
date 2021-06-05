@@ -45,7 +45,7 @@ Welche DREI der folgenden Grundsätze gelten für das Testen?
 |===
 | P-Question: 
 | Select the **three** best fitting answers
-| 1 Punkt
+| 1 point
 |===
 
 Which THREE of the following principles apply to testing?

@@ -43,7 +43,7 @@ Für welche Art von System kann das Blackboard-Architekturmuster verwendet werde
 |===
 | A-Question:
 | Select one option
-| 1 Point
+| 1 point
 |===
 
 

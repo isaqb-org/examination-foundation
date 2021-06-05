@@ -54,7 +54,7 @@ Welche VIER der folgenden Techniken sind am besten zur Darstellung von Abläufen
 |===
 | P-Question: 
 | Select the **four** best fitting answers
-| 1 Punkt
+| 1 point
 |===
 
 Which FOUR of the following techniques are best suited to illustrate the workflow or behavior of the system at runtime?
