@@ -6,7 +6,7 @@
 |===
 |K-Frage: 
 |Wählen Sie für jede Zeile „Richtig“ oder „Falsch“ aus. 
-| 2 Punkte
+| 1 Punkt
 |===
 
 Stellen Sie sich vor, Sie sind Softwarearchitekt:in für eine große und verteilte Geschäftsanwendung im Banken- oder Versicherungsbereich. 

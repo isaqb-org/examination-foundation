@@ -51,7 +51,7 @@ Geben Sie für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.
 |===
 |K-Question: 
 |Select „true“ or „false" for every line.
-| 2 points
+| 1 point
 |===
 
 Decide for each of the following statements whether it is true or false.
