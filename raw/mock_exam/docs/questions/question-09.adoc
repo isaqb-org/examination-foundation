@@ -6,7 +6,7 @@
 |===
 |K-Frage: 
 |Wählen Sie für jede Zeile „Richtig“ oder „Falsch“ aus. 
-| 2 Punkte
+| 1 Punkt
 |===
 
 Stellen Sie sich vor, Sie sind Softwarearchitekt:in für eine große und verteilte Geschäftsanwendung im Banken- oder Versicherungsbereich. 
@@ -47,7 +47,7 @@ Welche der folgenden Aussagen sind für diese Situation richtig und welche falsc
 |===
 |K-Question: 
 |Select „True" or „False" for every line. 
-| 2 points
+| 1 point
 |===
 
 Put yourself in the position of a software architect for a large, distributed business application in the banking or insurance domain. 
