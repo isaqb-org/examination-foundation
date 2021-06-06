@@ -45,7 +45,7 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 |K-Question: 
-|Select „appropriate“ or „not appropriate" for every line.
+|Select “appropriate” or “not appropriate” for every line.
 | 2 points
 |===
 
