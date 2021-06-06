@@ -61,7 +61,7 @@ Welche der folgenden Aussagen sind typische Gründe zur Führung einer (angemess
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 |K-Question: 
-|Select „typical“ or „not typical" for every line.
+|Select “typical” or “not typical” for every line.
 | 2 points
 |===
 

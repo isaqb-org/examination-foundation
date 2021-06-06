@@ -50,7 +50,7 @@ Was sind die Eigenschaften von enger (hoher) bzw. loser (niedriger) Kopplung?
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 |K-Question: 
-|Select „tight coupling“ or „loose coupling" for each line.
+|Select “tight coupling” or “loose coupling” for each line.
 | 1 point
 |===
 
