@@ -78,7 +78,7 @@ Which of the following statements regarding the information hiding principle are
 | {n}
 | {y} 
 | (c) 
-| Information hiding makes it harder to work bottum-up.
+| Information hiding makes it harder to work bottom-up.
 
 | {n}
 | {y} 
