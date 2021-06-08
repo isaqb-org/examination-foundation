@@ -6,7 +6,7 @@
 |===
 | P-Frage: 
 | Wählen Sie die **vier** am besten passenden Antworten aus
-| 1 Punkt
+| 2 Punkte
 |===
 
 Welche vier der folgenden Punkte sind am besten geeignet, eine qualitative Analyse Ihrer Softwarearchitektur zu unterstützen?
@@ -49,7 +49,7 @@ Welche vier der folgenden Punkte sind am besten geeignet, eine qualitative Analy
 |===
 | P-Question: 
 | Select the **four** best alternatives
-| 1 point
+| 2 points
 |===
 
 Which of the following alternatives are most suitable for supporting a qualitative analysis of your software architecture?
