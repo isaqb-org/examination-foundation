@@ -73,7 +73,7 @@ Which of the following statements regarding project goals and architectural goal
 | {y}
 | {n}
 | (b) 
-| Architectural goals are a derived from the quality requirements for the system or product.
+| Architectural goals are derived from the quality requirements for the system or product.
 
 
 | {n}
@@ -84,7 +84,7 @@ Which of the following statements regarding project goals and architectural goal
 | {n}
 | {y}
 | (d)
-| To avoid conflicts business goals and architectural goals should be non- overlapping sets.
+| To avoid conflicts, business goals and architectural goals should be non- overlapping sets.
 
 |===
 
