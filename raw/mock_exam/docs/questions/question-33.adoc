@@ -57,7 +57,7 @@ Kreuzen Sie an, welche der folgenden Aussagen zu Architektur- /Designentscheidun
 |===
 
 One definition says: “Software architecture is the sum of all the decisions you have taken during development.”
-Check which of the following statements about architectural/design decision is true and which is false.
+Check which of the following statements about architectural/design decisions are true and which are false.
 
 
 [cols="2a,2a,1, 7", frame=none, grid=none]
