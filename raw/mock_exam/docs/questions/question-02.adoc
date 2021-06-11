@@ -28,7 +28,7 @@ Welche DREI der folgenden Aspekte werden durch den Begriff „Softwarearchitektu
 
 | {n}
 | (d) 
-| Datenbankschemata
+| Programmierkonventionen (_coding conventions)
 
 | {n}
 | (e) 
@@ -67,7 +67,7 @@ Which THREE of the following aspects are covered by the term “software archite
 
 | {n}
 | (d)
-| Database schema
+| Coding conventions
 
 | {n}
 | (e)
