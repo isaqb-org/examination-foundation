@@ -67,7 +67,7 @@ Decide for each of the following statements whether it is true or false.
 | {y} 
 | {n}
 | (a)
-| Each iteration of an agile development approach could have a impact on the fundamental architecture decisions.
+| Each iteration of an agile development approach could have an impact on the fundamental architecture decisions.
 
 | {n}
 | {y}
