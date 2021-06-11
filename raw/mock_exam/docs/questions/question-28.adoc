@@ -83,7 +83,7 @@ Which of the following statements about notations for architectural views is tru
 
 | {y}
 | {n}
-| (c)
+| (d)
 | As long as the notation is explained (e.g. by a legend), any notation can be sufficient to describe building block structures and collaboration.
 |===
 
