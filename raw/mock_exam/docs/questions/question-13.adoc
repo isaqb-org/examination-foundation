@@ -59,8 +59,8 @@ Decide for each of the following statements whether it is true or false.
 [cols="2a,2a,1, 7", frame=none, grid=none]
 |===
 
-| appropriate
-| not appropriate
+| true
+| false
 |
 |
 
