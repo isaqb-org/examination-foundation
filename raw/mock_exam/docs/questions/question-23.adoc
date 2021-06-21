@@ -6,30 +6,30 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Frage:
-| Wählen Sie eine Option aus
+| Wählen Sie die zwei zutreffenden Antworten.
 | 1 Punkt
 |===
 
-Für welche Art von System kann das Blackboard-Architekturmuster verwendet werden?
+Für welche Entwurfsprobleme bietet das Pipes & Filter Pattern Lösungsansätze?
 
 [cols="1a,1,8", frame="none", grid="none"]
 |===
 
 | {n}
 | (a)
-| Systeme mit harten Echtzeitanforderungen
+| Verwaltung von globalem Anwendungszustand
 
 | {y}
 | (b)
-| Regelbasierte Systeme
+| Strukturierung von IT-Systemen die Datenströme verarbeiten
+
+| {y}
+| (c)
+| Entkopplung von Verarbeitungsschritten
 
 | {n}
 | (c)
-| Linnés-Systeme
-
-| {n}
-| (c)
-| Sicherheitskritische Systeme
+| Entkopplung von zeitlichen Abhängigkeiten
 |===
 
 // end::DE[]
@@ -47,26 +47,26 @@ Für welche Art von System kann das Blackboard-Architekturmuster verwendet werde
 |===
 
 
-For which kind of system can the Blackboard Architecture pattern be used?
+Which type of problems provide a good fit for the Pipes & Filter Pattern?
 
 [cols="1a,1,8", frame="none", grid="none"]
 |===
 
 | {n} 
 | (a)
-| Hard real-time systems
+| Management of global application state
 
 | {y}
 | (b)
-| Rule-based systems
+| IT systems which process data streams
+
+| {y}
+| (c)
+| Decoupling multiple steps of an execution
 
 | {n}
 | (c)
-| Linnés systems
-
-| {n}
-| (c)
-| Safety critical systems
+| Temporal decoupling of an application  
 |===
 
 // end::EN[]
