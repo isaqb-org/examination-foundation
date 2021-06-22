@@ -5,8 +5,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| A-Frage:
-| Wählen Sie die zwei zutreffenden Antworten.
+| P-Frage:
+| Wählen Sie die zwei am besten zutreffenden Antworten.
 | 1 Punkt
 |===
 
@@ -41,8 +41,8 @@ Für welche Entwurfsprobleme bietet das Pipes & Filter Pattern Lösungsansätze?
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| A-Question:
-| Select one option
+| P-Question:
+| Select the best two options
 | 1 point
 |===
 
