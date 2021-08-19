@@ -28,7 +28,7 @@ Für welche Entwurfsprobleme bietet das Pipes & Filter Pattern Lösungsansätze?
 | Entkopplung von Verarbeitungsschritten
 
 | {n}
-| (c)
+| (d)
 | Entkopplung von zeitlichen Abhängigkeiten
 |===
 
@@ -65,7 +65,7 @@ Which type of problems provide a good fit for the Pipes & Filter Pattern?
 | Decoupling multiple steps of an execution
 
 | {n}
-| (c)
+| (d)
 | Temporal decoupling of an application  
 |===
 
