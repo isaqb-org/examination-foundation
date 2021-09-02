@@ -28,7 +28,7 @@ Welche der folgenden Eigenschaften lässt sich am ehesten durch eine Schichtenar
 | Flexibilität bei der Laufzeit (Konfigurierbarkeit).
 
 | {n}
-| (c)
+| (d)
 | Nichtabstreitbarkeit.
 |===
 
@@ -65,7 +65,7 @@ Which of the following qualities can most likely be improved by using a layered 
 | Flexibility at runtime (configurability).
 
 | {n}
-| (c)
+| (d)
 | Non-repudiability.
 
 |===
