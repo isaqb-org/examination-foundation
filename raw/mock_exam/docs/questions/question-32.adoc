@@ -81,7 +81,7 @@ Check which of the following statements are true and which are false.
 | {y}
 | {n}
 | (b)
-| The client code should be reasonably easy to understand in relation to the functional complexity.
+| It should be possible to write client code for the interface, that is reasonably easy to understand.
 
 | {n}
 | {y}
