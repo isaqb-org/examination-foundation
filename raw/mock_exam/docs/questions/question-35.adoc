@@ -39,7 +39,7 @@ Welche der folgenden Eigenschaftspaare stehen üblicherweise miteinander in Konf
 | {n}
 | {y}
 | (d)
-| Sicherheit – Einhaltung gesetzlicher Vorgaben ("Compliance").
+| Sicherheit – Funktionale Korrektheit.
 
 |===
 
@@ -86,7 +86,7 @@ Which of the following pairs of qualities are usually in conflict to each other,
 | {n}
 | {y}
 | (d)
-| Security – Legal Compliance.
+| Security – Functional correctness.
 
 |===
 
