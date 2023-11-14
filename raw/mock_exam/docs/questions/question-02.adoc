@@ -28,7 +28,7 @@ Welche DREI der folgenden Aspekte werden durch den Begriff „Softwarearchitektu
 
 | {n}
 | (d) 
-| Programmierkonventionen (_coding conventions)
+| Programmierkonventionen (_coding conventions_)
 
 | {n}
 | (e) 
