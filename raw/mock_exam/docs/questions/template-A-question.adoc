@@ -6,7 +6,7 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Frage:
-| Wählen Sie eine Antwort aus
+| Bitte kreuzen Sie die richtige Antwort an.
 | 1 Punkt
 |===
 
@@ -39,7 +39,7 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Question:
-| Select one answer
+| Choose one answer.
 | 1 point
 |===
 
