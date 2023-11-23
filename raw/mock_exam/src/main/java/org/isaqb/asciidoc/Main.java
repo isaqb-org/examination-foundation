@@ -125,7 +125,7 @@ public class Main {
       final String language,
       final String docType,
       final boolean withAnswers) {
-    final String fileVersion = "%s %s - %s".formatted(docType, projectVersion, language);
+    final String fileVersion = "%s %s-%s".formatted(docType, projectVersion, language);
     final String documentVersion = "%s-%s".formatted(fileVersion, versionDate);
 
     final Map<String, Object> attributes = new HashMap<>() {{
