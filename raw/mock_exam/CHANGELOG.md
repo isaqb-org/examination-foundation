@@ -4,8 +4,11 @@ As we maintain binary documents in this repo, we keep a (manually updated) chang
 
 ## Mock Exam Questions
 
-### 2021.3-rev0 (November 2023)
+### 2021.2-rev9 (November 2023)
+Thanks to all contributors for their detailed reviews and suggestions.
 
+- We fixed several smaller structural errors
+- We improved the wording of a few questions/answers.
 
 ### 2021.2-rev0 (May 2021)
 Thanks to all contributors for their detailed reviews and suggestions. 
@@ -19,7 +22,6 @@ We migrated the (binary, docx) content to AsciiDoc.
 Every question is now contained in its own distinct adoc-file.
 
 The technical background is explained in a [blogpost by Ben Wolf and Gernot Starke](https://www.isaqb.org/blog/migrating-the-isaqb-mock-examination-to-asciidoc/):
-
 
 
 ### 2020.1-rev4 (September 7, 2020)
@@ -40,6 +42,12 @@ The technical background is explained in a [blogpost by Ben Wolf and Gernot Star
 - - -
 
 ## Mock Exam Answers
+### 2021.2-rev9 (November 2023)
+Thanks to all contributors for their detailed reviews and suggestions.
+
+- We fixed several smaller structural errors
+- We improved the wording of a few questions/answers.
+
 ### 2020.1-rev3
 - Remove highlight of table header
 - Replace Sample with Mock
