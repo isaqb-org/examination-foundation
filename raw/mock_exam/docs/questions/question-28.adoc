@@ -5,8 +5,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage:
-|Wählen Sie für jede Zeile „richtig“ oder „falsch“ aus.
+| K-Frage:
+| Bitte ordnen Sie jede Antwort einer Kategorie zu.
 | 2 Punkte
 |===
 
