@@ -9,7 +9,7 @@
 | 2 Punkte
 |===
 
-Welche der folgenden Aussagen sind typische Gründe zur Führung einer (angemessenen) Architekturdokumentation und welche nicht?
+Welche der folgenden Aussagen sind typische Gründe zur Einführung einer Architekturdokumentation und welche nicht?
 
 
 [cols="2a,2a,1, 7", frame=none, grid=none]
@@ -65,7 +65,7 @@ Welche der folgenden Aussagen sind typische Gründe zur Führung einer (angemess
 | 2 points
 |===
 
-Which of the following statements are typical reasons for maintaining adequate architecture documentation and which are not typical reasons?
+Which of the following statements are typical reasons for introducing an architecture documentation and which are not typical reasons?
 
 
 [cols="2a,2a,1, 7", frame=none, grid=none]
@@ -110,5 +110,9 @@ Which of the following statements are typical reasons for maintaining adequate a
 // end::EN[]
 
 // tag::EXPLANATION[]
-// end::EXPLANATION[]
 
+==== Explanation 
+
+Read carefully: The question is about the typical reasons for an **introduction** of an architecture documentation.
+
+// end::EXPLANATION[]
