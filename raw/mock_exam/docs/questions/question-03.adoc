@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
-| Wählen Sie die **vier besten** Antworten aus
+| P-Frage:
+| Wählen Sie aus den folgenden sieben Antworten die **vier** Antworten aus, die am besten passen.
 | 2 Punkte
 |===
 
@@ -19,20 +19,20 @@ Welche VIER der folgenden Aussagen zu (Querschnitts-) Konzepten sind am zutreffe
 | Durch die einheitliche Verwendung von Konzepten wird die Kopplung zwischen Bausteinen verringert.
 
 | {n}
-| (b) 
+| (b)
 | Durch die Definition von geeigneten Konzepten wird die Mustertreue der Architektur sichergestellt.
 
 | {y}
-| (c) 
+| (c)
 | Eine einheitliche Ausnahmebehandlung (_Exception Handling_) kann man gut erreichen, indem die
 Architekt:innen mit den Entwickler:innen vor der Implementierung ein geeignetes Konzept vereinbaren.
 
 | {n}
-| (d) 
+| (d)
 | Für jedes Qualitätsziel sollte es ein explizit dokumentiertes Konzept geben.
 
 | {y}
-| (e) 
+| (e)
 | Konzepte sind ein Mittel zur Erhöhung der Konsistenz.
 
 | {y}
@@ -52,8 +52,8 @@ Architekt:innen mit den Entwickler:innen vor der Implementierung ein geeignetes 
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **four** best fitting answers
+| P-Question:
+| From the following seven answers select **four** that fit best.
 | 2 points
 |===
 

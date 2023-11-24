@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
-| Wählen Sie die **zwei** am besten passenden Antworten aus
+| P-Frage:
+| Wählen Sie aus den folgenden fünf Antworten die **zwei** Antworten aus, die am besten passen.
 | 1 Punkt
 |===
 
@@ -20,7 +20,7 @@ Wählen Sie die ZWEI passendsten Antworten aus.
 | Die Anforderungsspezifikation für das System ist vollständig, detailliert und konsistent.
 
 | {y}
-| (b) 
+| (b)
 | Die wichtigsten Qualitätsanforderungen an das System sind bekannt.
 
 | {y}
@@ -28,7 +28,7 @@ Wählen Sie die ZWEI passendsten Antworten aus.
 | Die organisatorischen Randbedingungen sind bekannt.
 
 | {n}
-| (d) 
+| (d)
 | Die Programmiersprache wurde ausgewählt.
 
 | {n}
@@ -44,8 +44,8 @@ Wählen Sie die ZWEI passendsten Antworten aus.
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **two** best fitting answers
+| P-Question:
+| From the following five answers select **two** that fit best.
 | 1 point
 |===
 
@@ -60,11 +60,11 @@ Pick the TWO most appropriate answers.
 | The requirements specification for the system is complete, detailed and consistent.
 
 | {y}
-| (b) 
+| (b)
 | The most important qualities for the system are known.
 
 | {y}
-| (c) 
+| (c)
 | Organizational constraints are known.
 
 | {n}

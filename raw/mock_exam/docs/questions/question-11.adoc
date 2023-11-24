@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
-| Wählen Sie die **drei** besten Optionen aus
+| P-Frage:
+| Wählen Sie aus den folgenden fünf Antworten die **drei** Antworten aus, die am besten passen.
 | 2 Punkte
 |===
 
@@ -20,16 +20,15 @@ Was sind Ihre DREI wichtigsten Aufgaben?
 | Verhandlung des Wartungsbudgets für Ihr Team
 
 | {y}
-| (b) 
+| (b)
 | Sicherstellung einer aktuellen Dokumentation des ausgelieferten Systems
 
 | {y}
-| (c) 
+| (c)
 | Analyse der Auswirkungen von neuen Anforderungen auf das aktuelle System
 
-
 | {n}
-| (d) 
+| (d)
 | Ermunterung der Teammitglieder, neue Programmiersprachen zu lernen
 
 | {y}
@@ -45,8 +44,8 @@ Was sind Ihre DREI wichtigsten Aufgaben?
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Choose the **three** best options
+| P-Question:
+| From the following five answers select **three** that fit best.
 | 2 points
 |===
 
@@ -61,15 +60,15 @@ What are the THREE most important action items on your agenda?
 | Negotiating the maintenance budget for your team
 
 | {y}
-| (b) 
+| (b)
 | Assuring up-to-date documentation of the deployed system
 
 | {y}
-| (c) 
+| (c)
 | Analyzing the impact of new requirements on the current system
 
 | {n}
-| (d) 
+| (d)
 | Encouraging the team members to learn new programming languages
 
 | {y}

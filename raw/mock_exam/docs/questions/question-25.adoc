@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
-|Wählen Sie für jede Zeile „enge Kopplung“ oder „lose Kopplung“ aus.
+| K-Frage:
+| Bitte ordnen Sie jede Antwort einer Kategorie zu.
 | 1 Punkt
 |===
 
@@ -49,8 +49,8 @@ Was sind die Eigenschaften von enger (hoher) bzw. loser (niedriger) Kopplung?
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “tight coupling” or “loose coupling” for each line.
+| K-Question:
+| Assign all answers.
 | 1 point
 |===
 
@@ -65,7 +65,7 @@ What are characteristics of tight (high) or loose (low) coupling?
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | Building blocks directly call dependent building blocks,

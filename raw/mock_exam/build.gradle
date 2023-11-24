@@ -1,98 +1,42 @@
-import org.asciidoctor.gradle.AsciidoctorTask
-
 import java.text.SimpleDateFormat
 
-buildscript {
-    repositories {
-        mavenCentral()
-    }
-
-    dependencies {
-        classpath "org.asciidoctor:asciidoctorj-pdf:1.5.4"
-    }
-}
 plugins {
-    id "org.asciidoctor.convert" version "1.6.0"
+    id "java"
+    id "application"
 }
 
-ext {
-    today = new Date()
-    versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
+def group = "org.isaqb"
+def releaseVersion = System.getenv("RELEASE_VERSION")
+def localVersion = "LocalBuild"
+project.version = releaseVersion == null ? localVersion : releaseVersion
+def curriculumFileName = "mock-exam"
+def versionDate = new SimpleDateFormat("yyyyMMdd").format(new Date())
+def languages = ["DE", "EN"]
 
-    project.version = project.file("./document.version").text
-    fileName = "mock-exam"
-    addSuffixToMockExam = { suffix ->
-        File source = new File("${buildDir}/${fileName}.pdf")
-        File target = new File("${buildDir}/${fileName}${suffix}.pdf")
-
-        source.renameTo(target)
-    }
+repositories {
+    mavenCentral()
 }
 
-class RenderMockExamTask extends AsciidoctorTask {
-    @Inject
-    RenderMockExamTask(String fileName, String versionDate, String language, boolean withAnswers, String docType) {
-
-        sourceDir = new File("./docs/")
-        sources {
-            include "${fileName}.adoc"
-        }
-        outputDir = new File("./build/")
-        separateOutputDirs = false
-        backends 'pdf'
-
-        def fileVersion = project.version.trim() + "-" + language
-
-        attributes = [
-                'icons'           : 'font',
-                'version-label'   : '',
-                'revnumber'       : docType + ' ' + fileVersion,
-                'revdate'         : versionDate,
-                'document-version': docType + ' ' + fileVersion + "-" + versionDate,
-                'currentDate'     : versionDate,
-                'language'        : language,
-                'withAnswers'     : withAnswers,
-                'pdf-stylesdir'   : '../pdf-theme/themes',
-                'pdf-fontsdir'    : '../pdf-theme/fonts',
-                'pdf-style'       : 'isaqb'
-        ]
-    }
+dependencies {
+    implementation("org.asciidoctor:asciidoctorj:2.5.10")
+    implementation("org.asciidoctor:asciidoctorj-pdf:2.3.9")
 }
 
-task buildDocs {
-    group 'Documentation'
-    description 'Grouping task for generating all languages in several formats'
-    dependsOn "renderQuestionsOnlyDE", "renderQuestionsAndAnswersDE", "renderQuestionsOnlyEN", "renderQuestionsAndAnswersEN"
+application {
+    mainClass.set("org.isaqb.asciidoc.Main")
+    applicationDefaultJvmArgs = [
+        """-DprojectVersion=${project.version}""",
+        """-DcurriculumFileName=${curriculumFileName}""",
+        """-DversionDate=${versionDate}""",
+        """-Dlanguages=${languages.join(',')}""",
+        """--add-opens""", """java.base/sun.nio.ch=ALL-UNNAMED""",
+        """--add-opens""", """java.base/java.io=ALL-UNNAMED"""]
 }
 
-task renderQuestionsOnlyDE(type: RenderMockExamTask,
-        constructorArgs: [fileName, versionDate, "DE", false, "Fragebogen"]) {
-    doLast {
-        addSuffixToMockExam("-questions-de")
-    }
+tasks.register('buildDocs') {
+    description = 'Grouping task for generating all languages in several formats'
+    group = 'documentation'
+    dependsOn "run"
 }
-
-task renderQuestionsAndAnswersDE(type: RenderMockExamTask,
-        constructorArgs: [fileName, versionDate, "DE", true, "Antwortbogen"]) {
-    doLast {
-        addSuffixToMockExam("-answers-de")
-    }
-}
-
-
-task renderQuestionsOnlyEN(type: RenderMockExamTask,
-        constructorArgs: [fileName, versionDate, "EN", false, "Question Sheet"]) {
-    doLast {
-        addSuffixToMockExam("-questions-en")
-    }
-}
-
-task renderQuestionsAndAnswersEN(type: RenderMockExamTask,
-        constructorArgs: [fileName, versionDate, "EN", true, "Answer Sheet"]) {
-    doLast {
-        addSuffixToMockExam("-answers-en")
-    }
-}
-
 
 defaultTasks "buildDocs"

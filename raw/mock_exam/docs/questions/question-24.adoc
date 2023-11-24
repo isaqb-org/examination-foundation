@@ -6,7 +6,7 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Frage:
-| Wählen Sie eine Option aus
+| Bitte kreuzen Sie die richtige Antwort an.
 | 1 Punkt
 |===
 
@@ -15,7 +15,7 @@ Welche Ziele versuchen Sie mit dem Dependency-Inversion-Prinzip zu erreichen?
 [cols="1a,1,8", frame="none", grid="none"]
 |===
 
-| {n} 
+| {n}
 | (a)
 | Große Bausteine sollen nicht von kleinen Bausteinen abhängen.
 
@@ -39,8 +39,8 @@ Welche Ziele versuchen Sie mit dem Dependency-Inversion-Prinzip zu erreichen?
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Question:
-| Select one option
-| 1 point
+| Choose one answer.
+| 1 Point
 |===
 
 
@@ -49,7 +49,7 @@ Which goals are you trying to achieve with the dependency inversion principle?
 [cols="1a,1,8", frame="none", grid="none"]
 |===
 
-| {n} 
+| {n}
 | (a)
 | Big building blocks shall not depend on small building blocks.
 

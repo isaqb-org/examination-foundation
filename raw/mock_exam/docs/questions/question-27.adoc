@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
-|Wählen Sie für jede Zeile „richtig“ oder „falsch“ aus.
+| K-Frage:
+| Bitte ordnen Sie jede Antwort einer Kategorie zu.
 | 2 Punkte
 |===
 
@@ -22,7 +22,7 @@ Geben Sie für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | Mündliche Kommunikation sollte schriftliche Dokumentation ergänzen.
@@ -51,8 +51,8 @@ Geben Sie für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “true” or “false” for every line.
+| K-Question:
+| Assign all answers.
 | 2 points
 |===
 
@@ -69,7 +69,7 @@ Decide for each of the following statements whether it is true or false.
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | Verbal communication should supplement written documentation.

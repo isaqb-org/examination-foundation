@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
-| Wählen Sie die **zwei** am besten passenden Antworten aus
+| P-Frage:
+| Wählen Sie aus den folgenden fünf Antworten die **zwei** Antworten aus, die am besten passen.
 | 1 Punkt
 |===
 
@@ -44,8 +44,8 @@ Was bedeutet die Regel „explizit, nicht implizit“ für die Architekturarbeit
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **two** best fitting answers
+| P-Question:
+| From the following five answers select **two** that fit best.
 | 1 point
 |===
 

@@ -1,12 +1,12 @@
 // tag::DE[]
 
-=== Frage 1 
+=== Frage 1
 **ID: Q-20-04-01**
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Frage:
-| Wählen Sie eine Option aus
+| Bitte kreuzen Sie die richtige Antwort an.
 | 1 Punkt
 |===
 
@@ -16,16 +16,16 @@ Wie viele Definitionen des Begriffes "Softwarearchitektur" gibt es?
 [cols="1a,1,8", frame="none", grid="none"]
 |===
 
-| {n} 
+| {n}
 | (a)
 | Genau eine für alle Arten von Systemen.
 
 | {n}
-| (b) 
+| (b)
 | Eine für jede Art von Softwaresystem (z.{nbsp}B. "eingebettet", "Echtzeit", "Entscheidungsunterstützung", "Web", "Batch", …)
 
 | {y}
-| (c) 
+| (c)
 | Ein Dutzend oder mehr unterschiedliche Definitionen.
 |===
 
@@ -38,7 +38,7 @@ Wie viele Definitionen des Begriffes "Softwarearchitektur" gibt es?
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | A-Question:
-| Select one option
+| Choose one answer.
 | 1 point
 |===
 

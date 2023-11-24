@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
-| Wählen Sie die **vier besten** Aspekte aus
+| P-Frage:
+| Wählen Sie aus den folgenden acht Antworten die **vier** Antworten aus, die am besten passen.
 | 1 Punkt
 |===
 
@@ -14,7 +14,7 @@ Welche VIER der folgenden Techniken sind am besten zur Darstellung von Abläufen
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {y} 
+| {y}
 | (a)
 | Flussdiagramme
 
@@ -33,12 +33,15 @@ Welche VIER der folgenden Techniken sind am besten zur Darstellung von Abläufen
 | {n}
 | (e)
 | Lineares Venn-Diagramm
+
 | {y}
 | (f)
 | Nummerierte Liste aufeinanderfolgender Schritte
+
 | {n}
 | (g)
 | Tabellarische Schnittstellenbeschreibung
+
 | {n}
 | (h)
 | Klassendiagramme
@@ -52,8 +55,8 @@ Welche VIER der folgenden Techniken sind am besten zur Darstellung von Abläufen
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **four** best fitting answers
+| P-Question:
+| From the following eight answers select **four** that fit best.
 | 1 point
 |===
 
@@ -62,7 +65,7 @@ Which FOUR of the following techniques are best suited to illustrate the workflo
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {y} 
+| {y}
 | (a)
 | Flowcharts
 
@@ -81,12 +84,15 @@ Which FOUR of the following techniques are best suited to illustrate the workflo
 | {n}
 | (e)
 | Linear Venn diagram
+
 | {y}
 | (f)
 | Numbered list of sequential steps
+
 | {n}
 | (g)
 | Tabular description of interfaces
+
 | {n}
 | (h)
 | Class diagrams

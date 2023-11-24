@@ -20,8 +20,7 @@ endif::withAnswers[]
 // currently only DE and EN are supported
 :language: DE
 
-// ":include_configuration:" always consists of the language, optionally
-// followed by ";REMARK"
+// ":include_configuration:" always consists of the language
 // additional markers might be configured here!
 :include_configuration: tags=**;{language}{explanation};!*
 

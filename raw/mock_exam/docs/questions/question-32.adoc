@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
-|Wählen Sie für jede Zeile „richtig“ oder „falsch“ aus.
+| K-Frage:
+| Bitte ordnen Sie jede Antwort einer Kategorie zu.
 | 2 Punkte
 |===
 
@@ -21,7 +21,7 @@ Kreuzen Sie an, welche der folgenden Aussagen richtig und welche falsch sind.
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | Die Verwendung der Schnittstellen sollte einfach zu erlernen sein.
@@ -56,8 +56,8 @@ Kreuzen Sie an, welche der folgenden Aussagen richtig und welche falsch sind.
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “true” or “false” for every line.
+| K-Question:
+| Assign all answers.
 | 2 points
 |===
 
@@ -103,11 +103,11 @@ Check which of the following statements are true and which are false.
 
 // tag::EXPLANATION[]
 
-==== Explanation 
+==== Explanation
 
-Regarding option (e), "identical behavior in all aspects": 
+Regarding option (e), "identical behavior in all aspects":
 It's technically not feasible to have _identical_ behavior, at least concerning latency,
-and response time. 
+and response time.
 
 A more detailed explanation can be found in the (rather famous) https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing[Fallacies_of_distributed_computing]
 

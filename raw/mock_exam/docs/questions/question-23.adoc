@@ -6,7 +6,7 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Frage:
-| Wählen Sie die **zwei** am besten zutreffenden Antworten.
+| Wählen Sie aus den folgenden vier Antworten die **zwei** Antworten aus, die am besten passen.
 | 1 Punkt
 |===
 
@@ -42,7 +42,7 @@ Für welche Entwurfsprobleme bietet das Pipes & Filter Pattern Lösungsansätze?
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Question:
-| Select the best **two** options
+| From the following four answers select **two** that fit best.
 | 1 point
 |===
 
@@ -52,7 +52,7 @@ Which type of problems provide a good fit for the Pipes & Filter Pattern?
 [cols="1a,1,8", frame="none", grid="none"]
 |===
 
-| {n} 
+| {n}
 | (a)
 | Management of global application state
 
@@ -66,7 +66,7 @@ Which type of problems provide a good fit for the Pipes & Filter Pattern?
 
 | {n}
 | (d)
-| Temporal decoupling of an application  
+| Temporal decoupling of an application
 |===
 
 // end::EN[]

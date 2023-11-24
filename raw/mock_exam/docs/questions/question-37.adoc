@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
-| Wählen Sie die **vier** am besten passenden Antworten aus
+| P-Frage:
+| Wählen Sie aus den folgenden sechs Antworten die **vier** Antworten aus, die am besten passen.
 | 2 Punkte
 |===
 
@@ -47,8 +47,8 @@ Welche vier der folgenden Punkte sind am besten geeignet, die Analyse der Erreic
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **four** best alternatives
+| P-Question:
+| From the following six answers select **four** that fit best.
 | 2 points
 |===
 

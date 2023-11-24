@@ -4,14 +4,14 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
-| Wählen Sie die **drei** am besten passenden Antworten aus
+| P-Frage:
+| Wählen Sie aus den folgenden fünf Antworten die *drei*** Antworten aus, die am besten passen.
 | 1 Punkt
 |===
 
 Sie versuchen, ihre Architektur quantitativ zu untersuchen.
 Welche der folgenden Größen können Sie für Ihre Softwarearchitektur zuverlässig messen?
-Wählen Sie die drei am besten passenden Antworten aus.
+Wählen Sie die DREI am besten passenden Antworten aus.
 
 [cols="1a,1,10", frame=none, grid=none]
 |===
@@ -46,8 +46,8 @@ a| Größe der Bausteine (z.{nbsp}B. Lines-of-Code).
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **three** best fitting answers
+| P-Question:
+| From the following five answers select **three** that fit best.
 | 1 point
 |===
 

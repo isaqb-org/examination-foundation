@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
-| Wählen Sie die **drei** am besten passenden Antworten aus
+| P-Frage:
+| Wählen Sie aus den folgenden fünf Antworten die **drei** Antworten aus, die am besten passen.
 | 1 Punkt
 |===
 
@@ -15,24 +15,24 @@ Kreuzen Sie die DREI zutreffendsten Beispiele für typische Kategorien von Softw
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {y} 
+| {y}
 | (a)
 | Batch-System
 
 | {y}
-| (b) 
+| (b)
 | Interaktives Online-System
 
 | {n}
-| (c) 
+| (c)
 | Linnés-System.
 
 | {y}
-| (d) 
+| (d)
 | Eingebettetes Echtzeitsystem.
 
 | {n}
-| (e) 
+| (e)
 | Integrationstestsystem
 |===
 
@@ -44,8 +44,8 @@ Kreuzen Sie die DREI zutreffendsten Beispiele für typische Kategorien von Softw
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **three** best fitting answers
+| P-Question:
+| From the following five answers select **three** that fit best.
 | 1 point
 |===
 
