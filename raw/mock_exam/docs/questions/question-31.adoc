@@ -5,12 +5,12 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Frage:
-| Wählen Sie die **zwei** am besten passenden Gründe
+| Wählen Sie aus den folgenden vier Antworten die **zwei** Antworten aus, die am besten passen.
 | 1 Punkt
 |===
 
 Die Dokumentation der Softwarearchitektur sollte Beschreibungen der Querschnittskonzepte enthalten.
-Wählen Sie die zwei besten Gründe, warum die Dokumentation von Querschnittskonzepte sinnvoll ist.
+Wählen Sie die ZWEI besten Gründe, warum die Dokumentation von Querschnittskonzepten sinnvoll ist.
 
 
 [cols="1a,1,10", frame=none, grid=none]

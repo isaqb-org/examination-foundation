@@ -5,13 +5,13 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Frage:
-| Wählen Sie die **zwei** am besten passenden Antworten aus
+| Wählen Sie aus den folgenden fünf Antworten die **zwei** Antworten aus, die am besten passen.
 | 1 Punkt
 |===
 
 ISO 25010 enthält allgemeine Qualitätseigenschaften für Softwaresysteme.
 Wie können Qualitätsanforderungen zu diesen Eigenschaften konkretisiert werden?
-Wählen Sie die zwei besten Alternativen aus.
+Wählen Sie die ZWEI besten Alternativen aus.
 
 [cols="1a,1,10", frame=none, grid=none]
 |===

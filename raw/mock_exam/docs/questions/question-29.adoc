@@ -5,11 +5,11 @@
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Frage:
-| Wählen Sie die **zwei** am besten passenden Antworten aus
+| Wählen Sie aus den folgenden vier Antworten die **zwei** Antworten aus, die am besten passen.
 | 1 Punkt
 |===
 
-Welche zwei Architektursichten haben die beste praktische Anwendung für die Entwicklung von Softwarearchitekturen?
+Welche ZWEI Architektursichten haben die beste praktische Anwendung für die Entwicklung von Softwarearchitekturen?
 
 [cols="1a,1,10", frame=none, grid=none]
 |===
