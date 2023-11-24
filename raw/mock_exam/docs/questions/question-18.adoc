@@ -4,7 +4,7 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
+| P-Frage:
 | Wählen Sie die **drei** am häufigsten verwendeten Architektursichten
 | 1 Punkt
 |===
@@ -20,19 +20,19 @@ Welche DREI der folgenden Sichten werden am häufigsten verwendet?
 | Physische Datenbanksicht
 
 | {y}
-| (b) 
+| (b)
 | Kontextsicht
 
 | {y}
-| (c) 
+| (c)
 | Bausteinsicht oder Komponentensicht
 
 | {n}
-| (d) 
+| (d)
 | Testbasierte Sicht
 
 | {n}
-| (e) 
+| (e)
 | Konfigurationssicht
 
 | {y}
@@ -48,8 +48,8 @@ Welche DREI der folgenden Sichten werden am häufigsten verwendet?
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **three** most often used architecture views
+| P-Question:
+| From the following six answers select **three** that fit best.
 | 1 point
 |===
 

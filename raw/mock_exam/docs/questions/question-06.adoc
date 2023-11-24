@@ -1,10 +1,10 @@
 // tag::DE[]
-=== Frage 6 
+=== Frage 6
 **ID: Q-17-13-04**
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
+| P-Frage:
 | Wählen Sie die **drei** besten Aspekte aus
 | 1 Punkt
 |===
@@ -14,37 +14,37 @@ Welche DREI der folgenden Grundsätze gelten für das Testen?
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {y} 
+| {y}
 | (a)
 | Im Allgemeinen ist es nicht möglich, sämtliche Fehler eines Systems zu finden.
 
 | {y}
-| (b) 
+| (b)
 | Bei Komponenten mit vielen bekannten vorherigen Fehlern sind die Chancen für zusätzliche Fehler hoch.
 
 | {n}
-| (c) 
+| (c)
 | Durch ausreichendes Testen kann aufgezeigt werden, dass ein Programm fehlerfrei ist.
 
 | {y}
-| (d) 
+| (d)
 | Durch Testen kann nur die Existenz von Fehlern aufgezeigt werden, nicht jedoch ihre Abwesenheit.
 
 | {n}
-| (e) 
+| (e)
 | Die funktionale Programmierung erlaubt keine automatisierten Tests.
 |===
 
 // end::DE[]
 
 // tag::EN[]
-=== Question 6 
+=== Question 6
 **ID: Q-17-13-04**
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **three** best fitting answers
+| P-Question:
+| From the following five answers select **three** that fit best.
 | 1 point
 |===
 
@@ -53,24 +53,24 @@ Which THREE of the following principles apply to testing?
 [cols="1a,1,10", frame=none, grid=none]
 |===
 
-| {y} 
+| {y}
 | (a)
 | In general, it is not possible to discover all errors in the system.
 
 | {y}
-| (b) 
+| (b)
 | In components with many known previous errors, the chances for additional errors are high.
 
 | {n}
-| (c) 
+| (c)
 | Sufficient testing can show that a program is free of errors.
 
 | {y}
-| (d) 
+| (d)
 | Testing shows the existence of errors rather than the absence of errors.
 
 | {n}
-| (e) 
+| (e)
 | Functional programming does not allow automated testing.
 |===
 

@@ -42,7 +42,7 @@ Für welche Entwurfsprobleme bietet das Pipes & Filter Pattern Lösungsansätze?
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Question:
-| Select the best **two** answers
+| From the following four answers select **two** that fit best.
 | 1 point
 |===
 

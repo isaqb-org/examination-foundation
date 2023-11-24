@@ -4,7 +4,7 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Frage: 
+| P-Frage:
 | Wählen Sie die **drei** am besten passenden Antworten aus
 | 1 Punkt
 |===
@@ -20,19 +20,19 @@ Welche DREI der folgenden Ansätze kommen in der Praxis am häufigsten vor?
 | User-Interface Driven Design
 
 | {y}
-| (b) 
+| (b)
 | Domain-driven Design
 
 | {y}
-| (c) 
+| (c)
 | Sichtenbasierte Architekturentwicklung
 
 | {y}
-| (d) 
+| (d)
 | Bottom-up Design
 
 | {n}
-| (e) 
+| (e)
 | Mehrheitsentscheid
 |===
 
@@ -44,8 +44,8 @@ Welche DREI der folgenden Ansätze kommen in der Praxis am häufigsten vor?
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-| P-Question: 
-| Select the **three** best fitting answers
+| P-Question:
+| From the following five answers select **three** that fit best.
 | 1 point
 |===
 

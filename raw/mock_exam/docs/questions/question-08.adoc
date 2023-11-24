@@ -40,7 +40,7 @@ Was sind die ZWEI wichtigsten Ziele von Softwarearchitektur?
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | P-Question:
-| Choose the **two** best answers
+| From the following four answers select **two** that fit best.
 | 1 point
 |===
 
