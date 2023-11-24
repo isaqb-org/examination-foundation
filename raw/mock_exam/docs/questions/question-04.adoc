@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
-|Wählen Sie für jede Zeile „Geeignet“ oder „Nicht geeignet“ aus. 
+|K-Frage:
+|Wählen Sie für jede Zeile „Geeignet“ oder „Nicht geeignet“ aus.
 | 2 Punkte
 |===
 
@@ -19,20 +19,20 @@ Bei Ihrem Projekt arbeiten drei Architekt:innen und sieben Entwickler:innen an d
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | Die/der leitende Architekt:in koordiniert die Erstellung der Dokumentation.
 
 | {y}
 | {n}
-| (b) 
+| (b)
 | Für die Dokumentation werden identische Vorlagen verwendet.
 
 
 | {n}
-| {y} 
-| (c) 
+| {y}
+| (c)
 | Alle Teile der Dokumentation werden automatisch aus dem Quellcode extrahiert.
 
 |===
@@ -47,8 +47,8 @@ Bei Ihrem Projekt arbeiten drei Architekt:innen und sieben Entwickler:innen an d
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question:
-|Select “appropriate” or “not appropriate” for every line.
+| K-Question:
+| Assign all answers.
 | 2 points
 |===
 
@@ -84,7 +84,7 @@ Which methods are appropriate in order to achieve a consistent and adequate docu
 
 // tag::EXPLANATION[]
 Things like _reasoning_ or _alternatives_ won't be contained in code, but need to be included in documentation,
-therefore not **all** parts of documentation can be extracted from source code. 
+therefore not **all** parts of documentation can be extracted from source code.
 
 // end::EXPLANATION[]
 

@@ -4,7 +4,7 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
+|K-Frage:
 |Wählen Sie für jede Zeile „Konflikt“ oder „Kein Konflikt“ aus.
 | 1 Punkt
 |===
@@ -51,8 +51,8 @@ Welche der folgenden Eigenschaftspaare stehen üblicherweise miteinander in Konf
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “conflicting” or “not conflicting” for every line.
+| K-Question:
+| Assign all answers.
 | 1 point
 |===
 

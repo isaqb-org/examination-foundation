@@ -4,7 +4,7 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
+|K-Frage:
 |Wählen Sie für jede Zeile „Richtig“ oder „Falsch“ aus.
 | 2 Punkte
 |===
@@ -20,14 +20,14 @@ Geben Sie an, welche der folgenden Aussagen zu Projektzielen und Architekturziel
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | Projektziele können funktionale Anforderungen sowie Qualitätsanforderungen umfassen.
 
 | {y}
 | {n}
-| (b) 
+| (b)
 | Architekturziele leiten sich von den Qualitätsanforderungen für das System oder Produkt ab.
 
 | {n}
@@ -49,8 +49,8 @@ Geben Sie an, welche der folgenden Aussagen zu Projektzielen und Architekturziel
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “true” or “false” for every line.
+| K-Question:
+| Assign all answers.
 | 2 points
 |===
 
@@ -65,20 +65,20 @@ Which of the following statements regarding project goals and architectural goal
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | Project Goals can include functional requirements as well as quality requirements.
 
 | {y}
 | {n}
-| (b) 
+| (b)
 | Architectural goals are derived from the quality requirements for the system or product.
 
 
 | {n}
-| {y} 
-| (c) 
+| {y}
+| (c)
 | Business stakeholders should concentrate on business goals and not interfere with architectural goals.
 
 | {n}

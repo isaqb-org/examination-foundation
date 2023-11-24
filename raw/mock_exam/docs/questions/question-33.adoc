@@ -4,7 +4,7 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
+|K-Frage:
 |Wählen Sie für jede Zeile „richtig“ oder „falsch“ aus.
 | 1 Punkt
 |===
@@ -21,7 +21,7 @@ Kreuzen Sie an, welche der folgenden Aussagen zu Architektur- /Designentscheidun
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | Architektonische Entscheidungen können sich in der Struktur der Bausteine oder Komponenten niederschlagen.
@@ -51,8 +51,8 @@ Kreuzen Sie an, welche der folgenden Aussagen zu Architektur- /Designentscheidun
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “true” or “false” for every line.
+| K-Question:
+| Assign all answers.
 | 1 point
 |===
 

@@ -5,7 +5,7 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
+|K-Frage:
 |Wählen Sie für jede Zeile „richtig“ oder „falsch“ aus.
 | 2 Punkte
 |===
@@ -50,8 +50,8 @@ a| Solange die Notation (z.{nbsp}B. mithilfe einer Legende) erläutert wird, kan
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “true” or “false” for every line.
+| K-Question:
+| Assign all answers.
 | 2 points
 |===
 

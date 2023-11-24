@@ -4,8 +4,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
-|Wählen Sie für jede Zeile „Geeignet“ oder „Nicht geeignet“ aus. 
+|K-Frage:
+|Wählen Sie für jede Zeile „Geeignet“ oder „Nicht geeignet“ aus.
 | 2 Punkte
 |===
 
@@ -20,19 +20,19 @@
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | option 1
 
 | {y}
 | {n}
-| (b) 
+| (b)
 | option 2
 
 | {n}
-| {y} 
-| (c) 
+| {y}
+| (c)
 | option 3
 |===
 
@@ -44,8 +44,8 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “appropriate” or “not appropriate” for every line.
+| K-Question:
+| Assign all answers.
 | 2 points
 |===
 
@@ -60,19 +60,19 @@
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | option 1
 
 | {y}
 | {n}
-| (b) 
+| (b)
 | option 2
 
 | {n}
-| {y} 
-| (c) 
+| {y}
+| (c)
 | option 3
 |===
 

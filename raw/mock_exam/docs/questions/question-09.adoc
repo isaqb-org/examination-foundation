@@ -4,12 +4,12 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
-|Wählen Sie für jede Zeile „Richtig“ oder „Falsch“ aus. 
+|K-Frage:
+|Wählen Sie für jede Zeile „Richtig“ oder „Falsch“ aus.
 | 1 Punkt
 |===
 
-Stellen Sie sich vor, Sie sind Softwarearchitekt:in für eine große und verteilte Geschäftsanwendung im Banken- oder Versicherungsbereich. 
+Stellen Sie sich vor, Sie sind Softwarearchitekt:in für eine große und verteilte Geschäftsanwendung im Banken- oder Versicherungsbereich.
 Welche der folgenden Aussagen sind für diese Situation richtig und welche falsch?
 
 
@@ -21,19 +21,19 @@ Welche der folgenden Aussagen sind für diese Situation richtig und welche falsc
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | Ihre Architektur sollte so aufgebaut sein, dass häufig vorkommende Änderungen an den entsprechenden Geschäftsprozessen ohne umfangreiche Umstrukturierungen der Softwarearchitektur möglich sind.
 
 | {y}
 | {n}
-| (b) 
+| (b)
 | Erforderliche Produktqualitäten sollten Ihre architektonischen Entscheidungen leiten.
 
 | {n}
-| {y} 
-| (c) 
+| {y}
+| (c)
 | Die Softwarearchitektur kann völlig unabhängig von Hardware und Infrastruktur entworfen werden.
 |===
 
@@ -45,12 +45,12 @@ Welche der folgenden Aussagen sind für diese Situation richtig und welche falsc
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “true” or “false” for every line. 
+| K-Question:
+| Assign all answers.
 | 1 point
 |===
 
-Put yourself in the position of a software architect for a large, distributed business application in the banking or insurance domain. 
+Put yourself in the position of a software architect for a large, distributed business application in the banking or insurance domain.
 Which of the following statements is true and which is false?
 
 
@@ -62,19 +62,19 @@ Which of the following statements is true and which is false?
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | The architect collaborates with the stakeholders to determine where the requirements and constraints will change often (e.g., business processes, technologies), and designs the architecture such that changes can occur without requiring extensive restructuring of the software architecture.
 
 | {y}
 | {n}
-| (b) 
+| (b)
 | Required product qualities should drive your architectural decisions.
 
 | {n}
-| {y} 
-| (c) 
+| {y}
+| (c)
 | The software architecture can be designed completely independent of the hardware and infrastructure.
 
 |===

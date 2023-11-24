@@ -4,7 +4,7 @@
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Frage: 
+|K-Frage:
 |Wählen Sie für jede Zeile „typisch“ oder „nicht typisch“ aus.
 | 2 Punkte
 |===
@@ -60,8 +60,8 @@ Welche der folgenden Aussagen sind typische Gründe zur Führung einer (angemess
 
 [cols="2,8,2", frame=ends, grid=rows]
 |===
-|K-Question: 
-|Select “typical” or “not typical” for every line.
+| K-Question:
+| Assign all answers.
 | 2 points
 |===
 
@@ -76,7 +76,7 @@ Which of the following statements are typical reasons for maintaining adequate a
 |
 |
 
-| {y} 
+| {y}
 | {n}
 | (a)
 | To support onboarding of new developers.
