@@ -77,7 +77,7 @@ Which FOUR of the following statements about (crosscutting) concepts are most ap
 
 | {n}
 | (d)
-| For each quality goal there should be an explicitly documented concept. Concepts are a means to increase consistency.
+| For each quality goal there should be an explicitly documented concept.
 
 
 | {y}
