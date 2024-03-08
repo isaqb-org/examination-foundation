@@ -6,7 +6,7 @@
 |===
 | P-Frage:
 | Wählen Sie aus den folgenden fünf Antworten die **drei** Antworten aus, die am besten passen.
-| 2 Punkte
+| 1 Punkt
 |===
 
 Was sind Ihre DREI wichtigsten Verantwortlichkeiten als Softwarearchitekt:in in Bezug auf Anforderungen?
@@ -46,7 +46,7 @@ Was sind Ihre DREI wichtigsten Verantwortlichkeiten als Softwarearchitekt:in in 
 |===
 | P-Question:
 | From the following five answers select **three** that fit best.
-| 2 points
+| 1 point
 |===
 
 What are your THREE most important responsibilities as a software architect with respect to requirements?

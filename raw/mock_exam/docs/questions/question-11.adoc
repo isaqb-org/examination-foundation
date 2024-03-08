@@ -6,7 +6,7 @@
 |===
 | P-Frage:
 | Wählen Sie aus den folgenden fünf Antworten die **drei** Antworten aus, die am besten passen.
-| 2 Punkte
+| 1 Punkt
 |===
 
 Sie sind als Architekt:in dafür zuständig, ein Altsystem entsprechend den laufenden Betriebsanforderungen am Laufen zu halten.
@@ -46,7 +46,7 @@ Was sind Ihre DREI wichtigsten Aufgaben?
 |===
 | P-Question:
 | From the following five answers select **three** that fit best.
-| 2 points
+| 1 point
 |===
 
 You are responsible as an architect for keeping a legacy system up and running according to the ongoing requirements of your business.

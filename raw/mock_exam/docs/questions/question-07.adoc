@@ -6,7 +6,7 @@
 |===
 | K-Frage:
 | Bitte ordnen Sie jede Antwort einer Kategorie zu.
-| 1 Punkt
+| 2 Punkte
 |===
 
 Welche der folgenden Aussagen zum Entwurfsprinzip "Information Hiding" sind richtig und welche falsch?
@@ -51,7 +51,7 @@ Welche der folgenden Aussagen zum Entwurfsprinzip "Information Hiding" sind rich
 |===
 | K-Question:
 | Assign all answers.
-| 1 point
+| 2 points
 |===
 
 Which of the following statements regarding the information hiding principle are true and which are false?

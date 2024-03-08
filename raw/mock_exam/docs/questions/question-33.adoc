@@ -6,7 +6,7 @@
 |===
 | K-Frage:
 | Bitte ordnen Sie jede Antwort einer Kategorie zu.
-| 1 Punkt
+| 2 Punkte
 |===
 
 Eine Definition lautet: „Softwarearchitektur ist die Summe aller während der Entwicklung gefällten Entscheidungen“.
@@ -53,7 +53,7 @@ Kreuzen Sie an, welche der folgenden Aussagen zu Architektur- /Designentscheidun
 |===
 | K-Question:
 | Assign all answers.
-| 1 point
+| 2 points
 |===
 
 One definition says: “Software architecture is the sum of all the decisions you have taken during development.”

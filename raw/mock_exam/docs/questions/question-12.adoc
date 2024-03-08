@@ -2,14 +2,11 @@
 === Frage 12
 **ID: Q-21-05-01**
 
-
-
-
 [cols="2,8,2", frame=ends, grid=rows]
 |===
 | K-Frage:
 | Bitte ordnen Sie jede Antwort einer Kategorie zu.
-| 1 Punkt
+| 2 Punkte
 |===
 
 Welche der folgenden Aussagen zu Architekturentscheidungen sind wahr, welche falsch?
@@ -56,7 +53,7 @@ Welche der folgenden Aussagen zu Architekturentscheidungen sind wahr, welche fal
 |===
 | K-Question:
 | Assign all answers.
-| 1 point
+| 2 points
 |===
 
 Which of the following statements regarding architecture decisions are true, which are false?

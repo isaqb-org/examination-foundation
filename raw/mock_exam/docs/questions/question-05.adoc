@@ -6,7 +6,7 @@
 |===
 | P-Frage:
 | Wählen Sie aus den folgenden acht Antworten die **vier** Antworten aus, die am besten passen.
-| 1 Punkt
+| 2 Punkte
 |===
 
 Welche VIER der folgenden Techniken sind am besten zur Darstellung von Abläufen oder Laufzeitverhalten geeignet?
@@ -57,7 +57,7 @@ Welche VIER der folgenden Techniken sind am besten zur Darstellung von Abläufen
 |===
 | P-Question:
 | From the following eight answers select **four** that fit best.
-| 1 point
+| 2 points
 |===
 
 Which FOUR of the following techniques are best suited to illustrate the workflow or behavior of the system at runtime?

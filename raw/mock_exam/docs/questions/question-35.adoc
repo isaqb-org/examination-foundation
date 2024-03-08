@@ -6,7 +6,7 @@
 |===
 | K-Frage:
 | Bitte ordnen Sie jede Antwort einer Kategorie zu.
-| 1 Punkt
+| 2 Punkte
 |===
 
 Welche der folgenden Eigenschaftspaare stehen üblicherweise miteinander in Konflikt und welche nicht?
@@ -53,7 +53,7 @@ Welche der folgenden Eigenschaftspaare stehen üblicherweise miteinander in Konf
 |===
 | K-Question:
 | Assign all answers.
-| 1 point
+| 2 points
 |===
 
 Which of the following pairs of qualities are usually in conflict to each other, and which are not?

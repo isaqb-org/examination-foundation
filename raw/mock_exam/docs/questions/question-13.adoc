@@ -6,7 +6,7 @@
 |===
 | K-Frage:
 | Bitte ordnen Sie jede Antwort einer Kategorie zu.
-| 1 Punkt
+| 2 Punkte
 |===
 
 Geben Sie für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.
@@ -51,7 +51,7 @@ Geben Sie für jede der folgenden Aussagen an, ob sie richtig oder falsch ist.
 |===
 | K-Question:
 | Assign all answers.
-| 1 point
+| 2 points
 |===
 
 Decide for each of the following statements whether it is true or false.
