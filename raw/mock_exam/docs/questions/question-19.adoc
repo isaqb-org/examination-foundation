@@ -46,7 +46,7 @@ Welche ZWEI Informationen sollten in seiner Black-Box-Beschreibung enthalten sei
 | 1 point
 |===
 
-When documenting a building block of your software architecture, which two information should the black-box description contain?
+When documenting a building block of your software architecture, which two pieces of information should the black-box description contain?
 
 [cols="1a,1,10", frame=none, grid=none]
 |===
