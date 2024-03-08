@@ -47,6 +47,7 @@ The following general rules apply:
 
 * Depending on the level of difficulty and the length of the question, you can achieve a score of 1 or 2 points.
 * Correct answers result in plus points, incorrect answers result in a deduction of points, but only with regard to the respective question. If the wrong answer to a question leads to a negative score, this question is evaluated with a total of 0 points.
+* Should you mark more answers with a cross than you are supposed to, you will always get 0 points.
 
 The multiple-choice questions of the mock exam are divided into three types of questions:
 
