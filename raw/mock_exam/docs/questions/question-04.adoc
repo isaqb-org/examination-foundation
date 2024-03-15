@@ -6,7 +6,7 @@
 |===
 | K-Frage:
 | Bitte ordnen Sie jede Antwort einer Kategorie zu.
-| 2 Punkte
+| 1 Punkte
 |===
 
 Bei Ihrem Projekt arbeiten drei Architekt:innen und sieben Entwickler:innen an der Dokumentation der Softwarearchitektur. Welche Methoden eignen sich zur Gewährleistung einer konsistenten und zweckmäßigen Dokumentation und welche nicht?
@@ -49,7 +49,7 @@ Bei Ihrem Projekt arbeiten drei Architekt:innen und sieben Entwickler:innen an d
 |===
 | K-Question:
 | Assign all answers.
-| 2 points
+| 1 point
 |===
 
 In your project, three architects and seven developers are working on the documentation of the software architecture.

@@ -6,7 +6,7 @@
 |===
 | K-Frage:
 | Bitte ordnen Sie jede Antwort einer Kategorie zu.
-| 1 Punkt
+| 2 Punkte
 |===
 
 Was sind die Eigenschaften von enger (hoher) bzw. loser (niedriger) Kopplung?
@@ -51,7 +51,7 @@ Was sind die Eigenschaften von enger (hoher) bzw. loser (niedriger) Kopplung?
 |===
 | K-Question:
 | Assign all answers.
-| 1 point
+| 2 points
 |===
 
 What are characteristics of tight (high) or loose (low) coupling?

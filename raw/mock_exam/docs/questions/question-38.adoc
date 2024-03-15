@@ -6,7 +6,7 @@
 |===
 | P-Frage:
 | Wählen Sie aus den folgenden fünf Antworten die **zwei** Antworten aus, die am besten passen.
-| 2 Punkte
+| 1 Punkt
 |===
 
 Sie versuchen, Ihre Architektur qualitativ zu analysieren.
@@ -47,7 +47,7 @@ Was sind die ZWEI zutreffendsten Anzeichen für architektonische Problembereiche
 |===
 | P-Question:
 | From the following five answers select **two** that fit best.
-| 2 points
+| 1 point
 |===
 
 You try to analyze your architecture quantitatively.

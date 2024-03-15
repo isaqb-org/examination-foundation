@@ -6,7 +6,7 @@
 |===
 | P-Frage:
 | Wählen Sie aus den folgenden fünf Antworten die **zwei** Antworten aus, die am besten passen.
-| 2 Punkte
+| 1 Punkt
 |===
 
 Welche ZWEI Aussagen zum „Don’t repeat yourself”-Prinzip (DRY) treffen am ehesten zu?
@@ -46,7 +46,7 @@ Anders gesagt: Was könnte passieren, wenn Teile des Quellcodes oder der Konfigu
 |===
 | P-Question:
 | From the following five answers select **two** that fit best.
-| 2 points
+| 1 point
 |===
 
 Which two statements about the principle “Don’t repeat yourself” (DRY) fit best?

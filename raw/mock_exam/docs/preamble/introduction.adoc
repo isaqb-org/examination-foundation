@@ -1,14 +1,11 @@
 // tag::DE[]
 == Erläuterungen zur Beispielprüfung Certified Professional for Software Architecture – Foundation Level (CPSA-F^(R)^)
-
 Die vorliegende Prüfung ist eine Beispielprüfung, welche in Form und Umfang an die Zertifizierungsprüfung des Certified Professional for Software Architecture - Foundation Level (CPSA-F^(R)^) angelehnt ist. Sie dient der Veranschaulichung der echten iSAQB^(R)^ CPSA^(R)^-Prüfung sowie der entsprechenden Prüfungsvorbereitung.
-
-Die Beispielprüfung besteht aus 39 Multiple-Choice-Fragen, welche je nach Schwierigkeitsgrad mit 1 bis 2 Punkten bewertet werden können. Es müssen zum Bestehen der Prüfung mindestens 60 Prozent erreicht werden. In dieser Probeprüfung können 51,0 Punkte erreicht werden, zum Bestehen wären 30,6 Punkte erforderlich.
+Die Beispielprüfung besteht aus 39 Multiple-Choice-Fragen, welche je nach Schwierigkeitsgrad mit 1 bis 2 Punkten bewertet werden können. Es müssen zum Bestehen der Prüfung mindestens 60 Prozent erreicht werden. In dieser Probeprüfung können 53,0 Punkte erreicht werden, zum Bestehen wären 31,8 Punkte erforderlich.
 
 Grundsätzlich gelten folgende Hinweise:
 
 * Die maximale Punktzahl pro Frage beträgt je nach Schwierigkeitsgrad oder Umfang 1-2 Punkte.
-
 * richtige Antworten ergeben Pluspunkte, falsche Antworten führen zu Punktabzug, jedoch nur in Bezug auf die jeweilige Frage. Führt die falsche Beantwortung einer Frage zu einem negativen Punktergebnis, so wird diese Frage mit insgesamt 0 Punkten bewertet.
 * Falls Sie mehr Kreuze setzen als gefordert, erhalten Sie grundsätzlich null Punkte.
 
@@ -18,7 +15,7 @@ Es gibt in dieser Beispielprüfung (wie auch in der Originalprüfung) nur folgen
 Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die einzig korrekte Antwort aus. Es gibt nur eine korrekte Antwort. Sie erhalten die angegebene Punktzahl für das Ankreuzen der korrekten Antwort.
 
 **P-Fragen (Mehrfachauswahlfragen, „Pick“):**
-Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die im Text vorgegebene Anzahl von zutreffenden oder korrekten Antworten aus. Kreuzen Sie maximal so viele Antworten an, wie im Einleitungstext verlangt werden. Sie erhalten für jede korrekte Antwort anteilig 1/n der Gesamtpunkte. Für jedes nicht-korrekte Kreuz wird 1/n der Punkte abgezogen. 
+Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die im Text vorgegebene Anzahl von zutreffenden oder korrekten Antworten aus. Kreuzen Sie maximal so viele Antworten an, wie im Einleitungstext verlangt werden. Sie erhalten für jede korrekte Antwort anteilig 1/n der Gesamtpunkte. Für jedes nicht-korrekte Kreuz wird 1/n der Punkte abgezogen.
 
 **K-Fragen (Klärungsfragen, „Kreuz“):**
 Wählen Sie zu einer Frage die korrekte der beiden Optionen zu jeder Antwortmöglichkeit aus („richtig“ oder „falsch“ bzw. „zutreffend“ oder „nicht zutreffend“). Sie erhalten für jedes korrekt gesetzte Kreuz anteilig 1/n der Punkte. Nicht korrekt gesetzte Kreuze führen zum Abzug von 1/n der Punkte. Wird in einer Zeile KEINE Antwort ausgewählt, so gibt es weder Punkte noch Abzüge.
@@ -28,7 +25,7 @@ Zur genaueren Erläuterung der Fragetypen und Punkteverteilung stehen weitere In
 Die Bearbeitungsdauer beträgt 75 Minuten für Muttersprachler und 90 Minuten für Nicht- Muttersprachler. Um eine möglichst authentische Prüfungsvorbereitung zu gewährleisten, sollte die Bearbeitungszeit eingehalten sowie auf jegliche Hilfsmittel (wie Seminarunterlagen, Bücher, Internet etc.) verzichtet werden.
 
 Im Anschluss erfolgt die Auswertung der Prüfung mit Hilfe der Musterlösung.
-Sofern der iSAQB^(R)^ e.V. als Quelle und Copyright-Inhaber angegeben wird, darf die vorliegende Beispielprüfung im Rahmen von Schulungen eingesetzt, zur Prüfungsvorbereitung genutzt oder unentgeltlich weitergegeben werden. 
+Sofern der iSAQB^(R)^ e.V. als Quelle und Copyright-Inhaber angegeben wird, darf die vorliegende Beispielprüfung im Rahmen von Schulungen eingesetzt, zur Prüfungsvorbereitung genutzt oder unentgeltlich weitergegeben werden.
 
 Es ist ausdrücklich untersagt, diese Prüfungsfragen in einer echten Prüfung zu verwenden.
 
@@ -37,16 +34,16 @@ Es ist ausdrücklich untersagt, diese Prüfungsfragen in einer echten Prüfung z
 // tag::EN[]
 == Explanatory notes on the Mock Exam Certified Professional for Software Architecture – Foundation Level (CPSA-F^(R)^)
 Explanations to the mock exam Certified Professional for Software Architecture - Foundation Level (CPSA-F®)
-This examination is a mock exam, which is based on the certification exam of the Certified Professional for Software Architecture - Foundation Level (CPSA-F®) in form and scope. It serves to illustrate the real iSAQB® CPSA® examination as well as to prepare for the corresponding exam.
-The mock exam consists of 39 multiple-choice questions, which can be evaluated with 1 or 2 points depending on the level of difficulty. 
+This examination is a mock exam, which is based on the certification exam of the Certified Professional for Software Architecture - Foundation Level (CPSA-F®) in form and scope. It serves to illustrate the real iSAQB® CPSA-F® examination as well as to prepare for the corresponding exam.
+The mock exam consists of 39 multiple-choice questions, which can be evaluated with 1 or 2 points depending on the level of difficulty.
 At least 60 percent must be achieved to pass the exam.
-
-51.0 points can be achieved in this mock examination, you would need 30.6 points to pass.
+53.0 points can be achieved in this mock examination, you would need 31.8 points to pass.
 
 The following general rules apply:
 
 * Depending on the level of difficulty and the length of the question, you can achieve a score of 1 or 2 points.
 * Correct answers result in plus points, incorrect answers result in a deduction of points, but only with regard to the respective question. If the wrong answer to a question leads to a negative score, this question is evaluated with a total of 0 points.
+* Should you mark more answers with a cross than you are supposed to, you will always get 0 points.
 
 The multiple-choice questions of the mock exam are divided into three types of questions:
 
