@@ -39,7 +39,7 @@ Kreuzen Sie an, welche der folgenden Aussagen richtig und welche falsch sind.
 | {y}
 | {n}
 | (d)
-| Schnittstellenspezifikationen sollten funktionale und nichtfunktionale Aspekte enthalten.
+| Schnittstellenspezifikationen sollten funktionale Aspekte und geforderte Qualitätsmerkmale enthalten.
 
 | {n}
 | {y}
@@ -91,7 +91,7 @@ Check which of the following statements are true and which are false.
 | {y}
 | {n}
 | (d)
-| Interface specifications should contain functional and non-functional aspects.
+| Interface specifications should include functional aspects and required quality attributes.
 
 | {n}
 | {y}
