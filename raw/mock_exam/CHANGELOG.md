@@ -4,6 +4,17 @@ As we maintain binary documents in this repo, we keep a (manually updated) chang
 
 ## Mock Exam Questions
 
+### 2024.2-rev0 (December 2024)
+- We corrected the amount of points for all questions
+- We did some housekeeping regarding asciidoctor and Gradle
+
+### 2024.1-rev0 (February 2024)
+Thanks to all contributors for their detailed reviews and suggestions.
+
+- We unified the wording of A-, P-, and K-questions
+- We improved the wording of a few questions and answers
+- We removed a duplicate answer
+
 ### 2021.2-rev9 (November 2023)
 Thanks to all contributors for their detailed reviews and suggestions.
 
