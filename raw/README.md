@@ -1,5 +1,5 @@
 # About This Directory
-This directory contains all the "raw" files (read: MS Word files) for the mock examination, examination rules etc.
+This directory contains all the "raw" files (read: MS Word files) for the examination rules etc.
 Each subdirectory contains all the available translations for the particular document type.
 
 Example:  

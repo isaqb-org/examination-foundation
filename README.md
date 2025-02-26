@@ -3,6 +3,8 @@ Contains several documents that provide information about the examination of the
 
 ![](explanation-diagram.png)
 
+Note that the Mock exam has moved [here](https://github.com/isaqb-org/foundation-exam-questions/tree/main/mock).
+
 ## Updating documents
 
 1. update the revision number within the documents - **on both title page and footer!**
