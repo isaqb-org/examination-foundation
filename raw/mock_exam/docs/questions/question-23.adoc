@@ -1,0 +1,76 @@
+// tag::DE[]
+
+=== Frage 23
+**ID: Q-20-04-33**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage:
+| Wählen Sie aus den folgenden vier Antworten die **zwei** Antworten aus, die am besten passen.
+| 1 Punkt
+|===
+
+Für welche Entwurfsprobleme bietet das Pipes & Filter Pattern Lösungsansätze?
+
+[cols="1a,1,8", frame="none", grid="none"]
+|===
+
+| {n}
+| (a)
+| Verwaltung von globalem Anwendungszustand
+
+| {y}
+| (b)
+| Strukturierung von IT-Systemen die Datenströme verarbeiten
+
+| {y}
+| (c)
+| Entkopplung von Verarbeitungsschritten
+
+| {n}
+| (d)
+| Entkopplung von zeitlichen Abhängigkeiten
+|===
+
+// end::DE[]
+
+// tag::EN[]
+
+=== Question 23
+**ID: Q-20-04-33**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question:
+| From the following four answers select **two** that fit best.
+| 1 point
+|===
+
+
+Which type of problems provide a good fit for the Pipes & Filter Pattern?
+
+[cols="1a,1,8", frame="none", grid="none"]
+|===
+
+| {n}
+| (a)
+| Management of global application state
+
+| {y}
+| (b)
+| IT systems which process data streams
+
+| {y}
+| (c)
+| Decoupling multiple steps of an execution
+
+| {n}
+| (d)
+| Temporal decoupling of an application
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+

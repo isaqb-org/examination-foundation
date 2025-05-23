@@ -1,0 +1,76 @@
+// tag::DE[]
+=== Frage 19
+**ID: Q-20-04-22**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage:
+| Wählen Sie aus den folgenden vier Antworten die **zwei** Antworten aus, die am besten passen.
+| 1 Punkt
+|===
+
+Sie dokumentieren einen Baustein einer Softwarearchitektur.
+Welche ZWEI Informationen sollten in seiner Black-Box-Beschreibung enthalten sein?
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {y}
+| (a)
+| Öffentliche Schnittstellen.
+
+| {y}
+| (b)
+| Verantwortlichkeiten des Bausteins.
+
+| {n}
+| (c)
+| Interne Struktur des Bausteins.
+
+| {n}
+| (d)
+| Spezifikation von Implementierungsdetails.
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 19
+**ID: Q-20-04-22**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question:
+| From the following four answers select **two** that fit best.
+| 1 point
+|===
+
+When documenting a building block of your software architecture, which two pieces of information should the black-box description contain?
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {y}
+| (a)
+| Public interfaces.
+
+| {y}
+| (b)
+| Responsibility of the building block.
+
+| {n}
+| (c)
+| Internal structure of the building block.
+
+| {n}
+| (d)
+| Specification of the implementation details.
+
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+

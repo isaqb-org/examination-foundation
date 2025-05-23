@@ -1,0 +1,69 @@
+// tag::DE[]
+
+=== Frage 24
+**ID: Q-20-04-20**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| A-Frage:
+| Bitte kreuzen Sie die richtige Antwort an.
+| 1 Punkt
+|===
+
+Welche Ziele versuchen Sie mit dem Dependency-Inversion-Prinzip zu erreichen?
+
+[cols="1a,1,8", frame="none", grid="none"]
+|===
+
+| {n}
+| (a)
+| Große Bausteine sollen nicht von kleinen Bausteinen abhängen.
+
+| {n}
+| (b)
+| Komponenten sollen in der Lage sein, abhängige Komponenten leichter zu erstellen.
+
+| {y}
+| (c)
+| Bausteine sollen nur über Abstraktionen voneinander abhängen.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+
+=== Question 24
+**ID: Q-20-04-20**
+
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| A-Question:
+| Choose one answer.
+| 1 Point
+|===
+
+
+Which goals are you trying to achieve with the dependency inversion principle?
+
+[cols="1a,1,8", frame="none", grid="none"]
+|===
+
+| {n}
+| (a)
+| Big building blocks shall not depend on small building blocks.
+
+| {n}
+| (b)
+| Components shall be able to create dependent components more easily.
+
+| {y}
+| (c)
+| Building blocks shall only depend on each other via abstractions.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+

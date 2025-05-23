@@ -1,0 +1,93 @@
+// tag::DE[]
+=== Frage 7
+**ID: Q-17-13-05**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| K-Frage:
+| Bitte ordnen Sie jede Antwort einer Kategorie zu.
+| 2 Punkte
+|===
+
+Welche der folgenden Aussagen zum Entwurfsprinzip "Information Hiding" sind richtig und welche falsch?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| Richtig
+| Falsch
+|
+|
+
+| {y}
+| {n}
+| (a)
+| Durch die Befolgung des Prinzips "Information Hiding" wird die Flexibilität für Änderungen erhöht.
+
+| {y}
+| {n}
+| (b)
+| Beim Information Hiding werden absichtlich Informationen vor Aufrufern oder Konsumenten des Bausteins verborgen.
+
+| {n}
+| {y}
+| (c)
+| Information Hiding erschwert das Bottom-Up Vorgehen.
+
+| {n}
+| {y}
+| (d)
+| Information Hiding ist abgeleitet vom Ansatz der inkrementellen Verfeinerung entlang des Kontrollflusses.
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 7
+**ID: Q-17-03-05**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| K-Question:
+| Assign all answers.
+| 2 points
+|===
+
+Which of the following statements regarding the information hiding principle are true and which are false?
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| true
+| false
+|
+|
+
+| {y}
+| {n}
+| (a)
+| Adhering to the information hiding principle increases flexibility for modifications.
+
+| {y}
+| {n}
+| (b)
+| Information hiding involves deliberately hiding information from callers or consumers of the building block.
+
+
+| {n}
+| {y}
+| (c)
+| Information hiding makes it harder to work bottom-up.
+
+| {n}
+| {y}
+| (d)
+| Information hiding is a derivative of the approach of incremental refinement along the control flow.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+

@@ -1,0 +1,42 @@
+import java.text.SimpleDateFormat
+
+plugins {
+    id "java"
+    id "application"
+}
+
+def group = "org.isaqb"
+def releaseVersion = System.getenv("RELEASE_VERSION")
+def localVersion = "LocalBuild"
+project.version = releaseVersion == null ? localVersion : releaseVersion
+def curriculumFileName = "mock-exam"
+def versionDate = new SimpleDateFormat("yyyyMMdd").format(new Date())
+def languages = ["DE", "EN"]
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation("org.asciidoctor:asciidoctorj:2.5.13")
+    implementation("org.asciidoctor:asciidoctorj-pdf:2.3.13")
+}
+
+application {
+    mainClass.set("org.isaqb.asciidoc.Main")
+    applicationDefaultJvmArgs = [
+        """-DprojectVersion=${project.version}""",
+        """-DcurriculumFileName=${curriculumFileName}""",
+        """-DversionDate=${versionDate}""",
+        """-Dlanguages=${languages.join(',')}""",
+        """--add-opens""", """java.base/sun.nio.ch=ALL-UNNAMED""",
+        """--add-opens""", """java.base/java.io=ALL-UNNAMED"""]
+}
+
+tasks.register('buildDocs') {
+    description = 'Grouping task for generating all languages in several formats'
+    group = 'documentation'
+    dependsOn "run"
+}
+
+defaultTasks "buildDocs"

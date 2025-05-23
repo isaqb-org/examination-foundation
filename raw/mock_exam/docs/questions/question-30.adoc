@@ -1,0 +1,83 @@
+// tag::DE[]
+=== Frage 30
+**ID: Q-20-04-23**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Frage:
+| Wählen Sie aus den folgenden fünf Antworten die **zwei** Antworten aus, die am besten passen.
+| 1 Punkt
+|===
+
+In der Kontextsicht können Sie einen geschäftlichen Kontext („business context“) und einen technischen Kontext verwenden.
+Wählen Sie die ZWEI am besten passenden Antworten für den technischen Kontext aus.
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {y}
+| (a)
+| Der technische Kontext enthält die physischen Übertragungskanäle zwischen Ihrem System und der Umgebung.
+
+| {n}
+| (b)
+| Der technische Kontext enthält die gesamte Infrastruktur, über die die Komponenten Ihres Systems verteilt werden.
+
+| {n}
+| (c)
+| Der technische Kontext sollte die Hardware-Preisliste oder die Preisgestaltung von Cloud-Diensten, die als Infrastruktur für Ihre Architektur verwendet werden, enthalten.
+
+| {n}
+| (d)
+| Der technische Kontext enthält Informationen zur gewählten Programmiersprache sowie allen zur Implementierung Ihrer Softwarearchitektur verwendeten Frameworks.
+
+| {y}
+| (e)
+| Der technische Kontext enthält gegebenenfalls andere Elemente als der Geschäftskontext ("business context").
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 30
+**ID: Q-20-04-23**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| P-Question:
+| From the following five answers select **two** that fit best.
+| 1 point
+|===
+
+The context view might contain a business context and a technical context, or both.
+Pick the two most appropriate answers that apply to the technical context.
+
+[cols="1a,1,10", frame=none, grid=none]
+|===
+
+| {y}
+| (a)
+| The technical context contains the physical channels between your system and its environment.
+
+| {n}
+| (b)
+| The technical context contains all the infrastructure on which the components of your system are deployed.
+
+| {n}
+| (c)
+| The technical context should include hardware pricing or pricing of cloud services used as infrastructure for your architecture.
+
+| {n}
+| (d)
+| The technical context contains information about the chosen programming language as well as all frameworks used to implement your software architecture.
+
+| {y}
+| (e)
+| The technical context might contain different elements than the business context.
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+

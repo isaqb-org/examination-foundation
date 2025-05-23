@@ -1,0 +1,97 @@
+// tag::DE[]
+=== Frage 35
+**ID: Q-20-04-30**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| K-Frage:
+| Bitte ordnen Sie jede Antwort einer Kategorie zu.
+| 2 Punkte
+|===
+
+Welche der folgenden Eigenschaftspaare stehen üblicherweise miteinander in Konflikt und welche nicht?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| Konflikt
+| Kein Konflikt
+|
+|
+
+
+| {n}
+| {y}
+| (a)
+| Verständlichkeit – Lesbarkeit.
+
+| {y}
+| {n}
+| (b)
+| Benutzerfreundlichkeit – Sicherheit.
+
+| {y}
+| {n}
+| (c)
+| Laufzeitkonfigurierbarkeit – Robustheit.
+
+| {n}
+| {y}
+| (d)
+| Sicherheit – Funktionale Korrektheit.
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Question 35
+**ID: Q-20-04-30**
+
+[cols="2,8,2", frame=ends, grid=rows]
+|===
+| K-Question:
+| Assign all answers.
+| 2 points
+|===
+
+Which of the following pairs of qualities are usually in conflict to each other, and which are not?
+
+
+[cols="2a,2a,1, 7", frame=none, grid=none]
+|===
+
+| conflict
+| no conflict
+|
+|
+
+
+| {n}
+| {y}
+| (a)
+| Understandability – Readability.
+
+| {y}
+| {n}
+| (b)
+| Usability – Security.
+
+| {y}
+| {n}
+| (c)
+| Runtime configurability – Robustness.
+
+| {n}
+| {y}
+| (d)
+| Security – Functional correctness.
+
+|===
+
+// end::EN[]
+
+// tag::EXPLANATION[]
+// end::EXPLANATION[]
+
